@@ -1,0 +1,21 @@
+# AgentClaw — AI Content Nebula
+> 从工具、穿搭、运营到情绪短视频，四个内容站组成 AI 增长系统
+
+## 站点导航
+- AI工具站: https://agentclaw.sale/tool
+- 穿搭站: https://agentclaw.sale/wear
+- 运营站: https://agentclaw.sale/ops
+- 情绪短视频: https://agentclaw.sale/mood
+
+## English
+- AI Tools: https://agentclaw.sale/en/tool
+- Style Guide: https://agentclaw.sale/en/wear
+- Solo OPS: https://agentclaw.sale/en/ops
+- Mood Videos: https://agentclaw.sale/en/mood
+
+## 热门文章
+- [2026年电商小白必看：10款零成本工具把店铺做到月入3万]: https://agentclaw.sale/tool/10-free-ecommerce-tools
+- [胖体型西装选购指南——遮肉显瘦的版型面料全攻略]: https://agentclaw.sale/wear/big-body-suit-guide
+- [一人公司必用15个免费工具——从建站到运营的全链路解决方案]: https://agentclaw.sale/ops/15-free-tools-solo
+- [Google AdSense第一月真实收入——新站收益预期与六步提升策略]: https://agentclaw.sale/ops/adsense-first-month
+- [情绪短视频入门：为什么有的视频能让你看哭，有的看完就划走？]: https://agentclaw.sale/mood/emotion-short-video-basics

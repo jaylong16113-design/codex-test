@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BURBERRY · 图生视频工作台</title>
+  <style>
+    :root{--bg:#0f1115;--card:#171a20;--muted:#8a93a2;--text:#e9edf5;--primary:#d0a96f;--line:#2a313d;}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,"PingFang SC","Hiragino Sans GB",Arial,sans-serif;background:var(--bg);color:var(--text)}
+    .wrap{max-width:1100px;margin:24px auto;padding:0 16px}
+    h1{font-size:28px;margin-bottom:4px} .sub{color:var(--muted);margin-bottom:20px}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px} @media (max-width:900px){.grid{grid-template-columns:1fr}}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+    .card h2{margin:0 0 12px;font-size:18px}
+    label{display:block;margin-bottom:6px;color:#c6cfdd;font-size:13px}
+    input,textarea,select{width:100%;background:#0f131a;border:1px solid #313846;color:#e7ebf3;border-radius:10px;padding:10px;font-size:14px}
+    textarea{min-height:90px;resize:vertical}
+    .row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    .btn{cursor:pointer;background:var(--primary);color:#111;padding:10px 14px;border:none;border-radius:10px;font-weight:700}
+    .btn.secondary{background:#2a313d;color:#d6deea}
+    .btns{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+    .hint{font-size:12px;color:var(--muted);margin-top:6px}
+    .output{white-space:pre-wrap;background:#0d1117;border:1px dashed #404a5c;padding:12px;border-radius:10px;min-height:120px}
+    .steps li{margin-bottom:8px;color:#d7deea}
+    .kpi{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:12px}
+    .kpi .item{background:#11151d;border:1px solid #293141;border-radius:10px;padding:10px}
+    .item strong{display:block;font-size:18px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>BURBERRY 图生视频工具（MVP）</h1>
+    <div class="sub">目标：把“图1人物 + 剧本分镜图2 + 固定JSON提示词”标准化，支持批量复用和商业交付。</div>
+
+    <div class="grid">
+      <section class="card">
+        <h2>1) 项目输入</h2>
+        <label>品牌 / 项目名</label>
+        <input id="projectName" placeholder="例如：BURBERRY 2026 S/S" />
+
+        <div class="row">
+          <div>
+            <label>图1（人物多角度）URL</label>
+            <input id="charImage" placeholder="https://..." />
+          </div>
+          <div>
+            <label>图2（分镜大图）URL（可留空）</label>
+            <input id="storyImage" placeholder="https://..." />
+          </div>
+        </div>
+
+        <label>剧本方向 / 创意 Brief</label>
+        <textarea id="brief" placeholder="输入剧情方向、品牌调性、服装关键词、场景和镜头节奏..."></textarea>
+
+        <label>镜头数量</label>
+        <select id="shotCount">
+          <option>4</option><option selected>6</option><option>8</option><option>10</option>
+        </select>
+
+        <div class="btns">
+          <button class="btn" id="genStoryboard">生成分镜脚本（图2文字版）</button>
+          <button class="btn secondary" id="fillPrompt">填充固定JSON提示词</button>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>2) 分镜脚本输出（可喂给生图）</h2>
+        <div class="output" id="storyboardOut"></div>
+        <div class="hint">你可以将此内容交给你熟悉的文生图模型生成图2，再进入视频阶段。</div>
+      </section>
+    </div>
+
+    <div class="grid" style="margin-top:16px;">
+      <section class="card">
+        <h2>3) 固定JSON提示词（可编辑）</h2>
+        <textarea id="jsonPrompt" style="min-height:340px;"></textarea>
+        <div class="btns">
+          <button class="btn" id="buildFinal">生成即梦调用包</button>
+          <button class="btn secondary" id="downloadJson">下载JSON</button>
+        </div>
+      </section>
+      <section class="card">
+        <h2>4) 即梦（Seedance 2.0）调用包</h2>
+        <div class="output" id="finalPack"></div>
+        <ol class="steps">
+          <li>上传图1（人物多角度）。</li>
+          <li>上传图2（按左侧分镜脚本生成的大图）。</li>
+          <li>粘贴“简短调用词” + 下面完整调用提示。</li>
+          <li>批量化：每条brief自动生成一条调用包。</li>
+        </ol>
+      </section>
+    </div>
+
+    <section class="card" style="margin-top:16px;">
+      <h2>5) 商业化面板（估算）</h2>
+      <div class="row">
+        <div>
+          <label>单条视频成本（tokens或平台成本）</label>
+          <input id="cost" type="number" value="8" />
+        </div>
+        <div>
+          <label>单条对外报价</label>
+          <input id="price" type="number" value="29" />
+        </div>
+      </div>
+      <div class="row">
+        <div>
+          <label>月产量（条）</label>
+          <input id="volume" type="number" value="300" />
+        </div>
+      </div>
+      <div class="kpi">
+        <div class="item"><span>单条毛利</span><strong id="profitEach">-</strong></div>
+        <div class="item"><span>月营收</span><strong id="revenue">-</strong></div>
+        <div class="item"><span>月毛利</span><strong id="profitMonth">-</strong></div>
+      </div>
+    </section>
+  </div>
+
+<script>
+const defaultJson = {
+  "任务类型":"人物一致性提示词",
+  "参考关键词":"图1",
+  "人物来源":"以图1中的人物为唯一参考角色",
+  "角色一致性":{"人物身份":"始终保持图1中的同一位女性人物，不更换角色"},
+  "简短调用词":"以图1中的人物为唯一参考，保持同一位年轻亚洲女性...禁止风格突变。"
+};
+
+const $ = id => document.getElementById(id);
+$('jsonPrompt').value = JSON.stringify(defaultJson, null, 2);
+
+$('genStoryboard').onclick = () => {
+  const brief = $('brief').value.trim() || '都市高端时装广告，强调克制、清冷与面料质感。';
+  const n = Number($('shotCount').value);
+  const lines = [
+    `项目：${$('projectName').value || '未命名项目'}`,
+    `创意方向：${brief}`,
+    `--- 分镜（${n}镜） ---`
+  ];
+  for(let i=1;i<=n;i++){
+    lines.push(`${i}. 镜头${i}：主体保持同一女性角色，服装细节特写与环境氛围切换；运镜平稳、留白、强调材质与品牌距离感。`);
+  }
+  $('storyboardOut').textContent = lines.join('\n');
+};
+
+$('fillPrompt').onclick = () => {
+  try {
+    const obj = JSON.parse($('jsonPrompt').value);
+    obj['品牌项目'] = $('projectName').value || '未命名项目';
+    obj['剧本方向'] = $('brief').value || '';
+    $('jsonPrompt').value = JSON.stringify(obj, null, 2);
+  } catch(e){ alert('JSON格式错误，请先修正。'); }
+};
+
+$('buildFinal').onclick = () => {
+  let shortCall = '请在左侧JSON中填写简短调用词';
+  try { shortCall = JSON.parse($('jsonPrompt').value)['简短调用词'] || shortCall; } catch {}
+  const pack = {
+    engine: '即梦 Seedance 2.0',
+    image_1_character: $('charImage').value || '请上传图1',
+    image_2_storyboard: $('storyImage').value || '请上传图2',
+    fixed_prompt: '用@图1里的角色，适配@图2的剧情，充分体现分镜的内容，生成短视频。',
+    short_call: shortCall,
+    full_json_prompt: JSON.parse($('jsonPrompt').value)
+  };
+  $('finalPack').textContent = JSON.stringify(pack, null, 2);
+};
+
+$('downloadJson').onclick = () => {
+  const blob = new Blob([$('jsonPrompt').value], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `${($('projectName').value||'project').replace(/\s+/g,'_')}_prompt.json`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+};
+
+function calc(){
+  const c=Number($('cost').value||0), p=Number($('price').value||0), v=Number($('volume').value||0);
+  $('profitEach').textContent=(p-c).toFixed(2);
+  $('revenue').textContent=(p*v).toFixed(2);
+  $('profitMonth').textContent=((p-c)*v).toFixed(2);
+}
+['cost','price','volume'].forEach(id=>$(id).oninput=calc); calc();
+</script>
+</body>
+</html>
