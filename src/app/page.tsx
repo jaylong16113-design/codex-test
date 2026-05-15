@@ -5,6 +5,7 @@ import HeroBackground from "@/components/HeroBackground";
 import ShinyHeroTitle from "@/components/ShinyHeroTitle";
 import ControlNodeRings from "@/components/ControlNodeRings";
 import SubscribeSection from "@/components/SubscribeSection";
+import AdUnitWrapper from "@/components/AdUnitWrapper";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -199,6 +200,9 @@ export default function HomePage() {
             ))}
           </div>
         </section>
+
+        {/* ============ AD UNIT ============ */}
+        <AdUnitWrapper />
 
         {/* ============ CONTENT CHANNEL MATRIX ============ */}
         <section id="channels" className="mx-auto max-w-7xl px-6 py-14 md:px-12 md:py-20">
