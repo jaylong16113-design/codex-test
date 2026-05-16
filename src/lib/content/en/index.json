@@ -808,6 +808,16 @@
       "slug": "ai-coding-assistants-compared-2026",
       "title": "AI Coding Assistants Compared 2026: GitHub Copilot vs Cursor vs Claude Code",
       "excerpt": "Head-to-head comparison of GitHub Copilot, Cursor, and Claude Code across real projects — code completion, refactoring, "
+    },
+    {
+      "slug": "ai-meeting-transcription-tools",
+      "title": "AI Meeting Transcription Tools Compared: Fireflies vs Otter.ai vs TL;DV",
+      "excerpt": "Real-world testing of 4 AI meeting transcription tools on accuracy, summary quality, and value for solopreneurs."
+    },
+    {
+      "slug": "ai-proposal-generator-tools",
+      "title": "AI Proposal Generator Tools: Cut Proposal Writing Time by 80%",
+      "excerpt": "Compare Better Proposals, Qwilr, Proposify, and PandaDoc on template quality, AI assistance, and end-to-end signing workflows."
     }
   ],
   "wear": [
@@ -1185,6 +1195,21 @@
       "slug": "fall-winter-2026-mens-fashion",
       "title": "2026 Fall/Winter Men's Fashion Trends: From Runway to Street Style",
       "excerpt": "Comprehensive guide to the four defining men's fashion trends for Fall/Winter 2026 — relaxed tailoring, cargo revival, e"
+    },
+    {
+      "slug": "mens-formal-wear-alternatives",
+      "title": "Men's Business Casual Style Guide: Seamless Transitions from Boardroom to Dinner",
+      "excerpt": "From Blazers to Chinos to Loafers — 4 core Business Casual outfits for all four seasons, plus 8 never-fail styling rules."
+    },
+    {
+      "slug": "denim-care-guide-2026",
+      "title": "The Ultimate Denim Care Guide: How to Make Your Jeans Last 10 Years",
+      "excerpt": "First wash timing, fading control, stain removal, and repair for raw and washed denim. Science-backed methods for jeans that age beautifully."
+    },
+    {
+      "slug": "seasonal-wardrobe-rotation-tips",
+      "title": "Seasonal Wardrobe Rotation: The Space Revolution for Your Closet",
+      "excerpt": "Capsule wardrobe methods, seasonal storage hacks, and a decluttering decision framework for more outfits with fewer pieces."
     }
   ],
   "ops": [
@@ -1572,6 +1597,16 @@
       "slug": "solopreneur-ai-market-research",
       "title": "How Solopreneurs Use AI for Market Research: A ChatGPT + Perplexity Playbook",
       "excerpt": "A complete market research system for solo founders — using ChatGPT for qualitative analysis and Perplexity for real-tim"
+    },
+    {
+      "slug": "freelance-pricing-value-based",
+      "title": "From Hourly to Value-Based Pricing: A Solopreneur's Pricing Upgrade Guide",
+      "excerpt": "Complete methodology for transitioning from hourly billing to value-based pricing — client expectation management, quoting frameworks, and negotiation scripts."
+    },
+    {
+      "slug": "solopreneur-automation-stack",
+      "title": "The Solopreneur Automation Stack: 2026's Most Cost-Effective Efficiency System",
+      "excerpt": "A battle-tested automation tool stack — from n8n workflows to AI customer service — covering your entire business chain for under $50/month."
     }
   ],
   "mood": [
@@ -1838,6 +1873,21 @@
       "slug": "entrepreneur-sleep-optimization",
       "title": "Sleep Optimization for Entrepreneurs: How to Thrive on Less Sleep",
       "excerpt": "Evidence-based sleep optimization system for founders — circadian rhythm resets, caffeine protocols, power nap science, "
+    },
+    {
+      "slug": "founder-impostor-syndrome",
+      "title": "Founder Impostor Syndrome: You're Not a Fraud, You Just Underestimate Yourself",
+      "excerpt": "Why successful founders feel like frauds — 5 signs of impostor syndrome and evidence-based cognitive restructuring techniques."
+    },
+    {
+      "slug": "micro-habits-morning-routine",
+      "title": "15 Minutes Every Morning: How 3 Micro-Habits Transformed My Founder Days",
+      "excerpt": "Three 15-minute micro-habits — gratitude journaling, focused meditation, and daily reading — that measurably improved one founder's decision quality and emotional stability."
+    },
+    {
+      "slug": "creative-block-overcome-founders",
+      "title": "Creative Block Survival Guide: How Founders Reboot Their Creativity in 48 Hours",
+      "excerpt": "Three root causes of creative block, plus a 48-hour recovery protocol across sleep, environment, and input quality."
     }
   ]
 }

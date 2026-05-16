@@ -688,6 +688,16 @@
       "slug": "ai-coding-assistants-compared-2026",
       "title": "2026年AI编程助手实战对比：GitHub Copilot vs Cursor vs Claude Code",
       "excerpt": "在真实项目中对GitHub Copilot、Cursor和Claude Code进行多维度实战测评，从代码补全、重构、调试到项目管理"
+    },
+    {
+      "slug": "ai-meeting-transcription-tools",
+      "title": "AI会议转录工具横评：通义听悟/Fireflies/Otter.ai谁最好用？",
+      "excerpt": "实测对比四款AI会议转录工具，从转写准确率、中文支持、会议摘要质量、价格四个维度给出推荐。"
+    },
+    {
+      "slug": "ai-proposal-generator-tools",
+      "title": "AI提案/项目建议书生成工具推荐：把方案撰写时间缩短80%",
+      "excerpt": "评测Better Proposals、Qwilr、Proposify、PandaDoc四款AI提案工具，从模板丰富度、AI辅助能力、签约流程一体化角度给出选择建议。"
     }
   ],
   "wear": [
@@ -1065,6 +1075,21 @@
       "slug": "fall-winter-2026-mens-fashion",
       "title": "2026秋冬男装趋势前瞻：从T台到街头的穿搭灵感",
       "excerpt": "深度解析2026秋冬男装四大核心趋势——宽松轮廓、工装复兴、大地色革新和智能面料，附真实穿搭公式和品牌推荐"
+    },
+    {
+      "slug": "mens-formal-wear-alternatives",
+      "title": "男装商务休闲穿搭指南：从会议室到餐厅的无缝切换",
+      "excerpt": "从Blazer到Chinos到乐福鞋，详解4套商务休闲核心搭配方案，覆盖春夏秋冬四季场景，附8个不踩雷的搭配原则。"
+    },
+    {
+      "slug": "denim-care-guide-2026",
+      "title": "牛仔裤养护终极指南：一条原牛穿10年的秘密",
+      "excerpt": "从首次下水到日常保养、从褪色控制到破洞修复，用科学方法和实操经验教你让牛仔裤越穿越有味道。"
+    },
+    {
+      "slug": "seasonal-wardrobe-rotation-tips",
+      "title": "换季衣橱整理指南：男士衣柜的空间革命",
+      "excerpt": "问题不在衣服数量，而在衣橱系统。分享胶囊衣橱整理方法、换季收纳技巧和断舍离决策框架，用最少衣服穿出最多搭配。"
     }
   ],
   "ops": [
@@ -1442,6 +1467,16 @@
       "slug": "solopreneur-ai-market-research",
       "title": "一人公司如何用AI做市场调研：ChatGPT + Perplexity 实战方案",
       "excerpt": "为一人创业者和独立开发者量身打造的市场调研系统——用ChatGPT做定性分析、Perplexity做实时搜索，手把手教程"
+    },
+    {
+      "slug": "freelance-pricing-value-based",
+      "title": "从计时到价值：一人公司的定价升级指南",
+      "excerpt": "从按小时计费到按价值定价的转型方法论，包含客户期望管理、报价策略框架和谈判话术模板，助你将客单价提升3倍。"
+    },
+    {
+      "slug": "solopreneur-automation-stack",
+      "title": "一人公司自动化工具箱：2026年最值得投资的效率系统",
+      "excerpt": "一套经过验证的一人公司自动化工具栈，从n8n工作流到飞书多维表格到AI客服，覆盖业务全链条，月成本控制在500元以内。"
     }
   ],
   "mood": [
@@ -1779,6 +1814,21 @@
       "slug": "entrepreneur-sleep-optimization",
       "title": "创业者睡眠优化指南：每天5小时也能精力充沛的秘诀",
       "excerpt": "基于睡眠科学和硅谷创业者的实战经验，教你通过睡眠周期优化、咖啡因策略和晨间仪式在短睡眠下维持巅峰状态"
+    },
+    {
+      "slug": "founder-impostor-syndrome",
+      "title": "创业者冒名顶替综合征：你不是骗子，你只是低估了自己",
+      "excerpt": "为什么越成功越觉得自己是「冒牌货」？深入分析冒名顶替综合征的5个典型表现，提供一套科学验证的认知重构方法，帮助创业者摆脱自我怀疑。"
+    },
+    {
+      "slug": "micro-habits-morning-routine",
+      "title": "早晨15分钟：我用3个微习惯改变了创业状态",
+      "excerpt": "三个只需15分钟的晨间微习惯——感恩日记、单点冥想和十分钟阅读——如何改变了一位创业者的决策质量和情绪状态。"
+    },
+    {
+      "slug": "creative-block-overcome-founders",
+      "title": "创意枯竭怎么办：创业者的创作力恢复指南",
+      "excerpt": "独立创业最怕的不是没有流量，而是大脑一片空白。深入分析创意瓶颈的三个根源，提供48小时内重拾灵感的完整恢复方案。"
     }
   ]
 }
