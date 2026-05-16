@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         XHS / REDnote Automation v3
 // @namespace    https://tampermonkey.net/
-// @version      3.0.0
+// @version      3.1.0
 // @description  小红书/REDnote 自动评论助手（风控规避 + 断点续跑 + GLM生成）
 // @author       codex
 // @match        *://*.xiaohongshu.com/*
@@ -205,11 +205,35 @@
     ].join('\n');
   }
 
-  function callGLM(prompt) {
+  function pickGLMModel(hasImage, selectedModel) {
+    if (!hasImage) return selectedModel;
+    if (selectedModel === 'glm-4.7') return selectedModel;
+    return 'glm-4.6v-flashx';
+  }
+
+  function callGLM(prompt, meta = null) {
     return new Promise((resolve, reject) => {
       const apiKey = GM_getValue(KEYS.apiKey, '').trim();
-      const model = GM_getValue(KEYS.model, CFG.defaultModel);
+      const selectedModel = GM_getValue(KEYS.model, CFG.defaultModel);
+      const hasImage = !!(meta?.imgUrls?.length && meta.imgUrls[0]);
+      const model = pickGLMModel(hasImage, selectedModel);
       if (!apiKey) return reject(new Error('未配置 GLM API Key'));
+
+      const messages = hasImage
+        ? [{
+          role: 'user',
+          content: [
+            {
+              type: 'image_url',
+              image_url: { url: meta.imgUrls[0] }
+            },
+            {
+              type: 'text',
+              text: prompt
+            }
+          ]
+        }]
+        : [{ role: 'user', content: prompt }];
 
       GM_xmlhttpRequest({
         method: 'POST',
@@ -221,7 +245,7 @@
         data: JSON.stringify({
           model,
           temperature: 0.85,
-          messages: [{ role: 'user', content: prompt }]
+          messages
         }),
         onload: (resp) => {
           try {
@@ -253,20 +277,42 @@
   }
 
   async function postCommentOnNote(noteEl, commentText) {
-    noteEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    await sleep(rnd(500, 1400));
+    const cover = qFirst(['a.cover', '.cover', 'a'], noteEl);
+    const openTarget = cover || noteEl;
+    openTarget.click();
+    await sleep(rnd(3000, 5000));
 
-    const input = qFirst(getSelectors().commentInput) || qFirst(['textarea'], noteEl);
+    humanJitterScroll();
+    await sleep(rnd(1600, 3200));
+
+    const inputActivate = qFirst(['.not-active.inner-when-not-active > *', '.not-active .inner-when-not-active > *']);
+    if (inputActivate) {
+      inputActivate.click();
+      await sleep(rnd(400, 1000));
+    }
+
+    const input = qFirst(['.content-input', ...getSelectors().commentInput]) || qFirst(['textarea']);
     if (!input) throw new Error('未找到评论输入框');
     input.focus();
-    input.value = commentText;
+    if (typeof input.value === 'string') {
+      input.value = commentText;
+    } else {
+      input.innerText = commentText;
+    }
     input.dispatchEvent(new Event('input', { bubbles: true }));
     await sleep(rnd(600, 1600));
 
-    const submit = qFirst(getSelectors().submitBtn) || [...document.querySelectorAll('button')].find((b) => /发布|发送|评论/.test(b.textContent || ''));
+    const submit = qFirst(['.btn.submit.gray', ...getSelectors().submitBtn]) || [...document.querySelectorAll('button')].find((b) => /发布|发送|评论/.test(b.textContent || ''));
     if (!submit) throw new Error('未找到提交按钮');
+    if (submit.disabled) submit.disabled = false;
     submit.click();
     await sleep(rnd(1000, 2200));
+
+    const closeBtn = qFirst(['.close.close-mask-dark', '.close-mask-dark', '.close']);
+    if (closeBtn) {
+      closeBtn.click();
+      await sleep(rnd(900, 1800));
+    }
   }
 
   async function processOneNote(noteEl) {
@@ -278,7 +324,7 @@
     const injectSilentDiary = shouldInjectSilentDiary();
     const prompt = buildPrompt(meta, injectSilentDiary);
 
-    const comment = await withRetry(async () => callGLM(prompt));
+    const comment = await withRetry(async () => callGLM(prompt, meta));
     await withRetry(async () => postCommentOnNote(noteEl, comment));
 
     state.commentedNoteIds.push(meta.noteId);
