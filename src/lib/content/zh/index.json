@@ -678,6 +678,16 @@
       "slug": "ai-duopingtai-kefu-yitong-zhinan",
       "title": "AI多平台客服一通指南：从淘宝到TikTok Shop，一个后台管所有店铺消息",
       "excerpt": "淘宝千牛、拼多多消息、抖音后台、TikTok Shop、Shopify Inbox……5个后台来回切换？教你用AI搭建统一客服中台，所有平台消息一个面板处理，自动回复率70%+。"
+    },
+    {
+      "slug": "ai-speech-to-text-tools-compared",
+      "title": "AI语音转文字工具横评：Whisper vs 通义听悟 vs 讯飞，谁最准最快？",
+      "excerpt": "深度实测OpenAI Whisper、通义听悟和讯飞听见三大语音转文字工具的中英文准确率、转写速度和性价比，含完整对比表格和场景推荐"
+    },
+    {
+      "slug": "ai-coding-assistants-compared-2026",
+      "title": "2026年AI编程助手实战对比：GitHub Copilot vs Cursor vs Claude Code",
+      "excerpt": "在真实项目中对GitHub Copilot、Cursor和Claude Code进行多维度实战测评，从代码补全、重构、调试到项目管理"
     }
   ],
   "wear": [
@@ -1025,6 +1035,36 @@
       "slug": "zhongnian-shangwu-xiuxian-gouwu-zhinan",
       "title": "中年男士商务休闲穿搭购物指南：从面料选择到色彩搭配的完整攻略",
       "excerpt": "面向中年创业者和职场人士的商务休闲购物指南，从四季面料选择、中性色体系搭建、版型优化技巧出发，给出春夏秋冬四套穿搭方案与品牌推荐，帮助用最少单品构建最高效的商务休闲衣柜。"
+    },
+    {
+      "slug": "business-casual-coffee-office",
+      "title": "商务休闲风穿搭：从办公室到咖啡店的无缝切换指南",
+      "excerpt": "商务休闲风(Business Casual)的完整穿搭指南，涵盖单品选择、面料知识、颜色搭配，让你从会议室到咖啡店都得体有型"
+    },
+    {
+      "slug": "summer-mens-short-sleeve-guide",
+      "title": "夏季男士短袖衬衫选购：面料、版型、颜色全攻略",
+      "excerpt": "夏季男士短袖衬衫选购完整指南，从面料、版型到颜色搭配，包含20+品牌推荐和避坑指南，让你清凉过夏"
+    },
+    {
+      "slug": "leather-shoe-care-101",
+      "title": "皮鞋保养入门：让你的好鞋穿上十年",
+      "excerpt": "皮鞋保养完整指南，从清洁、滋养、抛光到收纳的全流程教学，含工具推荐、操作步骤和常见错误，让你的皮鞋历久弥新"
+    },
+    {
+      "slug": "mens-basic-wardrobe-guide",
+      "title": "男士基础款衣橱指南：10件单品搞定所有场合",
+      "excerpt": "胶囊衣橱完整指南，10件核心单品搭配出无限可能，从面试到约会到社交全覆盖，省时省钱更有型"
+    },
+    {
+      "slug": "fit-men-style-gym-street",
+      "title": "健身男士的穿搭智慧：从健身房到街头无缝过渡",
+      "excerpt": "健身男士从健身房到日常街头的穿搭指南，涵盖训练装备选购、过渡穿搭技巧、面料选择和品牌推荐"
+    },
+    {
+      "slug": "fall-winter-2026-mens-fashion",
+      "title": "2026秋冬男装趋势前瞻：从T台到街头的穿搭灵感",
+      "excerpt": "深度解析2026秋冬男装四大核心趋势——宽松轮廓、工装复兴、大地色革新和智能面料，附真实穿搭公式和品牌推荐"
     }
   ],
   "ops": [
@@ -1372,6 +1412,36 @@
       "slug": "zi-dong-peisong-liucheng-youhua",
       "title": "自动配送流程优化：独立电商卖家的履约效率提升指南",
       "excerpt": "本文为独立电商卖家提供一套完整的配送流程自动化方案，涵盖订单路由分发、批量打单与标签生成、承运商比价选择、退货处理自动化以及物流追踪集成等关键环节。通过ShipStation、Easyship等工具的实际操作指南，帮助单人运营者将日均履约耗时从数小时压缩至数十分钟，显著提升发货效率和客户满意度。"
+    },
+    {
+      "slug": "solopreneur-tax-planning-guide",
+      "title": "一人公司税务筹划入门：每年省下几万块的合法策略",
+      "excerpt": "独立开发者和一人公司必看的税务筹划指南，涵盖个体户/公司对比、费用抵扣清单、税务优化策略，合法省下真金白银。"
+    },
+    {
+      "slug": "indie-dev-user-interviews",
+      "title": "独立开发者用户访谈指南：用5个问题找到产品方向",
+      "excerpt": "独立开发者如何用低成本用户访谈验证产品方向？本文提供完整的访谈框架、5个核心问题和避坑指南，帮你做出用户真正想要的产品。"
+    },
+    {
+      "slug": "solopreneur-pricing-strategies",
+      "title": "一人公司的定价策略：从免费到高价的完整路径",
+      "excerpt": "独立开发者和一人公司的产品定价完整指南：免费策略、低价验证、价值定价、高价转型，每个阶段的定价方法和实战案例。"
+    },
+    {
+      "slug": "remote-team-tools-2026",
+      "title": "2026年远程团队协作工具选型：Notion vs Slack vs 飞书",
+      "excerpt": "2026年远程团队协作工具深度对比：Notion、Slack、飞书、Linear、Lark Suite，从消息、文档、项目管理到视频会议的全维评测。"
+    },
+    {
+      "slug": "content-monetization-roadmap",
+      "title": "自媒体变现路径：从0开始月入1万的真实路线图",
+      "excerpt": "从零开始的自媒体变现路线图，覆盖平台选择、内容策略、粉丝增长和七种变现方式，提供从0到月入1万元的真实操作方案。"
+    },
+    {
+      "slug": "solopreneur-ai-market-research",
+      "title": "一人公司如何用AI做市场调研：ChatGPT + Perplexity 实战方案",
+      "excerpt": "为一人创业者和独立开发者量身打造的市场调研系统——用ChatGPT做定性分析、Perplexity做实时搜索，手把手教程"
     }
   ],
   "mood": [
@@ -1679,6 +1749,36 @@
       "slug": "duli-chuangye-bijiao-xintai-duihua",
       "title": "独立创业者的比较心魔：当我看到别人月入百万，我该怎么办？",
       "excerpt": "刷到朋友融资千万、同行月入百万，为什么别人的成功总让你觉得自己不够好？本文深入分析比较心魔的三个来源，提供一套经过验证的四步认知重构法，把嫉妒真正变成前行的燃料。"
+    },
+    {
+      "slug": "minimalist-week-experiment",
+      "title": "极简主义者的一周生活实验：我扔掉了50件东西",
+      "excerpt": "一个创业者亲身实践的极简主义生活实验——扔掉50件东西后，时间、精力和决策质量发生了什么变化"
+    },
+    {
+      "slug": "attention-management-deep-work",
+      "title": "从刷手机到专心工作：一个创业者的注意力管理术",
+      "excerpt": "独立创业者如何从日均刷手机4小时到完成每天3小时深度工作——一套可复制的注意力管理方法"
+    },
+    {
+      "slug": "self-care-solo-entrepreneur",
+      "title": "独居创业者的自我关怀：对抗孤独与倦怠的5个方法",
+      "excerpt": "独居创业者如何在无人互动的生活中对抗孤独感和职业倦怠——5个经过验证的自我关怀策略"
+    },
+    {
+      "slug": "loneliness-entrepreneurship-coping",
+      "title": "创业很孤独，但你不必独自承受——应对创业孤独感指南",
+      "excerpt": "创业者的内心孤独远比融资困难更普遍——一份应对创业孤独感的实用指南，包含4个实操策略"
+    },
+    {
+      "slug": "meditation-founder-daily-life",
+      "title": "每天15分钟：一个忙碌创业者如何用冥想改变了生活",
+      "excerpt": "一个每天工作12小时的独立创业者如何通过每天15分钟冥想改善了决策质量、情绪稳定性和睡眠质量"
+    },
+    {
+      "slug": "entrepreneur-sleep-optimization",
+      "title": "创业者睡眠优化指南：每天5小时也能精力充沛的秘诀",
+      "excerpt": "基于睡眠科学和硅谷创业者的实战经验，教你通过睡眠周期优化、咖啡因策略和晨间仪式在短睡眠下维持巅峰状态"
     }
   ]
 }
