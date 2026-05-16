@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Video Breakdown — 分镜脚本</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d1117;color:#e6edf3;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;min-height:100vh}
+.container{max-width:1200px;margin:0 auto;padding:20px}
+
+header{display:flex;align-items:center;gap:12px;margin-bottom:24px;padding-bottom:16px;border-bottom:1px solid #30363d}
+header h1{font-size:22px;font-weight:700;background:linear-gradient(135deg,#58a6ff,#bc8cff);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+header .sub{color:#8b949e;font-size:13px}
+
+.input-bar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}
+.input-bar input[type=url]{flex:1;min-width:200px;padding:10px 14px;background:#161b22;border:1px solid #30363d;border-radius:8px;color:#e6edf3;font-size:14px;outline:none;transition:border .2s}
+.input-bar input[type=url]:focus{border-color:#58a6ff}
+.btn-start{padding:10px 28px;background:#238636;border:none;border-radius:8px;color:#fff;font-size:14px;font-weight:600;cursor:pointer;transition:background .2s}
+.btn-start:hover{background:#2ea043}
+.btn-start:disabled{background:#21262d;color:#484f58;cursor:not-allowed}
+
+.progress-wrap{background:#161b22;border-radius:8px;padding:14px 18px;margin-bottom:24px;display:none}
+.progress-wrap.active{display:block}
+.progress-header{display:flex;justify-content:space-between;margin-bottom:6px;font-size:13px}
+.progress-step{color:#58a6ff;font-weight:600}
+.progress-pct{color:#8b949e}
+progress{width:100%;height:6px;-webkit-appearance:none;appearance:none;border:none;border-radius:3px;overflow:hidden;background:#21262d}
+progress::-webkit-progress-bar{background:#21262d;border-radius:3px}
+progress::-webkit-progress-value{background:linear-gradient(90deg,#58a6ff,#bc8cff);border-radius:3px;transition:width .5s}
+
+/* ── 分镜脚本 ── */
+.script-section{display:none}
+.script-section.active{display:block}
+
+.script-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:20px}
+.script-header h2{font-size:18px;color:#e6edf3}
+.script-header button{padding:6px 16px;background:#21262d;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:12px;cursor:pointer;transition:all .2s}
+.script-header button:hover{background:#30363d;border-color:#58a6ff;color:#fff}
+
+.shot-row{display:flex;gap:20px;margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #21262d}
+.shot-row:last-child{border-bottom:none}
+
+.shot-frame{flex:0 0 320px;max-width:320px}
+.shot-frame img{width:100%;height:auto;border-radius:8px;border:1px solid #30363d;cursor:pointer;transition:border-color .2s}
+.shot-frame img:hover{border-color:#58a6ff}
+.shot-frame .time-label{font-size:11px;color:#8b949e;margin-top:6px;text-align:center}
+
+.shot-text{flex:1;min-width:0}
+.shot-text .shot-title{font-size:16px;font-weight:700;color:#58a6ff;margin-bottom:8px}
+.shot-text .shot-meta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.shot-text .meta-tag{font-size:11px;padding:3px 10px;border-radius:999px;background:#1c2541;color:#8bafd6;border:1px solid #58a6ff20}
+.shot-text .meta-tag.emotion{background:#411c1c;color:#d68b8b;border-color:#ff585820}
+.shot-text .detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:4px 20px;margin:6px 0}
+.shot-text .detail-item{font-size:12px;color:#c9d1d9;line-height:1.6}
+.shot-text .detail-item .label{color:#8b949e;font-weight:600}
+.shot-text .scene-text{font-size:13px;color:#e6edf3;line-height:1.7;margin-top:8px;padding:10px 14px;background:#0d1117;border-radius:6px;border-left:3px solid #58a6ff40}
+.shot-text .keywords{margin-top:8px;display:flex;flex-wrap:wrap;gap:4px}
+.shot-text .keywords span{font-size:10px;padding:2px 8px;background:#21262d;border-radius:4px;color:#8b949e}
+
+/* ── AI叙事文案 ── */
+.script-narrative{margin-top:32px;padding:24px;background:#161b22;border:1px solid #30363d;border-radius:12px;display:none}
+.script-narrative.active{display:block}
+.script-narrative h3{font-size:15px;color:#58a6ff;margin-bottom:16px}
+.script-narrative .content{font-size:14px;line-height:1.9;color:#c9d1d9;white-space:pre-wrap}
+.script-narrative .content em{color:#bc8cff;font-style:normal}
+
+/* ── 空状态 ── */
+.empty-state{text-align:center;padding:80px 20px;color:#484f58}
+.empty-state .icon{font-size:48px;margin-bottom:16px}
+.empty-state h3{font-size:16px;margin-bottom:6px;color:#8b949e}
+
+@media(max-width:768px){
+  .shot-row{flex-direction:column}
+  .shot-frame{flex:0 0 auto;max-width:100%}
+  .detail-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>🎬 Video Breakdown</h1>
+    <span class="sub">导演级分镜分析</span>
+  </header>
+
+  <div class="input-bar">
+    <input type="url" id="urlInput" placeholder="粘贴抖音 / 小红书视频链接..." />
+    <button class="btn-start" id="startBtn">🚀 开始分析</button>
+  </div>
+
+  <div class="progress-wrap" id="progressWrap">
+    <div class="progress-header">
+      <span class="progress-step" id="stepText">排队中...</span>
+      <span class="progress-pct" id="pctText">0%</span>
+    </div>
+    <progress id="progressBar" value="0" max="100"></progress>
+  </div>
+
+  <div class="script-section" id="scriptSection">
+    <div class="script-header">
+      <h2>📋 分镜脚本</h2>
+      <button onclick="window.print()">🖨 打印</button>
+    </div>
+    <div id="shotsContainer"></div>
+    <div class="script-narrative" id="narrativeSection">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+        <h3 style="margin:0">🎬 导演叙事分析</h3>
+        <button id="copyBtn" style="padding:6px 18px;background:#21262d;border:1px solid #30363d;border-radius:6px;color:#c9d1d9;font-size:12px;cursor:pointer;display:flex;align-items:center;gap:6px;transition:all .2s" onclick="copyScript()">
+          📋 复制全文
+        </button>
+      </div>
+      <div class="content" id="narrativeContent"></div>
+    </div>
+  </div>
+
+  <div id="emptyState"><div class="empty-state">
+    <div class="icon">🎥</div>
+    <h3>输入视频链接，开始分析</h3>
+    <p>AI导演级逐帧分析 · 微表情 · 光影运镜 · 完整分镜脚本</p>
+  </div></div>
+</div>
+
+<script>
+const el = id => document.getElementById(id);
+const esc = s => { const d=document.createElement('div'); d.textContent=s||''; return d.innerHTML; };
+
+function renderShot(f, idx){
+  const a = f.analysis || {};
+  const fe = a.facial_expression || {};
+  const md = fe.micro_details || {};
+  const ca = a.character_action || {};
+  const li = a.lighting || {};
+  const col = a.color_analysis || {};
+  const nar = a.narrative || {};
+  const cin = a.cinematography || {};
+
+  return `<div class="shot-row">
+    <div class="shot-frame">
+      <img src="${esc(f.frame_url)}" alt="镜头${idx}" loading="lazy" onclick="window.open(this.src)" />
+      <div class="time-label">⏱ ${esc(f.time)}</div>
+    </div>
+    <div class="shot-text">
+      <div class="shot-title">【镜头 ${idx}】${esc(a.shot_type||'')} · ${esc(a.camera_movement||'')}</div>
+      <div class="shot-meta">
+        <span class="meta-tag">🎯 ${esc(a.shot_type||'?')}</span>
+        <span class="meta-tag">📹 ${esc(a.camera_movement||'?')}</span>
+        <span class="meta-tag">🎨 ${esc(a.composition||'?')}</span>
+        ${fe.primary_emotion ? `<span class="meta-tag emotion">😊 ${esc(fe.primary_emotion)}</span>` : ''}
+        ${nar.tension != null ? `<span class="meta-tag">⚡ 张力${(nar.tension*100).toFixed(0)}%</span>` : ''}
+      </div>
+      <div class="detail-grid">
+        ${cin.camera_height ? `<div class="detail-item"><span class="label">机位</span> ${esc(cin.camera_height)}</div>` : ''}
+        ${cin.lens ? `<div class="detail-item"><span class="label">镜头</span> ${esc(cin.lens)}</div>` : ''}
+        ${cin.focus ? `<div class="detail-item"><span class="label">对焦</span> ${esc(cin.focus)}</div>` : ''}
+        ${li.atmosphere ? `<div class="detail-item"><span class="label">光影</span> ${esc(li.atmosphere)}</div>` : ''}
+        ${li.key_light_direction ? `<div class="detail-item"><span class="label">主光</span> ${esc(li.key_light_direction)}</div>` : ''}
+        ${col.dominant_color ? `<div class="detail-item"><span class="label">色调</span> ${esc(col.dominant_color)}</div>` : ''}
+        ${col.color_grading ? `<div class="detail-item"><span class="label">调色</span> ${esc(col.color_grading)}</div>` : ''}
+        ${nar.beat ? `<div class="detail-item"><span class="label">叙事</span> ${esc(nar.beat)}</div>` : ''}
+      </div>
+      <div class="detail-grid">
+        ${ca.pose ? `<div class="detail-item"><span class="label">姿势</span> ${esc(ca.pose)}</div>` : ''}
+        ${ca.movement ? `<div class="detail-item"><span class="label">运动</span> ${esc(ca.movement)}</div>` : ''}
+        ${ca.gesture ? `<div class="detail-item"><span class="label">手势</span> ${esc(ca.gesture)}</div>` : ''}
+        ${ca.body_language ? `<div class="detail-item"><span class="label">肢体</span> ${esc(ca.body_language)}</div>` : ''}
+      </div>
+      <div class="detail-grid">
+        ${md.eyebrows ? `<div class="detail-item"><span class="label">眉</span> ${esc(md.eyebrows)}</div>` : ''}
+        ${md.eyes ? `<div class="detail-item"><span class="label">眼</span> ${esc(md.eyes)}</div>` : ''}
+        ${md.mouth ? `<div class="detail-item"><span class="label">嘴</span> ${esc(md.mouth)}</div>` : ''}
+        ${fe.intensity != null ? `<div class="detail-item"><span class="label">情绪强度</span> ${(fe.intensity*100).toFixed(0)}%</div>` : ''}
+      </div>
+      ${fe.emotion_change ? `<div class="scene-text">🔄 ${esc(fe.emotion_change)}</div>` : ''}
+      ${a.scene ? `<div class="scene-text">${esc(a.scene)}</div>` : ''}
+      ${Array.isArray(a.keywords) && a.keywords.length ? `<div class="keywords">${a.keywords.map(k => `<span>#${esc(k)}</span>`).join('')}</div>` : ''}
+    </div>
+  </div>`;
+}
+
+let currentTaskId = null;
+
+async function poll(){
+  if(!currentTaskId) return;
+  const r = await fetch('/api/tasks/' + currentTaskId);
+  const d = await r.json();
+  el('stepText').textContent = d.step || '处理中...';
+  el('pctText').textContent = (d.progress || 0) + '%';
+  el('progressBar').value = d.progress || 0;
+
+  if(Array.isArray(d.frames) && d.frames.length > 0){
+    const container = el('shotsContainer');
+    const existing = container.querySelectorAll('.shot-row').length;
+    for(let i = existing; i < d.frames.length; i++){
+      const tmp = document.createElement('div');
+      tmp.innerHTML = renderShot(d.frames[i], i+1);
+      const row = tmp.firstElementChild;
+      if(row) container.appendChild(row);
+    }
+    el('scriptSection').classList.add('active');
+    el('emptyState').style.display = 'none';
+  }
+
+  // 叙事文案（完成后显示）
+  if(d.full_analysis && d.full_analysis.script){
+    el('narrativeContent').textContent = d.full_analysis.script;
+    el('narrativeSection').classList.add('active');
+  }
+
+  if(!d.done){
+    setTimeout(poll, 1500);
+  } else {
+    el('stepText').textContent = '✅ 完成!';
+    el('startBtn').disabled = false;
+    el('urlInput').disabled = false;
+  }
+}
+
+el('startBtn').onclick = async function(){
+  const url = el('urlInput').value.trim();
+  if(!url) return;
+  this.disabled = true;
+  el('urlInput').disabled = true;
+  el('shotsContainer').innerHTML = '';
+  el('narrativeSection').classList.remove('active');
+  el('scriptSection').classList.remove('active');
+  el('emptyState').style.display = 'block';
+  el('progressWrap').classList.add('active');
+
+  const fd = new FormData();
+  fd.append('url', url);
+
+  try {
+    const r = await fetch('/api/analyze', {method:'POST', body:fd});
+    const d = await r.json();
+    currentTaskId = d.task_id;
+    poll();
+  } catch(e){
+    el('shotsContainer').innerHTML = `<div style="color:#f85149;text-align:center;padding:40px">❌ 失败: ${e.message}</div>`;
+    this.disabled = false;
+    el('urlInput').disabled = false;
+  }
+};
+
+// ── 复制文案 ──
+function copyScript(){
+  const text = el('narrativeContent').textContent;
+  if(!text) return;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = el('copyBtn');
+    btn.textContent = '✅ 已复制!';
+    setTimeout(() => { btn.innerHTML = '📋 复制全文'; }, 2000);
+  }).catch(() => {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    document.body.removeChild(ta);
+    const btn = el('copyBtn');
+    btn.textContent = '✅ 已复制!';
+    setTimeout(() => { btn.innerHTML = '📋 复制全文'; }, 2000);
+  });
+}
+</script>
+</body>
+</html>
