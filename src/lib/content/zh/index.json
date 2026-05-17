@@ -698,6 +698,16 @@
       "slug": "ai-proposal-generator-tools",
       "title": "AI提案/项目建议书生成工具推荐：把方案撰写时间缩短80%",
       "excerpt": "评测Better Proposals、Qwilr、Proposify、PandaDoc四款AI提案工具，从模板丰富度、AI辅助能力、签约流程一体化角度给出选择建议。"
+    },
+    {
+      "slug": "ai-note-taking-tools-2026",
+      "title": "2026年AI笔记工具横评：Notion AI vs Obsidian vs Mem vs Reflect",
+      "excerpt": "四款主流AI笔记工具深度对比，覆盖AI功能、协作能力、定价和知识图谱等维度。根据独立开发者的不同使用场景给出实测推荐。"
+    },
+    {
+      "slug": "ai-landing-page-generators",
+      "title": "AI自动生成落地页工具：5款工具实测对比",
+      "excerpt": "实测对比5款AI落地页生成工具——10web AI、Durable、Framer AI、Unicorn Platform、Landing.ai，从设计质量、转化能力到加载速度全面测评。"
     }
   ],
   "wear": [
@@ -1090,6 +1100,16 @@
       "slug": "seasonal-wardrobe-rotation-tips",
       "title": "换季衣橱整理指南：男士衣柜的空间革命",
       "excerpt": "问题不在衣服数量，而在衣橱系统。分享胶囊衣橱整理方法、换季收纳技巧和断舍离决策框架，用最少衣服穿出最多搭配。"
+    },
+    {
+      "slug": "custom-suit-common-mistakes",
+      "title": "定做西服的10个常见陷阱——第一次定制必读避坑指南",
+      "excerpt": "第一次定制西服容易踩哪些坑？从面料选择、量体时机到版型沟通和细节设计，每个陷阱包含反面案例和正确做法，帮你第一次就做对。"
+    },
+    {
+      "slug": "spring-summer-capsule-wardrobe",
+      "title": "春夏男装胶囊衣橱：10件单品搞定整个季节",
+      "excerpt": "春夏季节穿搭不用复杂。精选10件核心单品——亚麻西装、Chinos、牛津纺衬衫、乐福鞋等，涵盖商务和休闲两种场景，每件单品附带选购要点和多套搭配方案。"
     }
   ],
   "ops": [
@@ -1477,6 +1497,21 @@
       "slug": "solopreneur-automation-stack",
       "title": "一人公司自动化工具箱：2026年最值得投资的效率系统",
       "excerpt": "一套经过验证的一人公司自动化工具栈，从n8n工作流到飞书多维表格到AI客服，覆盖业务全链条，月成本控制在500元以内。"
+    },
+    {
+      "slug": "google-helpful-content-ai-2026",
+      "title": "AI生成内容如何通过Google有用内容更新——2026实操指南",
+      "excerpt": "2026年Google HCU对AI内容的评判标准全面升级。本文从E-E-A-T在AI时代的应用出发，提供Human-in-the-loop策略和内容质量审核清单，让你的AI内容安全通过Google审核。"
+    },
+    {
+      "slug": "pricing-strategy-indie-founders",
+      "title": "独立开发者定价策略：从免费到付费的完整决策框架",
+      "excerpt": "定价是独立开发者面临的最难决策之一。本文提供从Value-based定价到定价心理学的完整框架，覆盖SaaS、按需付费、一次性购买等模型的优劣势分析和实战案例。"
+    },
+    {
+      "slug": "newsletter-monetization-solopreneur",
+      "title": "一人公司的Newsletter变现指南：从0到月入5000美元的实操路径",
+      "excerpt": "Newsletter是独立开发者最高效的变现方式之一。本文从三种变现模式出发，对比Substack、Beehiiv和ConvertKit，提供从免费读者到付费订阅用户的完整转化路径。"
     }
   ],
   "mood": [
@@ -1829,6 +1864,21 @@
       "slug": "creative-block-overcome-founders",
       "title": "创意枯竭怎么办：创业者的创作力恢复指南",
       "excerpt": "独立创业最怕的不是没有流量，而是大脑一片空白。深入分析创意瓶颈的三个根源，提供48小时内重拾灵感的完整恢复方案。"
+    },
+    {
+      "slug": "energy-management-solopreneurs",
+      "title": "独立创业者的能量管理：精力才是你的核心资本",
+      "excerpt": "时间管理已经不够用了。本文提出能量管理四维度模型——身体能量、情绪能量、精神能量和意义能量，并提供能量审计方法和每日能量节奏设计工具，帮助独立创业者在有限时间内产出更高价值。"
+    },
+    {
+      "slug": "founder-social-support-system",
+      "title": "创业者的社交支持系统：别再一个人扛",
+      "excerpt": "独立创业者最容易被忽视的是社交孤立。本文提供一套社交支持系统搭建指南，从线上社群选择到线下meetup参与方法，帮助你在孤独创业路上找到同路人。"
+    },
+    {
+      "slug": "failure-as-experimentation-founder",
+      "title": "失败是实验数据：创业者如何看待试错",
+      "excerpt": "从科学方法角度重新定义失败——失败不是终点而是实验数据点。本文提供如何设计低成本实验性决策、如何从失败中提取可迁移教训的完整方法论。"
     }
   ]
 }

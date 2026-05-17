@@ -833,6 +833,16 @@
       "slug": "ai-data-scraping-web-research-2026",
       "title": "AI Data Scraping & Web Research Tools for Solopreneurs 2026: 5 Tools That Automate Market Intelligence",
       "excerpt": "Discover 5 AI data scraping & web research tools for solopreneurs 2026. Compare pricing, features, and use cases for automated market intelligence."
+    },
+    {
+      "slug": "ai-note-taking-tools-2026",
+      "title": "AI Note-Taking Tools Compared 2026: Notion AI vs Obsidian vs Mem vs Reflect",
+      "excerpt": "A deep comparison of four leading AI note-taking tools. Evaluated across AI features, collaboration, pricing, and knowledge graph capabilities with recommendations for different use cases."
+    },
+    {
+      "slug": "ai-landing-page-generators",
+      "title": "AI Landing Page Generators: 5 Tools Tested and Compared",
+      "excerpt": "Hands-on comparison of five AI landing page tools—10web AI, Durable, Framer AI, Unicorn Platform, and Landing.ai—evaluated on design quality, conversion optimization, and page speed."
     }
   ],
   "wear": [
@@ -1230,6 +1240,16 @@
       "slug": "gym-to-office-transitional-style-2026",
       "title": "Gym-to-Office Style: 7 Transitional Pieces Every Modern Man Needs in 2026",
       "excerpt": "Master gym-to-office dressing with 7 transitional pieces blending performance fabrics and professional style. Build a commute-ready wardrobe in 2026."
+    },
+    {
+      "slug": "custom-suit-common-mistakes",
+      "title": "10 Common Custom Suit Mistakes: Your First Tailoring Adventure Guide",
+      "excerpt": "A first-time custom suit buyer's essential guide. Ten common pitfalls from fabric selection to fitting timing and detail overdesign, with before-and-after comparisons for each."
+    },
+    {
+      "slug": "spring-summer-capsule-wardrobe",
+      "title": "Spring-Summer Capsule Wardrobe for Men: 10 Pieces, Endless Outfits",
+      "excerpt": "Build a spring-summer capsule wardrobe with 10 core pieces—linen suits, chinos, oxford shirts, loafers and more. Covers both business and casual occasions with buying guides and outfit combinations."
     }
   ],
   "ops": [
@@ -1627,6 +1647,21 @@
       "slug": "solopreneur-automation-stack",
       "title": "The Solopreneur Automation Stack: 2026's Most Cost-Effective Efficiency System",
       "excerpt": "A battle-tested automation tool stack — from n8n workflows to AI customer service — covering your entire business chain for under $50/month."
+    },
+    {
+      "slug": "google-helpful-content-ai-2026",
+      "title": "Passing Google's Helpful Content Update with AI-Generated Content: A 2026 Playbook",
+      "excerpt": "Google's HCU standards for AI content have evolved in 2026. A practical playbook covering E-E-A-T in the AI age, human-in-the-loop strategies, and a content quality audit checklist."
+    },
+    {
+      "slug": "pricing-strategy-indie-founders",
+      "title": "Pricing Strategy for Indie Founders: A Complete Framework from Free to Premium",
+      "excerpt": "A comprehensive pricing decision framework for indie founders. Covering value-based vs cost-based pricing, pricing psychology, and a comparison of SaaS, one-time, and freemium models."
+    },
+    {
+      "slug": "newsletter-monetization-solopreneur",
+      "title": "Newsletter Monetization for Solopreneurs: From Zero to $5K/Month",
+      "excerpt": "The complete path to monetizing your newsletter. Three revenue models compared—sponsorships, paid subscriptions, and product cross-sells—with platform comparisons and funnel strategies."
     }
   ],
   "mood": [
@@ -1913,6 +1948,21 @@
       "slug": "ai-music-generation-content-creators-2026",
       "title": "AI Music Generation for Content Creators 2026: 5 Tools Compared for Viral Short Videos",
       "excerpt": "Compare 5 AI music tools for short-form content in 2026. Suno, Udio, MusicFX, AudioCraft & Beatoven compared for quality, pricing & viral video use cases."
+    },
+    {
+      "slug": "energy-management-solopreneurs",
+      "title": "Energy Management for Solopreneurs: Why Energy, Not Time, Is Your Real Capital",
+      "excerpt": "Time management has reached its limits. This guide introduces a four-dimensional energy management model—physical, emotional, mental, and meaning energy—with practical audit methods and daily rhythm design."
+    },
+    {
+      "slug": "founder-social-support-system",
+      "title": "Building Your Social Support System as a Founder: You Don't Have to Do This Alone",
+      "excerpt": "Social isolation is the silent killer of solopreneur success. A practical guide to building your support network—online communities, mastermind groups, and local meetups."
+    },
+    {
+      "slug": "failure-as-experimentation-founder",
+      "title": "Failure as Data: How Founders Reframe Experimentation",
+      "excerpt": "Reframe failure using the scientific method. Learn to design low-cost experiments, extract transferable lessons from setbacks, and maintain psychological safety to keep innovating."
     }
   ]
 }
