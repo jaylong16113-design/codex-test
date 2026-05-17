@@ -843,6 +843,26 @@
       "slug": "ai-landing-page-generators",
       "title": "AI Landing Page Generators: 5 Tools Tested and Compared",
       "excerpt": "Hands-on comparison of five AI landing page tools—10web AI, Durable, Framer AI, Unicorn Platform, and Landing.ai—evaluated on design quality, conversion optimization, and page speed."
+    },
+    {
+      "slug": "ai-google-business-profile-tools-2026",
+      "title": "Top 7 AI Tools for Google Business Profile Optimization in 2026",
+      "excerpt": "Compare the 7 best AI tools for Google Business Profile optimization in 2026. From automated review responses to AI-generated posts, find out which tools boost your local SEO ranking."
+    },
+    {
+      "slug": "ai-content-humanization-tools-2026",
+      "title": "Best AI Content Humanization Tools in 2026: 6 Tools That Bypass Detection",
+      "excerpt": "Compare the 6 best AI content humanization tools in 2026. Undetectable AI, Humanize AI, WriteHuman, GPTInf, BypassGPT, and Netus AI tested for readability, detection bypass rates, and pricing."
+    },
+    {
+      "slug": "ai-tools-freelance-designers-2026",
+      "title": "10 Best AI Tools for Freelance Designers in 2026: From Mockups to Client Delivery",
+      "excerpt": "Discover the 10 best AI tools for freelance designers in 2026. From AI mockup generators to logo creators and UI prototyping, find the tools that cut design time by 70% and impress clients."
+    },
+    {
+      "slug": "ai-resume-job-search-tools-2026",
+      "title": "AI Resume & Job Search Tools 2026: 8 Platforms That Land Interviews Faster",
+      "excerpt": "Compare the 8 best AI resume and job search tools in 2026. From AI resume builders and job match algorithms to interview coaches and salary negotiators, find tools that help US professionals land jobs faster."
     }
   ],
   "wear": [
@@ -1295,6 +1315,11 @@
       "slug": "mens-scarf-guide-fall-winter",
       "title": "The Complete Guide to Men's Scarves: Fall and Winter Styling",
       "excerpt": "A scarf is the easiest way to elevate your fall and winter outfits — if you know how to wear it right."
+    },
+    {
+      "slug": "sustainable-fashion-tech-ai-2026",
+      "title": "Sustainable Fashion Tech 2026: 5 AI Tools That Are Changing How We Dress",
+      "excerpt": "Discover 5 AI tools revolutionizing sustainable fashion in 2026. From AI fabric recycling to virtual try-on reducing returns, learn how technology is making fashion more eco-friendly."
     }
   ],
   "ops": [
@@ -1752,6 +1777,21 @@
       "slug": "solopreneur-legal-compliance",
       "title": "Legal Compliance for Solopreneurs: From Registration to Everyday Operations",
       "excerpt": "Small doesn't mean risk-free. A practical guide to legal compliance for one-person businesses."
+    },
+    {
+      "slug": "ai-etsy-shop-automation-2026",
+      "title": "How to Automate Your Etsy Shop with AI: A Solopreneur's Playbook for 2026",
+      "excerpt": "Automate your Etsy shop with AI tools in 2026. From listing optimization and keyword research to automated customer service and pricing, this playbook shows solopreneurs how to scale their Etsy business without hiring help."
+    },
+    {
+      "slug": "ai-grant-writing-tools-2026",
+      "title": "AI Grant Writing Guide for Small Businesses: 5 Tools That Unlock Funding in 2026",
+      "excerpt": "Unlock small business grants with AI grant writing tools in 2026. Compare Grantable, Instrumentl, GrantWriter AI, FundingBox, and OpEd AI for proposal generation, grant matching, and submission tracking."
+    },
+    {
+      "slug": "ai-customer-retention-playbook-2026",
+      "title": "AI-Powered Customer Retention Playbook: 7 Strategies for US Online Stores in 2026",
+      "excerpt": "Boost customer retention with AI in 2026. This playbook covers 7 strategies including AI loyalty programs, predictive churn analysis, personalized re-engagement, and automated win-back campaigns for US e-commerce stores."
     }
   ],
   "mood": [
@@ -2113,6 +2153,16 @@
       "slug": "quality-solitude-practices",
       "title": "The Art of Quality Solitude: Intentional Alone Time for Deep Work and Renewal",
       "excerpt": "Solitude isn't loneliness — it's a strategic choice. Master the art of intentional alone time for deeper thinking."
+    },
+    {
+      "slug": "ai-digital-twins-creators-2026",
+      "title": "AI Digital Twins for Creators in 2026: 5 Ways Solopreneurs Clone Themself",
+      "excerpt": "Discover how solopreneurs and creators are using AI digital twins in 2026 to scale their presence. From video avatars to AI voice clones, learn how to be everywhere at once without burning out."
+    },
+    {
+      "slug": "ai-journaling-apps-solopreneur-2026",
+      "title": "How AI Journaling Apps Are Transforming Solopreneur Mental Health in 2026",
+      "excerpt": "Discover how AI journaling apps are helping solopreneurs manage mental health in 2026. Compare Day One AI, Rosebud, DeepJournal, and more for guided reflection, mood tracking, and cognitive reframing."
     }
   ]
 }
