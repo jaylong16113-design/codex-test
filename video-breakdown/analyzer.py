@@ -2,10 +2,15 @@ import base64
 import json
 import os
 import subprocess
+<<<<<<< ours
 import tempfile
 import time
 from datetime import timedelta
 from typing import Any, Dict, List, Optional
+=======
+import time
+from datetime import timedelta
+>>>>>>> theirs
 
 import cv2
 import imageio_ffmpeg
@@ -13,6 +18,7 @@ import requests
 
 PROXIES = {"http": "socks5://172.20.144.1:10808", "https": "socks5://172.20.144.1:10808"}
 APIMART_KEY = "sk-YUigljr9O06hsDHogF5F5npPHiixAS05A7xHdsWBSxemu3tB"
+<<<<<<< ours
 APIMART_BASE = "https://api.apimart.ai/v1"
 
 DIRECTOR_PROMPT = """你是一位顶级的电影导演和分镜师，正在为这部电影做逐帧分析。你现在看到的这个画面是视频中的一帧，请以极致的细节输出JSON格式分析，包含以下所有字段：
@@ -107,6 +113,21 @@ def _get_duration(video_path: str) -> float:
     cap.release()
     if fps > 0 and total > 0:
         return total / fps
+=======
+APIMART_BASE = "https://api.apimart.com/v1"
+
+PROMPT = "你是一位资深电影导演和分镜师。分析这个视频帧画面，输出严格的JSON格式，包含以下所有字段：1. shot_type 2. camera_movement 3. composition 4. color_analysis 5. lighting 6. scene 7. character_action 8. facial_expression 9. narrative 10. keywords。只返回JSON，不要其他文字。"
+
+
+def _get_duration(video_path: str) -> float:
+    ffprobe = imageio_ffmpeg.get_ffmpeg_exe()
+    out = subprocess.check_output([ffprobe, "-i", video_path, "-hide_banner"], stderr=subprocess.STDOUT, text=True)
+    for line in out.splitlines():
+        if "Duration:" in line:
+            dur = line.split("Duration:")[1].split(",")[0].strip()
+            h, m, s = dur.split(":")
+            return int(h) * 3600 + int(m) * 60 + float(s)
+>>>>>>> theirs
     return 0.0
 
 
@@ -115,6 +136,7 @@ def extract_frames(video_path: str, out_dir: str):
     cap = cv2.VideoCapture(video_path)
     fps = cap.get(cv2.CAP_PROP_FPS) or 25
     duration = _get_duration(video_path)
+<<<<<<< ours
     # 只看前30秒
     max_duration = min(duration, 30)
     # 均匀取8帧
@@ -125,6 +147,13 @@ def extract_frames(video_path: str, out_dir: str):
     else:
         times = [int(i * max_duration / (num_frames - 1)) for i in range(num_frames)]
     times = [t for t in times if t < max_duration]
+=======
+    step = 4 if duration <= 120 else 8
+    times = list(range(0, max(1, int(duration)), step))[:30]
+    if len(times) < 15 and duration > 0:
+        interval = duration / 15
+        times = [int(i * interval) for i in range(15)]
+>>>>>>> theirs
 
     items = []
     for i, t in enumerate(times, start=1):
@@ -139,6 +168,7 @@ def extract_frames(video_path: str, out_dir: str):
     return items
 
 
+<<<<<<< ours
 def _compress_image(image_path: str, max_width: int = 800, quality: int = 15) -> str:
     img = cv2.imread(image_path)
     if img is None:
@@ -261,3 +291,44 @@ def summarize_timeline(frame_results: list) -> dict:
         return {"script": script}
     except Exception as e:
         return {"script": f"生成分镜脚本时出错: {e}"}
+=======
+def analyze_frame(image_path: str, previous=None):
+    with open(image_path, "rb") as f:
+        b64 = base64.b64encode(f.read()).decode()
+    payload = {
+        "model": "gpt-4o-mini",
+        "messages": [
+            {"role": "system", "content": "你是导演级分镜分析助手。"},
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": PROMPT},
+                    {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}},
+                ],
+            },
+        ],
+        "temperature": 0.2,
+    }
+    r = requests.post(
+        f"{APIMART_BASE}/chat/completions",
+        headers={"Authorization": f"Bearer {APIMART_KEY}", "Content-Type": "application/json"},
+        json=payload,
+        timeout=60,
+        proxies=PROXIES,
+    )
+    r.raise_for_status()
+    text = r.json()["choices"][0]["message"]["content"]
+    try:
+        return json.loads(text)
+    except Exception:
+        return {"raw": text}
+
+
+def summarize_timeline(frame_results: list):
+    return {
+        "emotion_arc": "前段平静，中段张力提升，后段释放。",
+        "action_sequence": "按帧时间线展示动作推进。",
+        "micro_expression_timeline": "眉眼口在关键帧发生细微变化。",
+        "director_notes": "镜头语言统一，节奏可通过缩短重复镜头进一步提升。",
+    }
+>>>>>>> theirs

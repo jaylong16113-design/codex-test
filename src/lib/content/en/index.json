@@ -1250,6 +1250,21 @@
       "slug": "spring-summer-capsule-wardrobe",
       "title": "Spring-Summer Capsule Wardrobe for Men: 10 Pieces, Endless Outfits",
       "excerpt": "Build a spring-summer capsule wardrobe with 10 core pieces—linen suits, chinos, oxford shirts, loafers and more. Covers both business and casual occasions with buying guides and outfit combinations."
+    },
+    {
+      "slug": "white-sneaker-guide-2026",
+      "title": "The Complete White Sneaker Guide: Choosing, Styling, and Caring for Your Kicks",
+      "excerpt": "A comprehensive guide to white sneakers — from leather vs canvas construction and brand comparisons to daily care routines and restoration tips."
+    },
+    {
+      "slug": "modern-polo-shirt-guide-2026",
+      "title": "The Modern Polo Shirt Guide: From Casual Friday to Weekend Brunch",
+      "excerpt": "Polo shirt fabric guide, fit advice, collar differences, brand recommendations at every price point, and outfit formulas for every occasion."
+    },
+    {
+      "slug": "summer-commuting-style-guide-2026",
+      "title": "Summer Commuting Style: Staying Fresh and Polished in the Heat",
+      "excerpt": "Fabric science, outfit strategies, color palettes, and commute kit essentials for looking professional in summer heat without sacrificing comfort."
     }
   ],
   "ops": [
@@ -1662,6 +1677,21 @@
       "slug": "newsletter-monetization-solopreneur",
       "title": "Newsletter Monetization for Solopreneurs: From Zero to $5K/Month",
       "excerpt": "The complete path to monetizing your newsletter. Three revenue models compared—sponsorships, paid subscriptions, and product cross-sells—with platform comparisons and funnel strategies."
+    },
+    {
+      "slug": "seo-indie-developers-zero-to-traffic",
+      "title": "SEO for Indie Developers: A Complete Zero-to-Traffic Playbook",
+      "excerpt": "An SEO playbook for indie devs — keyword research, technical SEO, content strategy, Google Search Console setup, backlink building, and a 30-day quickstart plan."
+    },
+    {
+      "slug": "lightweight-crm-solopreneurs",
+      "title": "Lightweight CRM for Solopreneurs: Managing Client Relationships Without the Bloat",
+      "excerpt": "Free CRM tool comparison, step-by-step Notion CRM setup, HubSpot free tier guide, and AI-powered CRM tasks for solopreneurs and freelancers."
+    },
+    {
+      "slug": "product-launch-solo-founders",
+      "title": "Product Launch Strategy for Solo Founders: From Hacker News to Product Hunt",
+      "excerpt": "A complete launch playbook covering Hacker News timing, Product Hunt hunter strategy, Twitter thread structure, and post-launch conversion tracking."
     }
   ],
   "mood": [
@@ -1963,6 +1993,26 @@
       "slug": "failure-as-experimentation-founder",
       "title": "Failure as Data: How Founders Reframe Experimentation",
       "excerpt": "Reframe failure using the scientific method. Learn to design low-cost experiments, extract transferable lessons from setbacks, and maintain psychological safety to keep innovating."
+    },
+    {
+      "slug": "art-of-being-alone-solitude-founder",
+      "title": "The Art of Being Alone: Why Solitude Makes Better Founders",
+      "excerpt": "How solo founders can turn solitude into a superpower — the neuroscience of solitude, practical practices, and building decision-making independence."
+    },
+    {
+      "slug": "emotional-journaling-founders-guide",
+      "title": "Emotional Journaling for Founders: A Practical Guide to Mental Clarity",
+      "excerpt": "Three proven journaling methods for founders, exact templates, tool recommendations, and habit-building tips for 5-15 minutes of daily mental clarity."
+    },
+    {
+      "slug": "introvert-advantage-quiet-founders",
+      "title": "The Introvert Advantage: How Quiet Founders Build Remarkable Businesses",
+      "excerpt": "Debunking the extroverted-founder myth — research-backed advantages of introverted leaders, business models that favor introverts, and energy management strategies."
+    },
+    {
+      "slug": "finding-flow-solitude-deep-work",
+      "title": "Finding Flow in Solitude: Designing Your Ideal Deep Work Environment as a Solo Founder",
+      "excerpt": "Neuroscience of flow states, environmental design for deep work, time-blocking adapted for solopreneurs, and a complete personal flow protocol."
     }
   ]
 }

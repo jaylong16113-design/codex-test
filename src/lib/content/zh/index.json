@@ -1110,6 +1110,21 @@
       "slug": "spring-summer-capsule-wardrobe",
       "title": "春夏男装胶囊衣橱：10件单品搞定整个季节",
       "excerpt": "春夏季节穿搭不用复杂。精选10件核心单品——亚麻西装、Chinos、牛津纺衬衫、乐福鞋等，涵盖商务和休闲两种场景，每件单品附带选购要点和多套搭配方案。"
+    },
+    {
+      "slug": "nanshi-xiatian-tongqin-chuanda",
+      "title": "男士夏季通勤穿搭指南：清爽不油腻的上班穿搭公式",
+      "excerpt": "夏天通勤怎么穿才清爽又不失专业感？本文从面料科学到搭配公式，覆盖上衣、裤子、鞋子、包袋的完整方案，让你在35°C高温中保持体面与舒适。"
+    },
+    {
+      "slug": "baixie-xuangou-baoyang",
+      "title": "小白鞋选购与保养终极指南：一双穿三年不变形",
+      "excerpt": "从皮革款到帆布款，从百元到千元档小白鞋选购全攻略。涵盖不同材质的清洁保养方法和延长寿命的实用技巧。"
+    },
+    {
+      "slug": "polo-shan-xuangou-chuanda",
+      "title": "POLO衫选购与穿搭完整指南：从休闲商务到周末出街",
+      "excerpt": "面料对比、版型选择、领型差异、品牌价格梯度——一篇搞懂POLO衫从买到穿的全部知识点。"
     }
   ],
   "ops": [
@@ -1512,6 +1527,21 @@
       "slug": "newsletter-monetization-solopreneur",
       "title": "一人公司的Newsletter变现指南：从0到月入5000美元的实操路径",
       "excerpt": "Newsletter是独立开发者最高效的变现方式之一。本文从三种变现模式出发，对比Substack、Beehiiv和ConvertKit，提供从免费读者到付费订阅用户的完整转化路径。"
+    },
+    {
+      "slug": "duli-kaifazhe-seo-congling-kaishi",
+      "title": "独立开发者SEO从零实操：靠内容获取搜索流量的完整方法",
+      "excerpt": "面向独立开发者的SEO实操指南，覆盖关键词策略、技术SEO基础、内容规划方法、Search Console使用和30天启动计划。"
+    },
+    {
+      "slug": "yiren-gongsi-qingliang-crm",
+      "title": "一人公司轻量级客户管理方案：不花钱也能管好客户",
+      "excerpt": "飞书多维表格、HubSpot免费版、Notion CRM模板三大免费工具对比，手把手搭建一人公司的客户管理系统。"
+    },
+    {
+      "slug": "duli-kaifazhe-chanpin-fabu-zhiyin",
+      "title": "独立开发者产品发布指南：从Hacker News到Product Hunt全流程",
+      "excerpt": "Hacker News、Product Hunt、Twitter三大平台的发布策略全拆解，从发布前筹备到发布后运营的完整流程。"
     }
   ],
   "mood": [
@@ -1879,6 +1909,26 @@
       "slug": "failure-as-experimentation-founder",
       "title": "失败是实验数据：创业者如何看待试错",
       "excerpt": "从科学方法角度重新定义失败——失败不是终点而是实验数据点。本文提供如何设计低成本实验性决策、如何从失败中提取可迁移教训的完整方法论。"
+    },
+    {
+      "slug": "neixin-duxu-duanshipin-wenan",
+      "title": "内心独白短视频的文案写作方法：一句话让人破防的秘诀",
+      "excerpt": "拆解内心独白类短视频的文案底层逻辑，从情绪结构到5个经典模板，附AI辅助生成Prompt。"
+    },
+    {
+      "slug": "duren-dushu-10-jian-shi",
+      "title": "一个人独处时适合做的10件事：孤独但不寂寞的生活方式",
+      "excerpt": "创业者独处时光的10个活动建议——徒步、日记、手工艺、无屏幕日等，把独处变成自我充电的黄金时间。"
+    },
+    {
+      "slug": "chuangyezhe-qingxu-riji",
+      "title": "创业者的情绪日记写作法：用文字治愈焦虑和倦怠",
+      "excerpt": "面向创业者的情绪日记实操指南，三种有效日记方法、具体模板和坚持记录技巧，每天5-15分钟搞定。"
+    },
+    {
+      "slug": "anjing-liliang-neixiang-chuangye",
+      "title": "安静的力量：内向创业者如何利用独处优势",
+      "excerpt": "内向者在创业中的独特优势分析和心态建设指南，包括社交能量管理策略和内向者沟通技巧。"
     }
   ]
 }

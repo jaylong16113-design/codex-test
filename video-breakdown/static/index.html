@@ -1,3 +1,4 @@
+<<<<<<< ours
 <!doctype html>
 <html lang="zh-CN">
 <head>
@@ -265,3 +266,13 @@ function copyScript(){
 </script>
 </body>
 </html>
+=======
+<!doctype html><html lang="zh"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Video Breakdown</title><style>body{margin:0;font-family:system-ui;background:#111;color:#eee}main{max-width:1200px;margin:auto;padding:24px}.row{display:flex;gap:8px}input,button{padding:10px;border-radius:8px;border:1px solid #333;background:#1c1c1c;color:#fff}button{cursor:pointer}.card{background:#1a1a1a;padding:12px;border:1px solid #333;border-radius:10px;margin-top:12px}.timeline{display:flex;overflow:auto;gap:12px}.item{min-width:320px}.item img{width:100%;border-radius:8px}</style></head><body><main><h1>Video Breakdown</h1><div class="row"><input id="url" style="flex:1" placeholder="输入抖音/小红书链接"><input id="face" type="file" accept="image/*"><button onclick="startTask()">开始分析</button></div><div class="card"><div id="step">等待开始</div><progress id="progress" max="100" value="0" style="width:100%"></progress></div><div id="videoInfo" class="card"></div><div id="timeline" class="timeline"></div><div id="report" class="card"></div></main><script>
+let currentTask='';
+async function startTask(){const fd=new FormData();fd.append('url',document.getElementById('url').value);const f=document.getElementById('face').files[0];if(f)fd.append('face_image',f);const res=await fetch('/api/analyze',{method:'POST',body:fd});const data=await res.json();currentTask=data.task_id;poll();}
+async function poll(){if(!currentTask)return;const res=await fetch('/api/tasks/'+currentTask);const t=await res.json();document.getElementById('step').innerText=t.step||t.status;document.getElementById('progress').value=t.progress||0;if(t.video_info){document.getElementById('videoInfo').innerText=`标题: ${t.video_info.title||''} | 作者: ${t.video_info.author||''} | 时长: ${t.video_info.duration||0}s`;}if(Array.isArray(t.frames)){document.getElementById('timeline').innerHTML=t.frames.map(f=>`<div class='item card'><div>${f.time}</div><img src='${f.frame_url}'><img src='${f.storyboard_url}'><div>${f.analysis.shot_type||''} / ${f.analysis.camera_movement||''}</div><a href='${f.storyboard_4k_url}' download>下载4K</a></div>`).join('');}
+if(t.full_analysis){document.getElementById('report').innerHTML=`<h3>完整分析报告</h3><p>${t.full_analysis.emotion_arc||''}</p><p>${t.full_analysis.action_sequence||''}</p><p>${t.full_analysis.micro_expression_timeline||''}</p><p>${t.full_analysis.director_notes||''}</p>`;}
+if(t.status==='processing')setTimeout(poll,3000);
+}
+</script></body></html>
+>>>>>>> theirs

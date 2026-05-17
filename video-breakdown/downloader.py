@@ -1,4 +1,10 @@
 import re
+<<<<<<< ours
+=======
+import uuid
+from urllib.parse import urlparse
+
+>>>>>>> theirs
 import requests
 
 PROXIES = {"http": "socks5://172.20.144.1:10808", "https": "socks5://172.20.144.1:10808"}
@@ -20,7 +26,11 @@ def extract_douyin_video_id(url: str) -> str:
 def download_video(url: str, save_path: str) -> dict:
     video_id = extract_douyin_video_id(url)
     endpoint = f"https://api.justoneapi.com/api/douyin/get-video-detail/v2?token={JUSTONE_TOKEN}&videoId={video_id}"
+<<<<<<< ours
     meta = requests.get(endpoint, timeout=30, proxies=PROXIES).json()
+=======
+    meta = requests.post(endpoint, timeout=30, proxies=PROXIES).json()
+>>>>>>> theirs
     detail = meta.get("data", {}).get("aweme_detail", {})
     play_urls = detail.get("video", {}).get("play_addr", {}).get("url_list", [])
     if not play_urls:
