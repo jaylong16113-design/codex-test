@@ -1265,6 +1265,36 @@
       "slug": "summer-commuting-style-guide-2026",
       "title": "Summer Commuting Style: Staying Fresh and Polished in the Heat",
       "excerpt": "Fabric science, outfit strategies, color palettes, and commute kit essentials for looking professional in summer heat without sacrificing comfort."
+    },
+    {
+      "slug": "linen-suit-complete-guide",
+      "title": "The Complete Guide to Linen Suits: Summer Elegance Without Sacrifice",
+      "excerpt": "Linen is summer's ultimate suiting fabric, but most men wear it wrong. A complete guide to selecting, styling, and caring for linen suits."
+    },
+    {
+      "slug": "elevated-business-casual-men",
+      "title": "Elevated Business Casual for Men: Where Comfort Meets Refinement",
+      "excerpt": "Business casual is the hardest dress code to nail. Find the perfect balance between relaxed and professional."
+    },
+    {
+      "slug": "belt-shoe-coordination-rules",
+      "title": "Belt and Shoe Coordination: The Foundational Rule of Men's Style",
+      "excerpt": "A mismatched belt and shoe combination can ruin an otherwise perfect outfit. Master this fundamental rule."
+    },
+    {
+      "slug": "suit-fit-different-body-types",
+      "title": "Suit Fit Guide for Every Body Type: Find Your Perfect Silhouette",
+      "excerpt": "The most expensive suit looks cheap if it doesn't fit. A body-type-specific guide to suit selection and tailoring."
+    },
+    {
+      "slug": "mens-fragrance-guide-intro",
+      "title": "A Man's Guide to Fragrance: From Boardroom to Date Night",
+      "excerpt": "Fragrance is a man's invisible suit. A comprehensive guide to choosing and wearing the right scent for every occasion."
+    },
+    {
+      "slug": "mens-scarf-guide-fall-winter",
+      "title": "The Complete Guide to Men's Scarves: Fall and Winter Styling",
+      "excerpt": "A scarf is the easiest way to elevate your fall and winter outfits — if you know how to wear it right."
     }
   ],
   "ops": [
@@ -1692,6 +1722,36 @@
       "slug": "product-launch-solo-founders",
       "title": "Product Launch Strategy for Solo Founders: From Hacker News to Product Hunt",
       "excerpt": "A complete launch playbook covering Hacker News timing, Product Hunt hunter strategy, Twitter thread structure, and post-launch conversion tracking."
+    },
+    {
+      "slug": "zero-cost-first-1000-users",
+      "title": "Getting Your First 1,000 Users at Zero Cost: A Solopreneur's Cold Start Roadmap",
+      "excerpt": "No budget for ads? Learn how to acquire your first 1,000 real users through community building, cold outreach, and Product Hunt."
+    },
+    {
+      "slug": "customer-success-automation-solo",
+      "title": "Customer Success Automation for Solopreneurs: Systems That Drive Retention",
+      "excerpt": "Without a dedicated CS team, automation and smart systems are your best friends for keeping customers happy."
+    },
+    {
+      "slug": "multi-platform-content-distribution",
+      "title": "Multi-Platform Content Distribution: One Piece of Content, Every Channel",
+      "excerpt": "Publishing on just one platform leaves 80% of your potential audience untapped. A systematic approach to content distribution."
+    },
+    {
+      "slug": "indie-product-pricing-psychology",
+      "title": "Pricing Psychology for Indie Products: From Free to Premium",
+      "excerpt": "Pricing is the most overlooked profit lever for indie developers. Master pricing psychology and boost revenue by 30%."
+    },
+    {
+      "slug": "customer-feedback-product-iteration",
+      "title": "From Customer Feedback to Product Iteration: Building the Closed Loop",
+      "excerpt": "Collecting feedback is easy. Turning it into the right product decisions is hard. Build a system that works."
+    },
+    {
+      "slug": "solopreneur-legal-compliance",
+      "title": "Legal Compliance for Solopreneurs: From Registration to Everyday Operations",
+      "excerpt": "Small doesn't mean risk-free. A practical guide to legal compliance for one-person businesses."
     }
   ],
   "mood": [
@@ -2013,6 +2073,46 @@
       "slug": "finding-flow-solitude-deep-work",
       "title": "Finding Flow in Solitude: Designing Your Ideal Deep Work Environment as a Solo Founder",
       "excerpt": "Neuroscience of flow states, environmental design for deep work, time-blocking adapted for solopreneurs, and a complete personal flow protocol."
+    },
+    {
+      "slug": "founder-morning-routine-system",
+      "title": "The Golden Hour After Waking: A Founder's Morning Routine System",
+      "excerpt": "The first hour after waking sets the tone for your entire day. A science-backed morning routine system designed specifically for founders."
+    },
+    {
+      "slug": "creative-energy-cycle-management",
+      "title": "Managing Creative Energy Cycles: How to Sustain Output Without Burning Out",
+      "excerpt": "Creativity isn't a tap you can turn on and off. Learn to work with your energy cycles instead of against them."
+    },
+    {
+      "slug": "digital-minimalism-solopreneur",
+      "title": "Digital Minimalism for Solopreneurs: Practical Ways to Reduce Screen Time",
+      "excerpt": "When your entire business lives on a screen, reducing screen time feels impossible. Here's how to do it anyway."
+    },
+    {
+      "slug": "failure-resilience-training-founders",
+      "title": "From Failure to Comeback: Resilience Training for Solo Founders",
+      "excerpt": "Resilience isn't something you're born with — it's a skill you can train. Practical protocols for solo founders."
+    },
+    {
+      "slug": "exercise-creativity-connection",
+      "title": "Exercise and Creativity: How Physical Fitness Sharpens Your Thinking",
+      "excerpt": "Sitting at a desk all day doesn't just hurt your body — it dulls your mind. The science-backed connection between movement and creative output."
+    },
+    {
+      "slug": "gratitude-journaling-entrepreneurs",
+      "title": "The Compound Effect of Gratitude Journaling: How Founders Rewire Their Minds",
+      "excerpt": "Five minutes of gratitude journaling a day can rewire your brain for better decisions, lower stress, and greater resilience."
+    },
+    {
+      "slug": "founder-sleep-optimization-guide",
+      "title": "Sleep Optimization for Entrepreneurs: Managing Rest Under High Cognitive Load",
+      "excerpt": "Great founders don't brag about sleeping four hours a night — they optimize for the highest quality sleep possible."
+    },
+    {
+      "slug": "quality-solitude-practices",
+      "title": "The Art of Quality Solitude: Intentional Alone Time for Deep Work and Renewal",
+      "excerpt": "Solitude isn't loneliness — it's a strategic choice. Master the art of intentional alone time for deeper thinking."
     }
   ]
 }
