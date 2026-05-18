@@ -883,6 +883,16 @@
       "slug": "ai-market-research-solopreneur-tools",
       "title": "AI Market Research for Solopreneurs: Competitive Analysis Without a Team",
       "excerpt": "No market research team? No problem. Learn how solopreneurs combine AI tools like Similarweb, Exploding Topics, and Perplexity to perform professional competitive analysis, trend spotting, and market sizing."
+    },
+    {
+      "slug": "ai-product-description-generator",
+      "title": "AI Product Description Generator Showdown: DeepSeek vs Claude vs ChatGPT for Ecommerce Copy",
+      "excerpt": "Your product description directly affects conversion rates. A head-to-head comparison of DeepSeek, Claude, and ChatGPT for writing product copy, with battle-tested prompt templates and industry-specific recommendations."
+    },
+    {
+      "slug": "ai-social-media-scheduling",
+      "title": "AI Social Media Scheduling Tools Guide: Automated Multi-Platform Publishing for Solopreneurs",
+      "excerpt": "Switching between platforms to publish content is a massive time sink. Compare the top AI-powered social media management tools and learn how to automate your entire publishing workflow."
     }
   ],
   "wear": [
@@ -1380,6 +1390,16 @@
       "slug": "men-accessories-styling-guide",
       "title": "Men's Accessory Styling: Level Up Your Look with Details",
       "excerpt": "The difference between a good outfit and a great one is almost always in the details. Learn how watches, belts, bags, and even socks can elevate your entire look without breaking the bank."
+    },
+    {
+      "slug": "summer-menswear-wardrobe",
+      "title": "The Summer Capsule Wardrobe for Men: 10 Pieces, Endless Outfits",
+      "excerpt": "Beat the heat without sacrificing style. A complete summer capsule wardrobe guide — fabric selection, color palette, and 8 outfit combinations from just 10 versatile pieces."
+    },
+    {
+      "slug": "business-casual-dressing",
+      "title": "The Complete Business Casual Guide for Men: Professional Without Being Stuffy",
+      "excerpt": "Business casual is the most commonly misunderstood dress code. A complete guide to building a versatile work wardrobe — from core pieces to seasonal outfits."
     }
   ],
   "ops": [
@@ -1892,6 +1912,21 @@
       "slug": "google-search-console-guide",
       "title": "Google Search Console for Indie Sites: Turning Search Data Into Traffic",
       "excerpt": "99% of site owners have Google Search Console installed. Only 1% actually use it to grow traffic. This guide shows you how to turn GSC data into actionable optimization that boosts organic traffic by 30%+."
+    },
+    {
+      "slug": "shopify-seo-beginner-guide",
+      "title": "Shopify SEO Beginner's Guide: How to Get Free Google Traffic Without Ads",
+      "excerpt": "Zero ad spend, first-page Google rankings. A complete Shopify SEO workflow covering keyword research, on-page optimization, technical SEO, and link building for cross-border sellers."
+    },
+    {
+      "slug": "content-marketing-strategy-2026",
+      "title": "Content Marketing Strategy 2026: How Solopreneurs Get Maximum Reach from Minimum Content",
+      "excerpt": "For solopreneurs, content marketing isn't optional — but doing it efficiently is the difference between burnout and growth. A content reuse matrix strategy for creating once and amplifying five ways."
+    },
+    {
+      "slug": "customer-retention-low-cost",
+      "title": "Low-Cost Customer Retention Strategies: Get Repeat Buyers Without a Big Budget",
+      "excerpt": "Acquiring a new customer costs 5-7x more than retaining an existing one. Here are proven low-budget retention strategies — from email automation to WeChat private domain — that double repeat purchase rates."
     }
   ],
   "mood": [
@@ -2313,6 +2348,21 @@
       "slug": "sustainable-creative-habits",
       "title": "Sustainable Content Creation Habits: Systems Over Inspiration",
       "excerpt": "The biggest enemy of content creators isn't writer's block — it's inconsistency. Learn how to build a sustainable content creation system that works even when you don't feel inspired."
+    },
+    {
+      "slug": "morning-routine-solopreneur",
+      "title": "The Solopreneur Morning Routine: How 2 Hours Before 10 AM Sets Your Entire Day Up for Success",
+      "excerpt": "You don't need to wake up at 5 AM to be a successful entrepreneur. Here's a proven morning framework that helps solopreneurs and ecommerce founders start their day with focus, not chaos."
+    },
+    {
+      "slug": "reading-list-creators",
+      "title": "10 Books That Changed How I Think as a Solopreneur (None of Them Are Business Best-Sellers)",
+      "excerpt": "Skip the over-hyped business bestsellers. Here are 10 books across business strategy, cognitive science, and writing craft that will genuinely change how you think and make decisions."
+    },
+    {
+      "slug": "mental-health-online-seller",
+      "title": "Mental Health for Ecommerce Entrepreneurs: Staying Sane in a High-Pressure Business",
+      "excerpt": "Bad reviews, traffic crashes, inventory nightmares — ecommerce is uniquely stressful. Here are actionable strategies to maintain emotional stability without sacrificing business growth."
     }
   ]
 }

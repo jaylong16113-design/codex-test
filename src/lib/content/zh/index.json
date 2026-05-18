@@ -728,6 +728,16 @@
       "slug": "ai-market-research-solopreneur-tools",
       "title": "AI市场调研工具让一人公司也能做专业竞品分析：从数据收集到战略输出",
       "excerpt": "没有市场部不意味着不能做专业市场调研。本文详解如何用AI工具组合完成竞品价格追踪、用户评论分析、趋势预测等完整市场调研流程。"
+    },
+    {
+      "slug": "ai-product-description-generator",
+      "title": "AI商品描述生成器实测对比：用DeepSeek/Claude/ChatGPT写产品文案哪个效果最好",
+      "excerpt": "商品文案写得好不好直接决定转化率。本文实测对比三大AI模型生成的产品描述质量，给出最优Prompt模板和行业适配建议。"
+    },
+    {
+      "slug": "ai-social-media-scheduling",
+      "title": "AI社媒排期工具实战指南：一人公司如何自动化管理多平台内容发布",
+      "excerpt": "在不同平台之间切换发布内容浪费了大量时间。本文对比主流AI社媒管理工具，分享一套自动化发布流程，每周省下至少5小时。"
     }
   ],
   "wear": [
@@ -1215,6 +1225,16 @@
       "slug": "men-accessories-styling-guide",
       "title": "男士配饰搭配进阶技巧：用细节提升整体穿搭质感",
       "excerpt": "同样一套衣服，加上合适的配饰就能从普通变成高级。本文从手表、皮带、包袋到袜子的搭配原则，教你用配饰让日常穿搭更有品味。"
+    },
+    {
+      "slug": "summer-menswear-wardrobe",
+      "title": "夏季男士衣橱精简指南：10件单品搞定整个夏天的穿搭",
+      "excerpt": "夏天穿搭最怕又热又闷还不好看。本文分享一套胶囊衣橱方案，从面料选择到色彩搭配，10件基础单品穿出整个夏天的不同风格。"
+    },
+    {
+      "slug": "business-casual-dressing",
+      "title": "商务休闲穿搭完全指南：男士如何穿得既有正式感又不显得刻板",
+      "excerpt": "商务休闲(Business Casual)是最容易被穿错的dress code。本文从单品选择到搭配逻辑，帮你建立一套既专业又舒适的通勤衣橱。"
     }
   ],
   "ops": [
@@ -1702,6 +1722,21 @@
       "slug": "google-search-console-guide",
       "title": "Google Search Console独立站优化指南：把搜索数据变成流量增长",
       "excerpt": "99%的站长都装了Google Search Console但只有1%真正用了它的全部功能。本文从数据解读到实操优化，教你如何用GSC把搜索流量提升30%以上。"
+    },
+    {
+      "slug": "shopify-seo-beginner-guide",
+      "title": "Shopify SEO入门指南：跨境卖家如何靠自然搜索获取免费流量的完整流程",
+      "excerpt": "不花一分钱广告费，也能让产品页排在Google首页。本文从关键词研究、页面优化到外链建设，手把手教你在Shopify上做好SEO。"
+    },
+    {
+      "slug": "content-marketing-strategy-2026",
+      "title": "2026内容营销策略：一人公司如何用最少内容获取最大流量",
+      "excerpt": "对一人公司来说，内容营销不是做不做的问题，而是怎么做才高效。本文分享一套'内容复用矩阵'策略，一次创作，五次分发，效果最大化。"
+    },
+    {
+      "slug": "customer-retention-low-cost",
+      "title": "低成本客户留存策略：电商卖家如何不花钱也能让老客户反复购买",
+      "excerpt": "获取一个新客户的成本是留住一个老客户的5-7倍。本文分享不需要大预算的客户留存方案，从邮件序列到私域运营，让复购率翻倍。"
     }
   ],
   "mood": [
@@ -2179,6 +2214,21 @@
       "slug": "sustainable-creative-habits",
       "title": "如何建立可持续的内容创作习惯：不靠灵感靠系统",
       "excerpt": "内容创作者最大的敌人不是灵感枯竭，而是三天打鱼两天晒网。本文从目标设定、写作流程到习惯养成，给出一套可持续的内容创作系统。"
+    },
+    {
+      "slug": "morning-routine-solopreneur",
+      "title": "一人公司创业者的晨间习惯：如何用早起2小时决定一整天的工作效率",
+      "excerpt": "不是所有创业者都需要凌晨5点起床。本文分享一套经过验证的晨间流程，让跨境电商创业者用最少的时间和心力，完成最高效的早晨启动。"
+    },
+    {
+      "slug": "reading-list-creators",
+      "title": "创业者的年度阅读清单：10本改变思维方式的非畅销书",
+      "excerpt": "跳过那些被讲了无数遍的创业畅销书。本文推荐10本真正能改变你思维模式和决策质量的书籍，覆盖商业策略、认知科学和写作表达三大领域。"
+    },
+    {
+      "slug": "mental-health-online-seller",
+      "title": "电商创业者的心理健康管理：在高压运营中保持情绪稳定的实用方法",
+      "excerpt": "差评焦虑、流量波动、同行内卷——电商创业者的心理压力比大多数人想象的更大。本文从认知心理学和正念实践出发，给出可操作的减压方案。"
     }
   ]
 }
