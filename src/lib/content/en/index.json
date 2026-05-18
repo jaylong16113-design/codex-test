@@ -1320,6 +1320,21 @@
       "slug": "sustainable-fashion-tech-ai-2026",
       "title": "Sustainable Fashion Tech 2026: 5 AI Tools That Are Changing How We Dress",
       "excerpt": "Discover 5 AI tools revolutionizing sustainable fashion in 2026. From AI fabric recycling to virtual try-on reducing returns, learn how technology is making fashion more eco-friendly."
+    },
+    {
+      "slug": "summer-suit-fabric-complete-guide",
+      "title": "The Complete Guide to Summer Suit Fabrics: Staying Cool Without Sacrificing Style",
+      "excerpt": "Everything about summer suiting fabrics — linen, cotton-linen blends, high-twist wool, fresco wool, and modern performance fabrics with care tips."
+    },
+    {
+      "slug": "essential-pants-wardrobe-guide",
+      "title": "The Essential 5-Pair Pant Wardrobe Every Man Needs",
+      "excerpt": "A complete guide to building a versatile pants wardrobe with 5 essential pairs — wool trousers, chinos, raw denim, khakis, and linen pants for every occasion."
+    },
+    {
+      "slug": "advanced-suit-color-guide",
+      "title": "Advanced Suit Color Coordination: From Basic Triads to Expert Color Systems",
+      "excerpt": "An advanced guide to suit color matching including color wheel theory applied to suiting, skin tone considerations, and how to build a cohesive color system."
     }
   ],
   "ops": [
@@ -1792,6 +1807,21 @@
       "slug": "ai-customer-retention-playbook-2026",
       "title": "AI-Powered Customer Retention Playbook: 7 Strategies for US Online Stores in 2026",
       "excerpt": "Boost customer retention with AI in 2026. This playbook covers 7 strategies including AI loyalty programs, predictive churn analysis, personalized re-engagement, and automated win-back campaigns for US e-commerce stores."
+    },
+    {
+      "slug": "customer-success-solopreneur-guide",
+      "title": "Customer Success for Solopreneurs: Building a CS System from Zero",
+      "excerpt": "A complete guide to building a customer success system as a one-person company. Covers segmentation, health scoring, automated check-ins, and churn prediction."
+    },
+    {
+      "slug": "pricing-optimization-indie-saas",
+      "title": "Pricing Optimization for Indie SaaS Products: From Free to Paid",
+      "excerpt": "Comprehensive guide on SaaS pricing strategy for indie developers. Covers value-based pricing, tier structure design, psychological tactics, and testing methodology."
+    },
+    {
+      "slug": "solopreneur-time-audit-guide",
+      "title": "The Solopreneur Time Audit: Using Data to Find Your Real Time Wasters",
+      "excerpt": "A step-by-step guide to conducting a time audit as a solopreneur — from choosing tracking tools to analyzing patterns to implementing changes that save 10+ hours per week."
     }
   ],
   "mood": [
@@ -2163,6 +2193,26 @@
       "slug": "ai-journaling-apps-solopreneur-2026",
       "title": "How AI Journaling Apps Are Transforming Solopreneur Mental Health in 2026",
       "excerpt": "Discover how AI journaling apps are helping solopreneurs manage mental health in 2026. Compare Day One AI, Rosebud, DeepJournal, and more for guided reflection, mood tracking, and cognitive reframing."
+    },
+    {
+      "slug": "digital-boundary-solopreneur",
+      "title": "How to Set Digital Boundaries as a Solopreneur: Finding Balance in an Always-On World",
+      "excerpt": "A practical guide to setting digital boundaries for solopreneurs — managing notifications, scheduling offline time, creating work-life separation when your business lives on a screen."
+    },
+    {
+      "slug": "daily-reflection-journal-founders",
+      "title": "The Power of Daily Reflection: Why Successful Founders Keep a Journal",
+      "excerpt": "In-depth look at how daily reflection journals help founders improve decision-making, reduce stress, and spot patterns. Includes 3 ready-to-use journaling frameworks."
+    },
+    {
+      "slug": "second-curve-thinking-founders",
+      "title": "Second Curve Thinking for Founders: What to Do When Your Current Path Feels Like a Dead End",
+      "excerpt": "Based on Charles Handy's Second Curve theory, this guide helps founders identify new growth opportunities during downturns with a self-diagnosis framework."
+    },
+    {
+      "slug": "personal-brand-beginner-guide",
+      "title": "A Beginner's Guide to Building Your Personal Brand as a Creator",
+      "excerpt": "Comprehensive personal branding guide for beginners covering positioning, content creation strategy, platform selection, and the monetization path from zero to income."
     }
   ]
 }
