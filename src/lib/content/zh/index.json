@@ -708,6 +708,26 @@
       "slug": "ai-landing-page-generators",
       "title": "AI自动生成落地页工具：5款工具实测对比",
       "excerpt": "实测对比5款AI落地页生成工具——10web AI、Durable、Framer AI、Unicorn Platform、Landing.ai，从设计质量、转化能力到加载速度全面测评。"
+    },
+    {
+      "slug": "ai-3d-product-showcase",
+      "title": "AI商品3D展示工具实测：用3D模型代替实拍，降低退货率和拍摄成本",
+      "excerpt": "电商拍摄一套商品图动辄几千元，而AI 3D展示工具能以极低成本生成可交互的3D商品模型。本文实测对比Vectary、KiteMeta等工具在电商场景的表现。"
+    },
+    {
+      "slug": "ai-contract-management-solopreneur",
+      "title": "AI自动化合同管理工具指南：一人公司也能用法律科技保护自己",
+      "excerpt": "一人公司最容易忽视的就是合同管理。本文评测Lexion、PandaDoc、Evisort等AI合同管理工具，教你如何用法律科技保护自己的商业利益。"
+    },
+    {
+      "slug": "ai-video-translation-dubbing-tools",
+      "title": "AI视频翻译配音工具实测：一条视频自动适配10种语言市场",
+      "excerpt": "跨境电商出海的视频内容本地化是刚需。本文实测对比HeyGen、Rask.ai、Dubverse等AI视频翻译配音工具，从成本、质量和效率三个维度给出选择建议。"
+    },
+    {
+      "slug": "ai-market-research-solopreneur-tools",
+      "title": "AI市场调研工具让一人公司也能做专业竞品分析：从数据收集到战略输出",
+      "excerpt": "没有市场部不意味着不能做专业市场调研。本文详解如何用AI工具组合完成竞品价格追踪、用户评论分析、趋势预测等完整市场调研流程。"
     }
   ],
   "wear": [
@@ -1170,6 +1190,31 @@
       "slug": "advanced-suit-color-matching",
       "title": "西装颜色搭配进阶指南：从基础三色到高阶配色体系",
       "excerpt": "进阶西装颜色搭配指南，包括色轮原理在西装搭配中的应用、肤色匹配和商务休闲场景的色彩切换逻辑。"
+    },
+    {
+      "slug": "summer-business-casual-guide",
+      "title": "夏季职场穿搭指南：不穿西服也能商务的高级感方案",
+      "excerpt": "夏天穿西服太热，穿T恤太随意，到底该怎么穿？本文从面料选择、单品搭配到配色原则，给出一套完整的夏季商务穿搭方案。"
+    },
+    {
+      "slug": "mens-leather-shoes-guide",
+      "title": "男士皮鞋选购完全指南：从正装牛津鞋到休闲乐福鞋",
+      "excerpt": "一双好皮鞋能提升整个人的气质，但市面上款式繁多容易踩坑。本文从皮鞋类型、皮质鉴别到尺码选择，教你买到最适合自己的皮鞋。"
+    },
+    {
+      "slug": "big-body-type-dressing-guide",
+      "title": "微胖男生穿搭避雷指南：显瘦10斤的穿衣法则",
+      "excerpt": "微胖身材穿对了比减肥更快见效。本文从版型选择、颜色搭配到面料避雷，给出一套完整的显瘦穿搭方案，附具体品牌推荐。"
+    },
+    {
+      "slug": "affordable-menswear-brands",
+      "title": "千元级轻奢男装品牌推荐：性价比最高的品质之选",
+      "excerpt": "不一定要买Gucci和Prada才能穿出高级感。本文推荐8个性价比极高的轻奢男装品牌，从通勤西装到休闲单品，帮你找到品质与价格的平衡点。"
+    },
+    {
+      "slug": "men-accessories-styling-guide",
+      "title": "男士配饰搭配进阶技巧：用细节提升整体穿搭质感",
+      "excerpt": "同样一套衣服，加上合适的配饰就能从普通变成高级。本文从手表、皮带、包袋到袜子的搭配原则，教你用配饰让日常穿搭更有品味。"
     }
   ],
   "ops": [
@@ -1632,6 +1677,31 @@
       "slug": "time-audit-solopreneur-tools",
       "title": "创业者的时间审计：如何用数据发现自己真正的时间黑洞",
       "excerpt": "详解创业者如何进行时间审计，从时间追踪工具选择、数据分类分析到优化行动，帮助一人公司找回每小时的时间价值。"
+    },
+    {
+      "slug": "email-marketing-cross-border",
+      "title": "跨境电商邮件营销从0到1：建站第一天就该开始的自动化流程",
+      "excerpt": "很多跨境卖家忽略了邮件营销的价值。本文从邮件服务商选择、自动化序列搭建到高转化邮件模板，手把手教你建立完整的邮件营销体系。"
+    },
+    {
+      "slug": "xiaohongshu-brand-cold-start",
+      "title": "小红书品牌账号冷启动指南：从0到1万粉的内容策略",
+      "excerpt": "小红书已成为品牌营销的必争之地，但新账号起步越来越难。本文从账号定位、内容规划到数据优化，给出一套可复用的冷启动策略。"
+    },
+    {
+      "slug": "affiliate-marketing-cross-border-guide",
+      "title": "跨境电商联盟营销（Affiliate Marketing）实战手册：从招募到佣金自动化",
+      "excerpt": "联盟营销是跨境电商最高ROI的推广方式之一。本文从联盟计划搭建、达人招募到佣金结算自动化，完整拆解一套可落地执行的联盟营销方案。"
+    },
+    {
+      "slug": "seo-backlink-strategies-2026",
+      "title": "2026年SEO外链建设策略：白帽方法获取高质量反向链接",
+      "excerpt": "外链依然是Google排名的重要因素，但低质量外链反而会带来惩罚。本文分享2026年最有效的白帽外链建设方法，从资源页建设到数字PR策略。"
+    },
+    {
+      "slug": "google-search-console-guide",
+      "title": "Google Search Console独立站优化指南：把搜索数据变成流量增长",
+      "excerpt": "99%的站长都装了Google Search Console但只有1%真正用了它的全部功能。本文从数据解读到实操优化，教你如何用GSC把搜索流量提升30%以上。"
     }
   ],
   "mood": [
@@ -2079,6 +2149,36 @@
       "slug": "personal-brand-beginner-guide-zh",
       "title": "从零开始建立个人品牌：一个普通人的内容创业之路",
       "excerpt": "面向普通人的个人品牌建设指南，从定位、内容创作、平台选择到商业化的完整路径，强调持续输出和真实分享的价值。"
+    },
+    {
+      "slug": "solopreneur-loneliness-coping",
+      "title": "独行者的必修课：一人公司创业者如何对抗孤独感",
+      "excerpt": "一个人创业最大的敌人不是竞争对手，而是孤独。本文从日常习惯、社交策略和心理建设三个维度，分享一人公司创业者对抗孤独感的实操方法。"
+    },
+    {
+      "slug": "digital-nomad-insurance-tax-guide",
+      "title": "数字游民保险与税务指南2026：全球移动办公者必知的财务安全网",
+      "excerpt": "满世界跑着办公听起来很酷，但社保断缴、税务混乱、没有保障才是最现实的问题。本文梳理数字游民必备的保险配置和税务规划方案。"
+    },
+    {
+      "slug": "entrepreneur-sleep-management",
+      "title": "跨境电商创业者的睡眠管理：熬夜赚钱不如睡好觉赚钱",
+      "excerpt": "创业者总以为熬夜等于勤奋，但科学数据证明睡眠不足反而降低决策质量和工作效率。本文分享在不影响业务运转的前提下，优化睡眠质量的实操方案。"
+    },
+    {
+      "slug": "home-office-setup-guide",
+      "title": "小而美的家庭办公桌布置指南：提升效率的空间方案",
+      "excerpt": "不需要大房子也能拥有高效的工作空间。本文分享如何用有限的预算和空间，打造一个让人愿意坐下来工作的家庭办公区。"
+    },
+    {
+      "slug": "financial-transition-freelancer",
+      "title": "从上班族到自由职业的财务过渡：6个月安全着陆计划",
+      "excerpt": "裸辞做自由职业最大的风险不是能力不足，而是财务崩盘。本文给出一套经过验证的6个月过渡计划，让你在收入不稳定的情况下也能安稳着陆。"
+    },
+    {
+      "slug": "sustainable-creative-habits",
+      "title": "如何建立可持续的内容创作习惯：不靠灵感靠系统",
+      "excerpt": "内容创作者最大的敌人不是灵感枯竭，而是三天打鱼两天晒网。本文从目标设定、写作流程到习惯养成，给出一套可持续的内容创作系统。"
     }
   ]
 }
