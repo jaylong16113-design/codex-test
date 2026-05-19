@@ -953,6 +953,26 @@
       "slug": "ai-product-description-ad-copy-tools",
       "title": "AI Product Description & Ad Copy Tools Compared: 8 Tools Tested for Ecommerce in 2026",
       "excerpt": "From product title optimization and detail page copy to ad creative generation — real-world testing of 8 AI copywriting tools with a complete workflow for higher conversion rates"
+    },
+    {
+      "slug": "ai-ab-testing-automation-guide",
+      "title": "AI-Powered A/B Testing Automation: Scientific CRO Without Writing Code",
+      "excerpt": "Traditional A/B testing requires statistics expertise. AI makes it accessible to everyone. 5 tools and strategies for testing images, headlines, and landing pages."
+    },
+    {
+      "slug": "ai-weekly-report-data-analysis",
+      "title": "AI Tools for Weekly Reports and Data Analysis: Say Goodbye to Manual Excel Work",
+      "excerpt": "Stop wasting hours on weekly reports. 6 AI tools that auto-generate reports, detect anomalies, and predict trends from your data in seconds."
+    },
+    {
+      "slug": "ai-product-launch-checklist",
+      "title": "AI Product Launch Checklist: A Complete Automated Launch Workflow",
+      "excerpt": "Product launches are complex and easy to mess up. A complete checklist from pre-launch prep to social media to post-launch monitoring, automated with AI tools."
+    },
+    {
+      "slug": "ai-user-manual-generation",
+      "title": "AI User Manual Generation: Automate Product Documentation for SaaS and E-Commerce",
+      "excerpt": "Product manuals are the first step of user onboarding but tedious to write. 5 AI tools that auto-generate manuals from screenshots and feature descriptions."
     }
   ],
   "wear": [
@@ -1505,6 +1525,31 @@
       "slug": "business-casual-footwear-guide",
       "title": "Men's Business Casual Shoes: The Complete Buying Guide from Oxfords to Loafers",
       "excerpt": "The right pair of shoes can make or break a business casual outfit. This comprehensive guide covers the four essential shoe types — loafers, derbies, Chelsea boots, and monk straps — with deep dives on leather types, color matching, sole selection, and brand recommendations at every budget level."
+    },
+    {
+      "slug": "summer-suit-fabric-selection",
+      "title": "Summer Suit Fabric Selection Guide: Stay Cool and Look Sharp",
+      "excerpt": "Summer suits don't have to be torture. Linen, seersucker, and tropical wool — how to choose fabrics that keep you cool without sacrificing style."
+    },
+    {
+      "slug": "business-casual-mens-style",
+      "title": "Business Casual Style Guide for Men: One Wardrobe from Monday to Friday",
+      "excerpt": "The most practical yet most often-mistaken dress code. A complete business casual wardrobe map covering essential pieces, color combos, and occasion matching."
+    },
+    {
+      "slug": "capsule-wardrobe-mens",
+      "title": "The Men's Capsule Wardrobe Guide: 33 Pieces for Year-Round Style",
+      "excerpt": "Open your closet and have nothing to wear? Build a 33-piece capsule wardrobe covering every season and occasion."
+    },
+    {
+      "slug": "dress-shirt-styling",
+      "title": "How to Wear Dress Shirts: The Complete Guide from Collar to Cuff",
+      "excerpt": "The most underrated wardrobe staple. From collar styles to cuff details to fabric quality — elevate your shirt game completely."
+    },
+    {
+      "slug": "suit-care-storage-guide",
+      "title": "Suit Care and Storage Complete Guide: Make Your Suit Last 10 Years",
+      "excerpt": "A quality suit is an investment. From dry cleaning frequency to proper hanging to travel packing to wrinkle removal — complete suit care for longevity."
     }
   ],
   "ops": [
@@ -2077,6 +2122,31 @@
       "slug": "cross-border-low-capital-startup",
       "title": "Cross-Border Ecommerce on a Shoestring: A $700 Start-to-Profit Launch Plan",
       "excerpt": "You don't need $10,000 to start cross-border ecommerce. This 90-day playbook covers platform selection, product research, inventory-light strategies, and traffic generation — everything for a $700 budget."
+    },
+    {
+      "slug": "brand-positioning-solopreneur",
+      "title": "Brand Positioning for Solopreneurs: Build a Memorable Brand on a Tiny Budget",
+      "excerpt": "Can't afford advertising? Solopreneur branding isn't about budget — it's about differentiation and authority."
+    },
+    {
+      "slug": "customer-acquisition-indie-founders",
+      "title": "Customer Acquisition Channels for Indie Founders: From 0 to 1,000 Users on a Zero Budget",
+      "excerpt": "Built a product nobody uses? 15 zero-cost acquisition channels from Product Hunt to HN to SEO to social media."
+    },
+    {
+      "slug": "content-marketing-ai-era",
+      "title": "Content Marketing in the AI Era: How to Create Human-Quality Content at 10x Speed",
+      "excerpt": "Does Google still rank AI content in 2026? Yes — but only if you do it right. A complete methodology for AI-assisted content marketing."
+    },
+    {
+      "slug": "financial-management-solopreneur",
+      "title": "Financial Management for Solopreneurs: Run Your Business Finances Without an Accountant",
+      "excerpt": "The silent killer of solo businesses is poor financial management. A complete system for bookkeeping, invoicing, tax planning, and cash flow forecasting."
+    },
+    {
+      "slug": "data-driven-growth-solopreneur",
+      "title": "Data-Driven Growth for Solopreneurs: 5 Metrics That Actually Matter",
+      "excerpt": "No data team? No problem. The 5 core metrics — LTV, CAC, NPS, ARR, churn — and how to track them for free to make better decisions."
     }
   ],
   "mood": [
@@ -2568,6 +2638,36 @@
       "slug": "solopreneur-comparison-trap-mindset",
       "title": "The Comparison Trap: How Solopreneurs Can Escape the Jealousy Spiral and Reclaim Their Focus",
       "excerpt": "Why watching other founders succeed makes you feel stuck — and a 3-step system to redirect comparison from envy into productive learning."
+    },
+    {
+      "slug": "time-management-solopreneur",
+      "title": "Time Management for Solopreneurs: Get 10 Hours of Output in 3 Hours",
+      "excerpt": "Your biggest enemy isn't competition — it's time. A proven time management system from morning routine to task prioritization to anti-procrastination tactics."
+    },
+    {
+      "slug": "minimalist-living-productivity",
+      "title": "Minimalist Living for Maximum Productivity: How Less Stuff Means More Output",
+      "excerpt": "When I reduced possessions, my productivity tripled. A practical guide to minimalist living from physical decluttering to digital minimalism to energy management."
+    },
+    {
+      "slug": "freelancer-mental-health",
+      "title": "Mental Health for Freelancers: How to Work Alone Without Feeling Lonely or Anxious",
+      "excerpt": "The hidden cost of freelancing: loneliness, anxiety, and blurred boundaries. Practical mental health strategies for solo workers."
+    },
+    {
+      "slug": "daily-reading-knowledge-management",
+      "title": "Daily Reading and Knowledge Management: How to Absorb 100 Books a Year",
+      "excerpt": "Read and forget? The real problem is retention. A complete system from book selection to note-taking to knowledge retrieval."
+    },
+    {
+      "slug": "remote-work-digital-nomad",
+      "title": "Remote Work and Digital Nomad Lifestyle: The Honest Truth After 3 Years on the Road",
+      "excerpt": "Digital nomad life is over-romanticized. The real story: living costs, productivity challenges, social circles, and visa logistics."
+    },
+    {
+      "slug": "creative-routine-solopreneur",
+      "title": "Creative Routine for Solopreneurs: How to Keep Shipping Without Burning Out",
+      "excerpt": "The #1 challenge for creative solopreneurs isn't talent — it's sustainability. A system for consistent output without burnout."
     }
   ]
 }
