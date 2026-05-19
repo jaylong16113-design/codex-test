@@ -738,6 +738,16 @@
       "slug": "ai-social-media-scheduling",
       "title": "AI社媒排期工具实战指南：一人公司如何自动化管理多平台内容发布",
       "excerpt": "在不同平台之间切换发布内容浪费了大量时间。本文对比主流AI社媒管理工具，分享一套自动化发布流程，每周省下至少5小时。"
+    },
+    {
+      "slug": "ai-product-copywriting-workflow",
+      "title": "AI写产品文案的实战工作流：从商品描述到SEO标题的全流程",
+      "excerpt": "让AI帮你写产品文案不是复制粘贴就行。本文分享一套从关键词挖掘到多版本输出的完整工作流"
+    },
+    {
+      "slug": "2026-browser-extensions-ecommerce-sellers",
+      "title": "2026年中小卖家必备的5个浏览器插件：选品、运营、客服全搞定",
+      "excerpt": "安装5个免费浏览器插件，从选品分析到竞品监控到客服回复效率翻倍。附插件安装和配置教程"
     }
   ],
   "wear": [
@@ -1235,6 +1245,21 @@
       "slug": "business-casual-dressing",
       "title": "商务休闲穿搭完全指南：男士如何穿得既有正式感又不显得刻板",
       "excerpt": "商务休闲(Business Casual)是最容易被穿错的dress code。本文从单品选择到搭配逻辑，帮你建立一套既专业又舒适的通勤衣橱。"
+    },
+    {
+      "slug": "summer-commute-mens-fabric-guide",
+      "title": "夏季通勤男装面料挑选指南：透气、抗皱、有型三不误",
+      "excerpt": "夏天通勤穿什么不热又不失体面？本文从面料成分到版型选择，帮你找到最适合夏季的通勤穿搭方案"
+    },
+    {
+      "slug": "entry-level-workwear-mens-guide",
+      "title": "初入职场男士着装指南：预算3000元打造5套扎实通勤look",
+      "excerpt": "刚从学校出来不知道怎么穿？3000元预算也能搭出5套职业感满满的日常穿搭，附具体单品推荐"
+    },
+    {
+      "slug": "white-tshirt-jeans-styling-tips",
+      "title": "白T恤牛仔裤的隐藏法则：为什么你穿基础款总是不出彩？",
+      "excerpt": "同样白T配牛仔裤，有人穿出街拍感有人穿出买菜感。7个细节让你的基础款穿搭进阶"
     }
   ],
   "ops": [
@@ -1737,6 +1762,16 @@
       "slug": "customer-retention-low-cost",
       "title": "低成本客户留存策略：电商卖家如何不花钱也能让老客户反复购买",
       "excerpt": "获取一个新客户的成本是留住一个老客户的5-7倍。本文分享不需要大预算的客户留存方案，从邮件序列到私域运营，让复购率翻倍。"
+    },
+    {
+      "slug": "ai-user-segmentation-solo-founder",
+      "title": "一人公司怎么做用户分层？用AI实现精细化运营的完整实操",
+      "excerpt": "没有数据团队也能做用户分层运营。本文用飞书+AI工具搭建一套低成本的用户分层系统"
+    },
+    {
+      "slug": "cross-border-low-budget-startup-roadmap",
+      "title": "跨境电商低预算起盘：从0到月入5万的90天实操路线图",
+      "excerpt": "5000元启动资金能做跨境电商吗？可以。本文分享完整的90天启动路线图，从选品到第一单的每一步"
     }
   ],
   "mood": [
@@ -2229,6 +2264,21 @@
       "slug": "mental-health-online-seller",
       "title": "电商创业者的心理健康管理：在高压运营中保持情绪稳定的实用方法",
       "excerpt": "差评焦虑、流量波动、同行内卷——电商创业者的心理压力比大多数人想象的更大。本文从认知心理学和正念实践出发，给出可操作的减压方案。"
+    },
+    {
+      "slug": "solo-founder-work-rhythm-stability",
+      "title": "一人公司创业者如何建立稳定的工作节奏：告别996的可持续经营法则",
+      "excerpt": "创业不等于996。本文分享如何建立弹性但高效的工作节奏，让一人公司既出业绩又保生活质量"
+    },
+    {
+      "slug": "managing-anxiety-ecommerce-entrepreneur",
+      "title": "从焦虑到专注：电商创业者必备的情绪管理实战指南",
+      "excerpt": "库存压了、转化跌了、差评炸了——电商人的焦虑无处不在。本文分享5个经过验证的情绪管理方法"
+    },
+    {
+      "slug": "digital-nomad-lifestyle-financial-planning",
+      "title": "数字游民的生活方式与财务规划：边旅行边赚钱的实战指南",
+      "excerpt": "离开办公室不等于放弃稳定。本文解析数字游民的真实生活方式、收入来源规划和财务安排"
     }
   ]
 }

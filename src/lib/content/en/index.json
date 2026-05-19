@@ -918,6 +918,16 @@
       "slug": "ai-customer-onboarding-tools-2026",
       "title": "5 AI Customer Onboarding Tools in 2026: Automate Product Adoption Without a CS Team",
       "excerpt": "Compare the top 5 AI-powered customer onboarding tools for SaaS solopreneurs in 2026. From Userpilot to Appcues to Intercom — automate product tours, email sequences, and in-app guidance without a customer success team."
+    },
+    {
+      "slug": "ai-product-copywriting-workflow",
+      "title": "AI Product Copywriting Workflow: From Descriptions to SEO Titles",
+      "excerpt": "Letting AI write product copy isn't just copy-paste. A complete workflow from keyword research to multi-version output with specific prompts."
+    },
+    {
+      "slug": "2026-browser-extensions-ecommerce-sellers",
+      "title": "5 Must-Have Browser Extensions for Ecommerce Sellers in 2026",
+      "excerpt": "Install 5 free browser extensions to double your efficiency in product research, competitor monitoring, and customer service. Setup guide included."
     }
   ],
   "wear": [
@@ -1430,6 +1440,21 @@
       "slug": "summer-2026-mens-fashion-trends-solopreneur",
       "title": "Summer 2026 Men's Fashion Trends: What Every Solopreneur Needs in Their Warm-Weather Wardrobe",
       "excerpt": "Stay cool and professional this summer. Discover the top 2026 men's fashion trends for solopreneurs — from technical linen blends to elevated polos to sustainable sneakers that transition from coffee shops to client meetings."
+    },
+    {
+      "slug": "summer-commute-mens-fabric-guide",
+      "title": "Summer Commute Style: Choosing Breathable, Wrinkle-Resistant Fabrics",
+      "excerpt": "What to wear commuting in summer without looking sloppy? From linen blends to performance fabrics, here is your complete hot-weather style guide."
+    },
+    {
+      "slug": "entry-level-workwear-mens-guide",
+      "title": "Entry-Level Workwear: Building 5 Professional Outfits on a $400 Budget",
+      "excerpt": "Just graduated and confused about office dress codes? Build 5 polished looks with a minimal budget — specific pieces and brands included."
+    },
+    {
+      "slug": "white-tshirt-jeans-styling-tips",
+      "title": "The Hidden Art of White T-Shirts and Jeans: Why Your Basics Look Basic",
+      "excerpt": "Same white tee, same jeans — why do some looks like street style and others like errands? 7 details that elevate your basics game."
     }
   ],
   "ops": [
@@ -1967,6 +1992,16 @@
       "slug": "solopreneur-churn-reduction-playbook-2026",
       "title": "7 Data-Backed Churn Reduction Strategies for Solopreneurs in 2026: Keep More Customers With Less Effort",
       "excerpt": "Discover 7 proven churn reduction strategies for solo SaaS founders in 2026. From AI-powered win-back sequences to usage-based triggers, reduce churn by up to 40% without hiring a customer success team."
+    },
+    {
+      "slug": "ai-user-segmentation-solo-founder",
+      "title": "Customer Segmentation for Solopreneurs: AI-Powered Precision Marketing Without a Data Team",
+      "excerpt": "No data team? No problem. Build a low-cost customer segmentation system using AI tools and spreadsheets that actually drives repeat purchases."
+    },
+    {
+      "slug": "cross-border-low-budget-startup-roadmap",
+      "title": "Low-Budget Cross-Border Ecommerce: A 90-Day Launch Roadmap to $1000/month",
+      "excerpt": "Can you start cross-border ecommerce with $700? Yes. Here is a complete 90-day launch roadmap from product research to first sale."
     }
   ],
   "mood": [
@@ -2413,6 +2448,21 @@
       "slug": "building-creative-consistency-solopreneur-2026",
       "title": "Building Creative Consistency as a Solopreneur: Stop Waiting for Inspiration in 2026",
       "excerpt": "Creative consistency beats bursts of inspiration. Discover how solopreneurs build AI-powered creative routines, overcome creative blocks, and produce high-quality content consistently without burning out."
+    },
+    {
+      "slug": "solo-founder-work-rhythm-stability",
+      "title": "How Solo Entrepreneurs Build a Sustainable Work Rhythm: Escape Burnout Without Sacrificing Growth",
+      "excerpt": "Entrepreneurship doesn't mean 24/7. Learn how to build a flexible yet productive work rhythm that delivers results while preserving quality of life."
+    },
+    {
+      "slug": "managing-anxiety-ecommerce-entrepreneur",
+      "title": "From Anxiety to Focus: An Emotional Management Guide for Ecommerce Founders",
+      "excerpt": "Inventory pressure, rating drops, ad spend anxiety — ecommerce triggers are everywhere. Five proven methods to manage them."
+    },
+    {
+      "slug": "digital-nomad-lifestyle-financial-planning",
+      "title": "Digital Nomad Lifestyle: Freedom, Finances, and Finding Your Rhythm",
+      "excerpt": "Leaving the office doesn't mean giving up stability. A practical guide to location-independent income, tax strategy, and sustainable travel."
     }
   ]
 }
