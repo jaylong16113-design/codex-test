@@ -793,6 +793,26 @@
       "slug": "ai-user-manual-generation",
       "title": "AI自动生成产品用户手册：SaaS产品和电商产品的手册自动化方案",
       "excerpt": "产品手册是用户上手的第一道门槛，但手工编写耗时且容易过时。推荐5款AI工具自动从产品界面截图和功能描述生成用户手册，支持多语言输出和实时更新。"
+    },
+    {
+      "slug": "ai-voice-cloning-dubbing-tools",
+      "title": "AI语音克隆与配音工具对比：ElevenLabs、PlayHT、Respeecher和Rask.ai实测",
+      "excerpt": "深度对比ElevenLabs、PlayHT、Respeecher和Rask.ai四款工具，从克隆精度、多语言配音质量、延迟和价格四个维度实测评估。"
+    },
+    {
+      "slug": "no-code-landing-page-builders-2026",
+      "title": "2026年最佳无代码着陆页构建工具：Carrd、Unicorn Platform、Framer和Softr横评",
+      "excerpt": "实测Carrd、Unicorn Platform、Framer和Softr四款无代码着陆页工具，对比搭建速度、转化率、加载性能和真实零代码体验。"
+    },
+    {
+      "slug": "ai-meeting-assistants-comparison",
+      "title": "AI会议助手评测：Fireflies、Otter.ai、Fathom和Granola横向对比",
+      "excerpt": "实测Fireflies.ai、Otter.ai、Fathom和Granola四款AI会议助手，从转写精度、待办提取、CRM集成和效率提升四个维度对比。"
+    },
+    {
+      "slug": "seo-research-automation-tools",
+      "title": "SEO研究自动化工具对比：Ahrefs、Semrush、NeuronWriter和LowFruits实测",
+      "excerpt": "实测Ahrefs、Semrush、NeuronWriter和LowFruits四款SEO研究工具，从关键词发现、SERP分析、内容缺口检测和真实ROI四个维度对比评测。"
     }
   ],
   "wear": [
@@ -1355,6 +1375,31 @@
       "slug": "suit-care-storage-guide",
       "title": "西装保养与收纳完全指南：一套好西装穿10年的秘诀",
       "excerpt": "一套好西装价值不菲，不会保养等于浪费钱。本文从干洗频率到挂放方法到旅行收纳到去皱技巧，覆盖西装保养的方方面面。"
+    },
+    {
+      "slug": "linen-suit-summer-style-guide",
+      "title": "亚麻西服夏日指南",
+      "excerpt": "亚麻西服是夏季绅士的必备单品，本指南从面料选择、版型搭配到场合着装，全面解析如何穿出清凉与格调。"
+    },
+    {
+      "slug": "mens-color-matching-beyond-basics",
+      "title": "男装色彩搭配进阶指南",
+      "excerpt": "从色彩理论到实战搭配，本指南带你掌握男装配色技巧，轻松驾驭同色系搭配、对比色运用和全身不超过三色的黄金法则。"
+    },
+    {
+      "slug": "travel-capsule-wardrobe-business",
+      "title": "商务旅行胶囊衣橱指南",
+      "excerpt": "出差不再为打包发愁！本指南教你用15件单品打造多功能商务旅行胶囊衣橱，一箱搞定会议、晚餐和休闲场合，轻装出行。"
+    },
+    {
+      "slug": "men-grooming-style-complete",
+      "title": "男士形象管理完全指南",
+      "excerpt": "从护肤基础到发型管理，从胡须造型到个人卫生习惯，一站式男士形象管理指南，助你打造专业得体的个人形象。"
+    },
+    {
+      "slug": "sustainable-denim-quality-guide",
+      "title": "可持续丹宁与品质选购指南",
+      "excerpt": "环保与品质并存！了解可持续丹宁的面料选择、生产工艺认证和品质鉴别方法，做一个有态度的牛仔爱好者。"
     }
   ],
   "ops": [
@@ -1917,6 +1962,26 @@
       "slug": "data-driven-growth-solopreneur",
       "title": "用数据驱动一人公司增长：落地实操的5个核心指标和工具",
       "excerpt": "一人公司没有数据团队也能做数据驱动。精选5个最核心的指标——LTV、CAC、NPS、ARR、流失率——手把手教你搭建免费的数据追踪系统并做出正确决策。"
+    },
+    {
+      "slug": "email-marketing-automation-solopreneur",
+      "title": "一人公司邮件营销自动化：从零搭建自动运转的增长系统",
+      "excerpt": "独立创业者如何从零搭建邮件营销自动化系统，涵盖工具选型方法论、自动化工作流搭建技巧和用户分群策略，让邮件系统实现24小时自动运转获客，无需编程基础一周内即可上线运行。"
+    },
+    {
+      "slug": "linkedin-personal-brand-2026",
+      "title": "2026年LinkedIn个人品牌：独立创业者的完整运营指南",
+      "excerpt": "在LinkedIn上建立吸引客户和商业机会的个人品牌，涵盖个人资料优化技巧、3-3-3内容策略框架和每日互动运营流程，帮助一人公司实现高质量获客和长期品牌价值建设。"
+    },
+    {
+      "slug": "customer-retention-small-business",
+      "title": "小企业客户留存策略：2026年行之有效的实战指南",
+      "excerpt": "无需高预算也能做好客户留存。涵盖客户忠诚度计划设计、购买后7天跟进流程搭建、邮件互动策略和个性化运营技巧，有效帮助企业降低客户流失率并提升客户复购率和长期忠诚度。"
+    },
+    {
+      "slug": "automate-bookkeeping-solopreneur",
+      "title": "一人公司财务管理自动化：实现财务自由的完整指南",
+      "excerpt": "彻底告别手动记账繁琐工作。面向独立创业者的财务管理自动化指南，涵盖收入支出自动追踪、发票管理、税务准备和财务报告系统搭建，实现每周仅需15分钟的财务自动化管理。"
     }
   ],
   "mood": [
@@ -2484,6 +2549,36 @@
       "slug": "creative-routine-solopreneur",
       "title": "一人公司的创作节奏：如何持续输出高质量内容而不burnout",
       "excerpt": "创作型一人公司最大的挑战不是才华不足，而是无法持续。分享一套防burnout的创作系统，从灵感收集到批量创作到发布节奏，让你常年保持稳定输出。"
+    },
+    {
+      "slug": "imposter-syndrome-solopreneur-overcome",
+      "title": "年入百万依然觉得自己是骗子？一个独立创业者克服冒名顶替综合征的真实历程",
+      "excerpt": "冒名顶替综合征困扰着无数创业者。我用亲身经历分享从自我怀疑到建立信心的实战方法，帮你真正认可自己的价值和能力，不再被自我怀疑束缚。"
+    },
+    {
+      "slug": "daily-creative-habits-consistency",
+      "title": "别再等灵感了：我用每天两句话的习惯，建立起持续创作的创意系统",
+      "excerpt": "创造力不是天赋，而是一种可以训练的习惯。分享如何通过微小的日常仪式，把断断续续的创作冲动变成可持续的创意实践，让创意成为日常。"
+    },
+    {
+      "slug": "financial-anxiety-entrepreneur-manage",
+      "title": "凌晨三点不再惊醒：一个创业者的财务焦虑管理实战手册",
+      "excerpt": "财务焦虑是每个创业者如影随形的阴影，让人夜不能寐。我分享自己建立财务系统、调整心态、在不确定性中找到内心平静的完整经验和方法。"
+    },
+    {
+      "slug": "power-of-saying-no-focus",
+      "title": "学会说「不」的艺术：我如何从讨好所有人到专注做真正重要的事",
+      "excerpt": "说「不」是独立创业者最被低估的超能力。分享从不敢拒绝到学会优雅说「不」的完整历程，用边界感保护你有限的时间和创造力。"
+    },
+    {
+      "slug": "genuine-connections-solo-founder",
+      "title": "一个人创业不等于孤军奋战：我是如何建立真实人际连接的",
+      "excerpt": "孤独是独立创业者最隐蔽的伤痛，却很少有人谈论。分享从社交疲惫到建立深度关系的真实历程，帮你找到真正理解你的人和圈子。"
+    },
+    {
+      "slug": "mindfulness-entrepreneur-stress",
+      "title": "正念创业：我如何在忙碌中驯服焦虑，找回内心的秩序感",
+      "excerpt": "正念不是打坐冥想，而是创业者必备的心理工具。分享专为创业者设计的实用正念方法，每天几分钟就能减少压力、提高决策质量。"
     }
   ]
 }

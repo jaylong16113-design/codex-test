@@ -973,6 +973,26 @@
       "slug": "ai-user-manual-generation",
       "title": "AI User Manual Generation: Automate Product Documentation for SaaS and E-Commerce",
       "excerpt": "Product manuals are the first step of user onboarding but tedious to write. 5 AI tools that auto-generate manuals from screenshots and feature descriptions."
+    },
+    {
+      "slug": "ai-voice-cloning-dubbing-tools",
+      "title": "AI Voice Cloning & Dubbing Tools Compared: ElevenLabs, PlayHT, Respeecher, and Rask.ai in 2026",
+      "excerpt": "ElevenLabs vs PlayHT vs Respeecher vs Rask.ai — head-to-head on voice cloning accuracy, multilingual dubbing quality, pricing, and real production latency."
+    },
+    {
+      "slug": "no-code-landing-page-builders-2026",
+      "title": "Best No-Code Landing Page Builders in 2026: Carrd, Unicorn Platform, Framer, and Softr Compared",
+      "excerpt": "Hands-on review of Carrd, Unicorn Platform, Framer, and Softr — comparing conversion rates, load speeds, A/B testing, and zero-code limits."
+    },
+    {
+      "slug": "ai-meeting-assistants-comparison",
+      "title": "AI Meeting Assistants Compared: Fireflies, Otter.ai, Fathom, and Granola in 2026",
+      "excerpt": "Real-world testing of Fireflies, Otter, Fathom, and Granola on transcription accuracy, action item extraction, CRM depth, and ROI for solo founders."
+    },
+    {
+      "slug": "seo-research-automation-tools",
+      "title": "SEO Research Automation Tools in 2026: Ahrefs, Semrush, NeuronWriter, and LowFruits Compared",
+      "excerpt": "Tested head-to-head: Ahrefs, Semrush, NeuronWriter, and LowFruits for keyword research automation, SERP analysis, content gap detection, and SEO ROI."
     }
   ],
   "wear": [
@@ -1550,6 +1570,31 @@
       "slug": "suit-care-storage-guide",
       "title": "Suit Care and Storage Complete Guide: Make Your Suit Last 10 Years",
       "excerpt": "A quality suit is an investment. From dry cleaning frequency to proper hanging to travel packing to wrinkle removal — complete suit care for longevity."
+    },
+    {
+      "slug": "linen-suit-summer-style-guide",
+      "title": "The Complete Linen Suit Summer Style Guide",
+      "excerpt": "Master the art of wearing linen suits in summer with our comprehensive guide covering fabric selection, fit, styling combinations, and care tips for every occasion."
+    },
+    {
+      "slug": "mens-color-matching-beyond-basics",
+      "title": "Men's Color Matching: Beyond the Basics",
+      "excerpt": "Elevate your style with advanced color matching techniques — from color theory fundamentals to monochromatic mastery, complementary combinations, and seasonal palettes."
+    },
+    {
+      "slug": "travel-capsule-wardrobe-business",
+      "title": "The Ultimate Business Travel Capsule Wardrobe Guide",
+      "excerpt": "Pack smarter, not harder. Learn to build a 15-piece capsule wardrobe that covers meetings, dinners, and downtime — all in one carry-on for seamless business travel."
+    },
+    {
+      "slug": "men-grooming-style-complete",
+      "title": "The Complete Men's Grooming and Style Guide",
+      "excerpt": "A comprehensive guide to personal grooming for men — skincare fundamentals, hair management, beard care, oral hygiene, and scent strategy for a polished, professional image."
+    },
+    {
+      "slug": "sustainable-denim-quality-guide",
+      "title": "Sustainable Denim: The Complete Quality Buying Guide",
+      "excerpt": "Discover how sustainable denim combines eco-friendly production with superior quality — learn about organic cotton, recycled fibers, waterless dyeing, and how to identify premium jeans."
     }
   ],
   "ops": [
@@ -2147,6 +2192,26 @@
       "slug": "data-driven-growth-solopreneur",
       "title": "Data-Driven Growth for Solopreneurs: 5 Metrics That Actually Matter",
       "excerpt": "No data team? No problem. The 5 core metrics — LTV, CAC, NPS, ARR, churn — and how to track them for free to make better decisions."
+    },
+    {
+      "slug": "email-marketing-automation-solopreneur",
+      "title": "Email Marketing Automation for Solopreneurs: Build a System That Runs on Autopilot",
+      "excerpt": "Learn how solopreneurs set up email marketing automation from scratch — tools, workflows, and segment strategies that drive sales on autopilot."
+    },
+    {
+      "slug": "linkedin-personal-brand-2026",
+      "title": "LinkedIn Personal Brand in 2026: The Solopreneur's Complete Playbook",
+      "excerpt": "Build a LinkedIn personal brand that attracts clients. A playbook on profile optimization, content strategy, and daily engagement for solopreneurs."
+    },
+    {
+      "slug": "customer-retention-small-business",
+      "title": "Customer Retention Strategies for Small Businesses: Proven Tactics That Work in 2026",
+      "excerpt": "Small business customer retention without big budgets. Post-purchase follow-up, loyalty programs, and personalization tactics that reduce churn."
+    },
+    {
+      "slug": "automate-bookkeeping-solopreneur",
+      "title": "Automate Bookkeeping for Solopreneurs: A Complete Guide to Financial Peace of Mind",
+      "excerpt": "Eliminate manual bookkeeping forever. A guide to automating income tracking, invoicing, tax prep, and financial reporting with affordable tools."
     }
   ],
   "mood": [
@@ -2668,6 +2733,36 @@
       "slug": "creative-routine-solopreneur",
       "title": "Creative Routine for Solopreneurs: How to Keep Shipping Without Burning Out",
       "excerpt": "The #1 challenge for creative solopreneurs isn't talent — it's sustainability. A system for consistent output without burnout."
+    },
+    {
+      "slug": "imposter-syndrome-solopreneur-overcome",
+      "title": "I Built a Six-Figure Business and Still Felt Like a Fraud — Here's How I Overcame Imposter Syndrome",
+      "excerpt": "Imposter syndrome hits solopreneurs hard. I share my journey from self-doubt to confidence with actionable strategies that helped me own my expertise."
+    },
+    {
+      "slug": "daily-creative-habits-consistency",
+      "title": "The Creative Muscle: How Tiny Daily Habits Built a Sustainable Creative Practice That Changed My Life",
+      "excerpt": "Creativity isn't a gift — it's a habit. I share the daily routines that transformed my inconsistent creative bursts into a reliable practice."
+    },
+    {
+      "slug": "financial-anxiety-entrepreneur-manage",
+      "title": "Sleeping Better at Night: How I Learned to Manage Financial Anxiety as an Entrepreneur",
+      "excerpt": "Financial anxiety is the solopreneur's shadow. I share a system for managing money stress, building resilience, and finding peace with uncertainty."
+    },
+    {
+      "slug": "power-of-saying-no-focus",
+      "title": "The Art of Saying No: How I Stopped Pleasing Everyone and Finally Started Building Real Focus",
+      "excerpt": "Saying no is a superpower most solopreneurs never develop. I share how declining opportunities transformed my business and my peace of mind."
+    },
+    {
+      "slug": "genuine-connections-solo-founder",
+      "title": "Going It Alone, Together: How I Built Genuine Connections as a Solo Founder",
+      "excerpt": "Loneliness is the silent struggle of solopreneurship. I share how I built meaningful relationships that sustain both my business and my soul."
+    },
+    {
+      "slug": "mindfulness-entrepreneur-stress",
+      "title": "The Mindful Entrepreneur: How I Tamed the Chaos Without Slowing Down My Business",
+      "excerpt": "Mindfulness isn't about sitting on a cushion. I share practical practices that reduced my stress and improved my decision-making."
     }
   ]
 }
