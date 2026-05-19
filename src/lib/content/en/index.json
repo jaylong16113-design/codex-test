@@ -928,6 +928,31 @@
       "slug": "2026-browser-extensions-ecommerce-sellers",
       "title": "5 Must-Have Browser Extensions for Ecommerce Sellers in 2026",
       "excerpt": "Install 5 free browser extensions to double your efficiency in product research, competitor monitoring, and customer service. Setup guide included."
+    },
+    {
+      "slug": "ai-customer-service-ticket-system-guide",
+      "title": "Building an AI Customer Service Ticket System: A Complete Guide for Ecommerce Solopreneurs",
+      "excerpt": "From ticket flow design and AI auto-classification to knowledge base smart replies — a step-by-step guide to building a complete AI customer service ticket system that boosts resolution speed by 5x"
+    },
+    {
+      "slug": "ai-ecommerce-data-analytics-tools-comparison",
+      "title": "AI Ecommerce Data Analytics Tools Compared: 8 Platforms Tested for Solopreneurs in 2026",
+      "excerpt": "A head-to-head comparison of 8 AI-powered ecommerce analytics tools tested on real store data — covering data integration, trend prediction, anomaly alerts, and actionable recommendations"
+    },
+    {
+      "slug": "ai-inventory-management-automation-guide",
+      "title": "AI Inventory Management Automation: From Stockout Anxiety to Smart Replenishment",
+      "excerpt": "Break the cycle of stockouts and overstocking with AI-powered demand forecasting, automated replenishment, and multi-warehouse optimization — a practical guide to improving inventory turnover by 40%"
+    },
+    {
+      "slug": "ai-short-video-matrix-tools-ecommerce",
+      "title": "AI Short Video Matrix Tools for Ecommerce: Running 100 Accounts from One Phone",
+      "excerpt": "From account matrix setup and AI bulk content differentiation to multi-platform auto-publishing — the complete methodology for ecommerce sellers to 10x their short video traffic with AI tools"
+    },
+    {
+      "slug": "ai-product-description-ad-copy-tools",
+      "title": "AI Product Description & Ad Copy Tools Compared: 8 Tools Tested for Ecommerce in 2026",
+      "excerpt": "From product title optimization and detail page copy to ad creative generation — real-world testing of 8 AI copywriting tools with a complete workflow for higher conversion rates"
     }
   ],
   "wear": [
@@ -1455,6 +1480,31 @@
       "slug": "white-tshirt-jeans-styling-tips",
       "title": "The Hidden Art of White T-Shirts and Jeans: Why Your Basics Look Basic",
       "excerpt": "Same white tee, same jeans — why do some looks like street style and others like errands? 7 details that elevate your basics game."
+    },
+    {
+      "slug": "summer-suit-fabric-selection-guide",
+      "title": "Summer Suit Fabric Selection Guide: Stay Cool and Crisp in 34°C Heat",
+      "excerpt": "You don't have to suffer through summer in a wool suit. From linen and high-twist wool to seersucker and cotton-linen blends — this guide breaks down 6 summer suiting fabrics with their pros, cons, and best-use scenarios. Includes budget recommendations and a quick-reference comparison table."
+    },
+    {
+      "slug": "business-capsule-wardrobe-guide",
+      "title": "The Business Capsule Wardrobe: 12 Pieces, 30+ Outfits for Year-Round Commuting",
+      "excerpt": "Stop staring at a full closet with 'nothing to wear.' This guide walks you through building a business capsule wardrobe with just 12 core pieces that generate 30+ outfits across all four seasons. Includes a phased shopping plan, outfit formulas, and seasonal adaptation strategies."
+    },
+    {
+      "slug": "shirt-fabric-cotton-linen-blend",
+      "title": "Men's Shirt Fabrics Compared: Cotton vs Linen vs Blends — A Complete Guide",
+      "excerpt": "Why does one white shirt look bespoke and another look bargain-bin? The answer is fabric. This guide dives deep into cotton, linen, cotton-linen blends, and performance fabrics — covering fiber types, weaves, thread counts, and real-world buying advice for every scenario and budget."
+    },
+    {
+      "slug": "suit-shoulder-proportion-guide",
+      "title": "Narrow vs Broad Shoulders: The Complete Guide to Choosing a Suit for Your Body Type",
+      "excerpt": "The shoulder is the soul of a suit. Whether you have narrow shoulders, broad shoulders, sloped shoulders, or uneven shoulders — this guide covers padding strategies, lapel choices, shoulder construction, and alteration tips to help you find the perfect fit."
+    },
+    {
+      "slug": "business-casual-footwear-guide",
+      "title": "Men's Business Casual Shoes: The Complete Buying Guide from Oxfords to Loafers",
+      "excerpt": "The right pair of shoes can make or break a business casual outfit. This comprehensive guide covers the four essential shoe types — loafers, derbies, Chelsea boots, and monk straps — with deep dives on leather types, color matching, sole selection, and brand recommendations at every budget level."
     }
   ],
   "ops": [
@@ -2002,6 +2052,31 @@
       "slug": "cross-border-low-budget-startup-roadmap",
       "title": "Low-Budget Cross-Border Ecommerce: A 90-Day Launch Roadmap to $1000/month",
       "excerpt": "Can you start cross-border ecommerce with $700? Yes. Here is a complete 90-day launch roadmap from product research to first sale."
+    },
+    {
+      "slug": "douyin-live-stream-cold-start-2026",
+      "title": "Douyin Live Commerce Cold Start Playbook: How to Get Your First Sale with Zero Followers",
+      "excerpt": "Zero followers doesn't mean zero sales. This complete 90-day playbook covers account positioning, organic traffic loops, paid ad strategy, and sales scripting for solopreneurs launching on Douyin live commerce."
+    },
+    {
+      "slug": "xiaohongshu-koc-collaboration-matrix",
+      "title": "Building a Xiaohongshu KOC Collaboration Matrix: Maximum Reach on a Minimal Budget",
+      "excerpt": "KOC seeding is the most effective growth strategy on Xiaohongshu. This guide covers KOC discovery, collaboration models, content co-creation, and performance tracking to build a high-ROI KOC matrix for your brand."
+    },
+    {
+      "slug": "d2c-seo-content-strategy-complete",
+      "title": "The Complete DTC SEO Content Strategy Playbook: From Keywords to Rankings",
+      "excerpt": "Stop paying for clicks — earn them. This complete guide covers keyword research, content architecture, AI-assisted writing, and ranking optimization for solopreneurs running DTC brands and content sites."
+    },
+    {
+      "slug": "solopreneur-pricing-architecture",
+      "title": "The Solopreneur's Pricing Architecture: From Free to Premium — A Complete Framework",
+      "excerpt": "Pricing is the most overlooked profit lever for solo founders. This guide covers 6 pricing models, psychological principles, and testing methods to find the price that maximizes both revenue and customer satisfaction."
+    },
+    {
+      "slug": "cross-border-low-capital-startup",
+      "title": "Cross-Border Ecommerce on a Shoestring: A $700 Start-to-Profit Launch Plan",
+      "excerpt": "You don't need $10,000 to start cross-border ecommerce. This 90-day playbook covers platform selection, product research, inventory-light strategies, and traffic generation — everything for a $700 budget."
     }
   ],
   "mood": [
@@ -2463,6 +2538,36 @@
       "slug": "digital-nomad-lifestyle-financial-planning",
       "title": "Digital Nomad Lifestyle: Freedom, Finances, and Finding Your Rhythm",
       "excerpt": "Leaving the office doesn't mean giving up stability. A practical guide to location-independent income, tax strategy, and sustainable travel."
+    },
+    {
+      "slug": "solopreneur-minimalist-lifestyle-guide",
+      "title": "The Solopreneur's Minimalist Lifestyle Guide: Why Less Is Your Competitive Advantage",
+      "excerpt": "Three years into running my solo ecommerce business, I did something that seemed counterintuitive: I deleted all the store management apps f..."
+    },
+    {
+      "slug": "digital-creator-deep-work-methodology",
+      "title": "Deep Work for Digital Creators: How Solo Content Producers Get 4 Hours of Focused Output Daily",
+      "excerpt": "By 2026, AI generates content at a rate that makes human production look glacial. Everyone can produce. The question is: who produces someth..."
+    },
+    {
+      "slug": "remote-team-communication-efficiency",
+      "title": "Remote Team Communication for Solopreneurs: How to Collaborate Efficiently with Freelancers and Contractors",
+      "excerpt": "There's a persistent myth about solopreneurship: one person doing everything."
+    },
+    {
+      "slug": "entrepreneur-decision-fatigue-overcome",
+      "title": "Decision Fatigue in Entrepreneurship: Why Your 3 PM Choices Are Terrible and How to Fix It",
+      "excerpt": "Have you noticed this pattern: your morning decisions are sharp and strategic. By mid-afternoon, they start slipping. By evening, you're mak..."
+    },
+    {
+      "slug": "reading-habit-daily-routine",
+      "title": "How to Make Reading a Daily Habit: A Solopreneur's Guide to Reading 50 Books a Year",
+      "excerpt": "If I could give one piece of advice to every entrepreneur, it would be this: Read for 30 minutes every day for a year."
+    },
+    {
+      "slug": "solopreneur-comparison-trap-mindset",
+      "title": "The Comparison Trap: How Solopreneurs Can Escape the Jealousy Spiral and Reclaim Their Focus",
+      "excerpt": "Why watching other founders succeed makes you feel stuck — and a 3-step system to redirect comparison from envy into productive learning."
     }
   ]
 }
