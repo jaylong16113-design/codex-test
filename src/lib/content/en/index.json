@@ -1675,6 +1675,26 @@
       "slug": "business-casual-advanced-styling",
       "title": "Advanced Business Casual Styling: Flawless Transitions from Boardroom to Dinner",
       "excerpt": "Master the hardest dress code with three tiers of business casual expertise. 10 complete outfit formulas with texture mixing, layering, and accessory logic."
+    },
+    {
+      "slug": "summer-linen-collection-guide",
+      "title": "The Ultimate Men's Linen Guide: From Shirts to Suits to Pants",
+      "excerpt": "From 150g lightweight linings to 220g structured blazers, a complete linen guide with fabric weights, brand comparisons, and 10 outfit formulas for summer."
+    },
+    {
+      "slug": "mens-dress-shoes-complete-guide",
+      "title": "The Complete Men's Dress Shoe Guide: Oxfords, Derbies, Loafers, and Beyond",
+      "excerpt": "Goodyear welt vs Blake stitch, full-grain vs corrected grain leather, price tiers from $50 to $1500. Allen Edmonds, Loake, Meermin, and Crockett & Jones compared."
+    },
+    {
+      "slug": "mens-fall-winter-outerwear-guide",
+      "title": "The Men's Fall/Winter Outerwear Guide: From Trench Coats to Wool Overcoats",
+      "excerpt": "Trench coats, leather jackets, down parkas, and wool overcoats — a complete outerwear buying system with fabric weights, fill power data, and 4 seasonal outfit blueprints."
+    },
+    {
+      "slug": "investment-wardrobe-basics",
+      "title": "The Investment Wardrobe: Which Men's Basics Are Worth Spending More On",
+      "excerpt": "CPW (Cost Per Wear) framework: invest in suits, shoes, and coats; save on tees and socks. A 7-piece core wardrobe blueprint with budget projections."
     }
   ],
   "ops": [
@@ -2332,6 +2352,21 @@
       "slug": "sge-seo-strategy-solopreneur-2026",
       "title": "SEO in the Age of Google SGE: How Solopreneur Ecommerce Sites Can Survive and Thrive in 2026",
       "excerpt": "Analysis of how Google SGE reshapes organic traffic for solopreneur ecommerce sites. Includes traffic data, SEO checklist, and content strategy shifts for 2026."
+    },
+    {
+      "slug": "cold-start-customer-acquisition-2026",
+      "title": "Cold Start Customer Acquisition for Solopreneurs: 9 Low-Cost Channels That Actually Work",
+      "excerpt": "Product Hunt, Indie Hackers, X/Twitter, Reddit, newsletter swaps, directories, cold email, and co-marketing — real data from testing 9 acquisition channels."
+    },
+    {
+      "slug": "ops-system-notion-feishu-ai",
+      "title": "Building a One-Person Operations System: Notion + Feishu + AI Workflow",
+      "excerpt": "Notion content calendars, Feishu Bitable CRM, n8n automation pipelines, and DeepSeek/Claude API integration — a complete ops system for solo founders."
+    },
+    {
+      "slug": "whitehat-seo-2026-ai-search",
+      "title": "White Hat SEO in 2026: Content Strategy for AI-Powered Search",
+      "excerpt": "Google SGE impact on organic traffic, EEAT framework updates, topical authority clusters, AI content detection avoidance, and a technical SEO checklist."
     }
   ],
   "mood": [
@@ -2916,6 +2951,21 @@
       "slug": "minimalism-ai-era-solopreneur",
       "title": "Minimalism in the AI Era: Why Less Is More for Solopreneurs in 2026",
       "excerpt": "In 2026, AI lets one person do the work of ten. Paradoxically, minimalism — not maximization — is the solopreneur's ultimate competitive advantage."
+    },
+    {
+      "slug": "life-after-thirty-subtraction",
+      "title": "The Joy of Less After 30: Why Subtraction Is a Higher-Order Skill",
+      "excerpt": "A personal journey through physical decluttering, digital minimalism, and social pruning — and why learning to let go matters more than learning to acquire."
+    },
+    {
+      "slug": "entrepreneur-burnout-recovery",
+      "title": "The Entrepreneur's Burnout Recovery Playbook: From Exhausted to Recharged",
+      "excerpt": "Four phases of entrepreneurial burnout (denial, crash, recovery, re-entry) with concrete recovery strategies, boundary-setting methods, and daily rebuilding plans."
+    },
+    {
+      "slug": "power-of-solo-travel-founder",
+      "title": "The Power of Solo Travel: How Backpacking Alone Reshaped My Product Thinking",
+      "excerpt": "30 days backpacking through Northern Vietnam and Thailand — how uncertainty, serendipity, and solo decision-making became a product development framework."
     }
   ]
 }

@@ -1445,6 +1445,26 @@
       "slug": "business-casual-advanced-styling",
       "title": "商务休闲装进阶搭配攻略：从会议室到晚餐的无缝转换",
       "excerpt": "从基础级到高阶版，系统拆解商务休闲三个穿搭层级。涵盖品牌推荐（Theory、Suitsupply、COS、Massimo Dutti）、层次感穿搭技巧、配件点睛法则，并附10套可直接复制的搭配模板。"
+    },
+    {
+      "slug": "summer-linen-collection-guide",
+      "title": "男士夏季亚麻单品终极指南：从衬衫到西装到裤装的全场景穿搭",
+      "excerpt": "从150g轻薄内搭到220g挺括西装，亚麻单品的面料克重、品牌对比、搭配技巧全解析。Uniqlo到Theory，10套夏季造型公式。"
+    },
+    {
+      "slug": "mens-dress-shoes-complete-guide",
+      "title": "男士皮鞋选购完整指南：从牛津鞋到乐福鞋的工艺与品牌全解析",
+      "excerpt": "Goodyear固特异 vs Blake布莱克缝法、全粒面皮 vs 修面皮、300元到5000元的价格梯度。Allen Edmonds、Loake、Meermin全面对比。"
+    },
+    {
+      "slug": "mens-fall-winter-outerwear-guide",
+      "title": "男士秋冬外套选购指南：从风衣到羊毛大衣的层搭体系",
+      "excerpt": "风衣、皮革夹克、羽绒服、羊毛大衣四类外套的完整选购体系。面料克重、填充物等级、版型数据和品牌价格矩阵。"
+    },
+    {
+      "slug": "investment-wardrobe-basics",
+      "title": "男士基础款投资指南：哪些单品值得花大价钱",
+      "excerpt": "CPW（单次穿着成本）框架深度分析：西装、皮鞋、大衣值得投资，T恤、袜子可以省钱。附7件核心单品衣橱规划方案。"
     }
   ],
   "ops": [
@@ -2057,6 +2077,21 @@
       "slug": "sge-seo-strategy-solopreneur-2026",
       "title": "Google SGE时代的一人站点SEO策略：2026年独立站如何应对AI搜索的流量重构",
       "excerpt": "Google SGE（AI搜索摘要）对一人站长独立站的流量影响全面分析。讨论SGE如何改变搜索流量分配、长尾关键词策略是否还有效、内容形式需要做哪些调整（结构化数据、问答格式、深度内容），对比SGE推出前后的流量变化数据，给出2026年一人电商站长的SEO应对清单。"
+    },
+    {
+      "slug": "cold-start-customer-acquisition-2026",
+      "title": "一人公司冷启动获客：9个低成本高回报的获客渠道实测",
+      "excerpt": "Product Hunt、Indie Hackers、Twitter/X、Reddit、知乎、Newsletter互推、产品目录、冷邮件、联合营销9大渠道实测数据。"
+    },
+    {
+      "slug": "ops-system-notion-feishu-ai",
+      "title": "独立开发者如何用Notion+飞书+AI搭建一站式运营体系",
+      "excerpt": "Notion内容日历、飞书多维表格CRM、n8n自动化工作流、DeepSeek/Claude API集成的完整运营系统搭建方案。"
+    },
+    {
+      "slug": "whitehat-seo-2026-ai-search",
+      "title": "2026年白帽SEO实操指南：AI搜索时代的内容策略",
+      "excerpt": "Google SGE对独立站流量的影响、EEAT框架升级、主题权威度建设、AI内容检测绕避策略与技术SEO清单。"
     }
   ],
   "mood": [
@@ -2682,6 +2717,21 @@
       "slug": "minimalism-ai-era-solopreneur",
       "title": "极简主义在AI时代的一人公司：为什么「少即是多」在2026年更有效",
       "excerpt": "当AI工具让一人公司能力无限扩展时，极简主义成为最有力的竞争策略。从工具极简、产品极简、信息极简到社交极简四个维度，论证为什么在AI时代做得少反而能走得更远。"
+    },
+    {
+      "slug": "life-after-thirty-subtraction",
+      "title": "三十岁后的人生减法：为什么舍弃是一种更高阶的能力",
+      "excerpt": "从物质断舍离到信息极简到社交净化的完整减法实践。为什么在三十岁以后，懂得舍弃比学会拥有更重要。"
+    },
+    {
+      "slug": "entrepreneur-burnout-recovery",
+      "title": "创业倦怠自救手册：从身心俱疲到重新出发的完整路线图",
+      "excerpt": "创业倦怠的四个阶段（否认-崩溃-恢复-重建）、具体恢复策略、边界设定方法和日常重建计划。"
+    },
+    {
+      "slug": "power-of-solo-travel-founder",
+      "title": "一个人旅行的力量：独自背包旅行如何重塑了我的产品思维",
+      "excerpt": "从越南北部到泰国北部，独自背包旅行30天的真实体验。如何在不确定中找到节奏，把旅途中学到的生存法则带回产品开发。"
     }
   ]
 }
