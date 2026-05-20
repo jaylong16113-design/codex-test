@@ -1063,6 +1063,31 @@
       "slug": "ai-tiktok-shop-automation-tools",
       "title": "AI TikTok Shop Automation: Tools to Manage Products, Orders, and Analytics",
       "excerpt": "Discover the best AI-powered tools to automate your TikTok Shop — from product listing generation and inventory management to order fulfillment and performance analytics."
+    },
+    {
+      "slug": "ai-phone-agents-comparison-2026",
+      "title": "5 Best AI Phone Agents for Small Business in 2026: Retell vs Bland vs Vapi vs Synthflow vs PlayAI",
+      "excerpt": "Compare the top 5 AI phone agents for small businesses in 2026. Tested for call quality, pricing, integrations, and ease of setup. Find out which AI calling platform is right for your business."
+    },
+    {
+      "slug": "ai-phone-agent-diy-guide-2026",
+      "title": "How to Build Your Own AI Phone Agent in 2026: A Step-by-Step DIY Guide",
+      "excerpt": "A complete step-by-step guide to building a custom AI phone agent for your small business in 2026. Uses Vapi + Twilio + ChatGPT to create a voice assistant that handles calls 24/7."
+    },
+    {
+      "slug": "ai-website-personalization-tools-2026",
+      "title": "Top 7 AI Website Personalization Tools in 2026: From No-Code to Enterprise",
+      "excerpt": "Compare the top 7 AI website personalization tools for 2026 — Mutiny, Intellimize, Personyze, Dynamic Yield, Google Optimize, VWO, and Ablida. Find the right tool to boost conversions without a growth team."
+    },
+    {
+      "slug": "ai-multi-agent-frameworks-2026",
+      "title": "CrewAI vs AutoGen vs LangGraph: Comparing the Top 3 AI Multi-Agent Frameworks in 2026",
+      "excerpt": "Compare the top 3 AI multi-agent orchestration frameworks in 2026 — CrewAI, Microsoft AutoGen, and LangGraph. Tested for ease of use, scalability, flexibility, and real-world deployment."
+    },
+    {
+      "slug": "ai-agents-orchestration-playbook-2026",
+      "title": "Build Your First Multi-Agent AI System: A Practical Playbook for 2026",
+      "excerpt": "A hands-on playbook for building a multi-agent AI system using CrewAI. Learn how to design agent roles, define tasks, create workflows, and deploy a real multi-agent system that automates complex business processes."
     }
   ],
   "wear": [
@@ -2427,6 +2452,31 @@
       "slug": "solopreneur-personal-brand-building",
       "title": "Building a Personal Brand as a Solopreneur: The AI-Assisted Approach",
       "excerpt": "Learn how solopreneurs can build a powerful personal brand using AI tools. A step-by-step guide to content creation, audience growth, and monetization."
+    },
+    {
+      "slug": "ai-personalization-playbook-2026",
+      "title": "The AI Website Personalization Playbook: How to 2x Conversions in 30 Days",
+      "excerpt": "A 30-day playbook for implementing AI website personalization without a development team. From audience segmentation to dynamic content to A/B testing — boost conversions by 2x."
+    },
+    {
+      "slug": "ai-data-enrichment-tools-2026",
+      "title": "5 Best AI Data Enrichment & Prospecting Tools in 2026: Clay, Apollo, and Beyond",
+      "excerpt": "Compare the top 5 AI data enrichment and prospecting tools in 2026 — Clay, Apollo, Lusha, ZoomInfo, and PeopleDataLabs. Find the right tool to enrich leads, automate prospecting, and close more deals as a solo founder."
+    },
+    {
+      "slug": "ai-prospecting-workflow-automation-2026",
+      "title": "Build an AI-Powered Prospecting Workflow: From Lead Find to Email Sent in 10 Minutes",
+      "excerpt": "Learn how to build an automated AI prospecting workflow that finds leads, enriches data, writes personalized emails, and sends them — all without a sales team. Complete guide using Clay, Apollo, and ChatGPT."
+    },
+    {
+      "slug": "ai-privacy-compliance-tools-2026",
+      "title": "7 Best AI Privacy & Compliance Tools for Small Business in 2026",
+      "excerpt": "Compare the top 7 AI privacy compliance tools — OneTrust, TrustArc, Securiti, DataGrail, MineOS, Ethyca, and Osano. Stay GDPR, CCPA, and LGPD compliant without a legal team."
+    },
+    {
+      "slug": "ai-compliance-solo-founder-guide-2026",
+      "title": "Privacy Compliance for Solo Founders in 2026: A Practical Guide Without a Legal Team",
+      "excerpt": "A practical step-by-step guide for solo founders to achieve GDPR, CCPA, and new 2026 state privacy law compliance without hiring a lawyer or compliance officer."
     }
   ],
   "mood": [
