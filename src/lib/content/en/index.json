@@ -1023,6 +1023,16 @@
       "slug": "ai-tiktok-growth-tools-solopreneurs-2026",
       "title": "Top 5 AI TikTok Growth and Automation Tools for Solopreneurs in 2026: Go Viral Without a Team",
       "excerpt": "Discover the top 5 AI TikTok growth and automation tools in 2026 — Later AI, Vista Social, Hootsuite AI, Buffer AI, and TikTok Creator Marketplace. Automate posting, optimize hashtags, and grow following without a social media team."
+    },
+    {
+      "slug": "ai-tool-stack-2026-sourcing-repeat",
+      "title": "2026 AI Ecommerce Tool Stack: From Product Sourcing to Repeat Purchase Automation",
+      "excerpt": "The ultimate AI tool stack for solo ecommerce sellers in 2026. 10+ tools covering the complete chain: sourcing, listing, marketing, customer service, and retention. Full workflow with cost analysis."
+    },
+    {
+      "slug": "n8n-workflow-orchestration-solo",
+      "title": "n8n Workflow Orchestration for Solopreneurs: Automate 20+ Tools",
+      "excerpt": "n8n is the most underrated automation tool for solopreneurs. Build 5 core automation pipelines: order processing, customer service, content distribution, analytics, and finance. Complete node configurations for each."
     }
   ],
   "wear": [
@@ -1630,6 +1640,16 @@
       "slug": "ai-wardrobe-style-planning-apps-2026",
       "title": "5 Best AI-Powered Wardrobe and Style Planning Apps in 2026: Never Have Nothing to Wear Again",
       "excerpt": "Discover the top 5 AI-powered wardrobe and style planning apps in 2026 — Style DNA, Whering, Pureple, Look Scope, and Smart Closet AI. Digitize your closet, get AI outfit recommendations, and plan your wardrobe like a personal stylist."
+    },
+    {
+      "slug": "complete-business-casual-2026",
+      "title": "Complete Business Casual Style Guide 2026: Office to After-Work Transitions",
+      "excerpt": "Business casual is the most important dress code for modern professionals. A four-layer system with 8 complete outfits covering every season and occasion — from client meetings to after-work drinks."
+    },
+    {
+      "slug": "summer-capsule-ten-pieces",
+      "title": "Summer Capsule Wardrobe: 10 Essential Pieces for Every Occasion",
+      "excerpt": "Build a summer wardrobe with just 10 versatile, high-quality pieces. Complete buying guide with budget tiers from $150 to $500, plus 6 outfit formulas for work, travel, dates, and weekends."
     }
   ],
   "ops": [
@@ -2257,6 +2277,21 @@
       "slug": "best-freelance-platforms-solopreneurs-2026",
       "title": "8 Best Freelance Platforms for Solopreneurs in 2026: Upwork vs Fiverr vs Contra vs Toptal",
       "excerpt": "Compare the top 8 freelance platforms for solopreneurs in 2026 — Upwork, Fiverr, Contra, Toptal, PeoplePerHour, Freelancer.com, Guru, and Fiverr Pro. Find where to find high-quality clients and build a freelance business."
+    },
+    {
+      "slug": "customer-success-system-solo",
+      "title": "Solopreneur Customer Success System: Automate Client Lifecycle Management",
+      "excerpt": "How to build a customer success system as a solopreneur without hiring a CS team. From onboarding automation to health scoring to churn prevention — a complete playbook."
+    },
+    {
+      "slug": "content-monetization-path",
+      "title": "Content Monetization Roadmap: From Free Traffic to Paid Communities",
+      "excerpt": "A complete blueprint for monetizing content as a solopreneur. 7 stages from zero audience to paid community, covering platform strategy, product design, pricing psychology, and retention systems."
+    },
+    {
+      "slug": "solo-dev-project-management",
+      "title": "Solo Developer Project Management: Notion + Feishu for One-Person Operations",
+      "excerpt": "How solo developers can build a complete project management system using Notion and Feishu. Product roadmap, client tracking, supplier management — zero cost, maximum efficiency."
     }
   ],
   "mood": [
@@ -2813,6 +2848,24 @@
       "slug": "habit-tracking-apps-solopreneurs-2026",
       "title": "6 Best Habit Tracking Apps for Solopreneurs in 2026: Build Systems That Stick",
       "excerpt": "Compare the top 6 habit tracking apps for solopreneurs in 2026 — Habitica, Streaks, Loop Habit Tracker, Habitify, Done, and Productive. Find the perfect habit tracker to build daily routines and boost productivity."
+    },
+    {
+      "slug": "energy-management-30s-founders",
+      "title": "Energy Management for Founders in Their 30s: Optimize Your Daily Output",
+      "excerpt": "Energy management isn't time management. Learn to optimize sleep cycles, attention switching costs, deep work zones, and post-lunch slumps. Practical science-based system for founders in their 30s.",
+      "site": "mood"
+    },
+    {
+      "slug": "sustainable-creative-habits-system",
+      "title": "Sustainable Creative Habits: Systems Over Willpower",
+      "excerpt": "Stop waiting for inspiration. Build a creative system based on habit stacking, the Seinfeld chain method, and minimum viable output. A practical framework for consistent daily content creation.",
+      "site": "mood"
+    },
+    {
+      "slug": "solitude-creative-weapon-founders",
+      "title": "The Art of Solitude: How Founders Turn Loneliness Into Creative Superpower",
+      "excerpt": "Solitude is the secret weapon of creative founders. Neuroscience-backed guide on using structured alone time for deep creative work, digital detox routines, and building a healthy relationship with solitude.",
+      "site": "mood"
     }
   ]
 }
