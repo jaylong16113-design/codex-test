@@ -833,6 +833,31 @@
       "slug": "ai-cross-border-shipping-cost-calculator",
       "title": "AI跨境物流成本计算与优化指南：从运价对比到关税计算的自动化方案",
       "excerpt": "全面对比ShipBob、17TRACK AI、Freightos、Flexport等工具的AI物流成本计算能力，涵盖FBA头程、小包直邮、海外仓三大场景的成本优化方案，附真实运费对比表格和一人卖家物流优化行动清单。"
+    },
+    {
+      "slug": "ai-shopify-product-page-optimization",
+      "title": "AI优化Shopify产品页面：从标题优化到转化率提升的完整实操指南",
+      "excerpt": "用AI工具系统优化Shopify产品页面的每一个元素——标题、描述、图片、价格锚点、CTA按钮，实测转化率提升30%以上的完整方法论。"
+    },
+    {
+      "slug": "ai-ecommerce-inventory-forecasting",
+      "title": "AI电商库存预测与自动补货系统搭建：用数据驱动告别缺货与积压",
+      "excerpt": "搭建基于AI的电商库存预测系统，从数据收集到自动补货规则设定，让库存周转率提升40%、缺货率降低70%的实操教程。"
+    },
+    {
+      "slug": "ai-ecommerce-seo-tool-chain",
+      "title": "电商SEO自动化工具链搭建：从关键词挖掘到排名监控的一站式方案",
+      "excerpt": "从关键词挖掘到排名监控，手把手教你搭建电商SEO自动化工具链。涵盖Ahrefs、SEMrush、DeepSeek等工具的串联使用方法与实战案例。"
+    },
+    {
+      "slug": "xiaohongshu-ai-tool-ecommerce",
+      "title": "小红书电商AI工具实战手册：从笔记生成到种草转化的全流程",
+      "excerpt": "从AI选题、批量笔记生成、图片优化到数据分析，完整拆解小红书电商运营中AI工具的具体使用方法和提效策略。"
+    },
+    {
+      "slug": "ai-reviews-analysis-ecommerce",
+      "title": "AI商品评论分析与产品优化：从用户差评中挖掘产品迭代方向",
+      "excerpt": "学会用AI工具分析电商评论数据，从海量差评中提取产品改进方向。本文涵盖数据采集、NLP情感分析、竞品洞察及产品迭代的完整工作流。"
     }
   ],
   "wear": [
@@ -1465,6 +1490,31 @@
       "slug": "investment-wardrobe-basics",
       "title": "男士基础款投资指南：哪些单品值得花大价钱",
       "excerpt": "CPW（单次穿着成本）框架深度分析：西装、皮鞋、大衣值得投资，T恤、袜子可以省钱。附7件核心单品衣橱规划方案。"
+    },
+    {
+      "slug": "nanshi-chunji-waizhuang-dapei",
+      "title": "男士春季外套选购与搭配完全指南：从牛仔夹克到风衣的穿搭法则",
+      "excerpt": "从牛仔夹克到风衣，从工装夹克到西装外套，一篇讲清楚男士春季外套的选购要点、搭配技巧和颜色选择，附5套完整穿搭方案。"
+    },
+    {
+      "slug": "nanzhuang-summer-linen-dapei",
+      "title": "夏季男装亚麻单品选购指南：从衬衫到西裤的清凉搭配方案",
+      "excerpt": "夏季男士亚麻服装选购与搭配完整指南。从亚麻衬衫、西裤到西装外套，详解面料等级、版型选择、搭配方案及护理技巧，帮你清凉一夏。"
+    },
+    {
+      "slug": "nanshi-shencai-xizhuang-xuanze",
+      "title": "不同身材类型男士的西装版型选择指南：穿对版型胜过定制",
+      "excerpt": "详细解析倒三角、苹果型、梨型、矩形和矮个身材的西装选择要点，附具体品牌推荐和试穿检查清单。"
+    },
+    {
+      "slug": "nanshi-mianliao-zhishi-wanquan",
+      "title": "男装面料知识完全指南：从棉麻丝毛到科技面料的选购与保养",
+      "excerpt": "全面解析棉、麻、丝、毛、化纤和科技面料的特性、选购要点和保养方法，帮你买对每一件衣服。"
+    },
+    {
+      "slug": "nanshi-yundong-xiuxian-dapei",
+      "title": "男士运动休闲风格穿搭指南：从健身房到咖啡厅的无缝切换",
+      "excerpt": "一套衣服搞定健身、通勤和社交？运动休闲风让男士从健身房到咖啡厅无缝切换。本文详解5套核心搭配方案、面料选择和品牌推荐。"
     }
   ],
   "ops": [
@@ -2092,6 +2142,31 @@
       "slug": "whitehat-seo-2026-ai-search",
       "title": "2026年白帽SEO实操指南：AI搜索时代的内容策略",
       "excerpt": "Google SGE对独立站流量的影响、EEAT框架升级、主题权威度建设、AI内容检测绕避策略与技术SEO清单。"
+    },
+    {
+      "slug": "yiren-gongsi-falv-hegui",
+      "title": "一人公司创业法律合规避坑指南：从注册到知识产权保护的完整框架",
+      "excerpt": "一人公司创业者必知的法律合规要点：主体类型选择、合同模板、税务优化、知识产权保护，帮你避开90%初创者踩过的法律坑。"
+    },
+    {
+      "slug": "yiren-gongsi-neirong-fenfa-pipeline",
+      "title": "一人公司内容分发自动化：一次创作、多渠道发布的完整工作流",
+      "excerpt": "一人公司如何用自动化工具实现内容一次创作、多渠道分发？详解从Notion到公众号、知乎、小红书的完整发布流水线搭建方法。"
+    },
+    {
+      "slug": "yiren-gongsi-kehuguanxi",
+      "title": "一人公司客户关系管理系统搭建：用轻量工具维护高价值客户",
+      "excerpt": "一人公司如何用轻量工具搭建CRM系统？详解从客户信息管理、跟进自动化到增值服务的完整方案，帮助你在没有团队的情况下维护高价值客户。"
+    },
+    {
+      "slug": "yiren-gongsi-xinpinkaitong",
+      "title": "一人公司新品开发需求验证方法论：用最少的钱测试市场反应",
+      "excerpt": "从MVP设计、预售测试、用户访谈到数据决策，为一人创业者提供一套低成本、高效率的新品需求验证体系。"
+    },
+    {
+      "slug": "yiren-gongsi-shuji-tuijian",
+      "title": "一人公司创业者必读书单：改变商业思维的10本实战好书",
+      "excerpt": "精选10本适合一人公司创始人的商业书籍，涵盖产品思维、营销获客、效率管理和财务规划，每本附核心观点和落地行动指南。"
     }
   ],
   "mood": [
@@ -2732,6 +2807,31 @@
       "slug": "power-of-solo-travel-founder",
       "title": "一个人旅行的力量：独自背包旅行如何重塑了我的产品思维",
       "excerpt": "从越南北部到泰国北部，独自背包旅行30天的真实体验。如何在不确定中找到节奏，把旅途中学到的生存法则带回产品开发。"
+    },
+    {
+      "slug": "yiren-chuangye-fangxiang-tiaozheng",
+      "title": "一人公司如何判断方向对错：定期复盘与转向决策的方法论",
+      "excerpt": "一人公司没有团队可以商量，方向错了全靠自己判断。本文提供一套数据驱动的复盘框架和转舵方法论，帮你及时判断方向对错、果断调整。"
+    },
+    {
+      "slug": "tongqin-nanzhuang-dapei-jing",
+      "title": "通勤男装搭配经：用最少单品穿出最佳职场形象的胶囊衣柜法",
+      "excerpt": "胶囊衣柜法通勤男装搭配指南：用33件单品打造无限搭配组合。从西装、衬衫到鞋履的完整选购清单与搭配公式，让你每天穿得体面又省时。"
+    },
+    {
+      "slug": "yiren-gongsi-jizhongzhu-yali",
+      "title": "一人公司的自律困境：如何在没有老板的情况下保持高效",
+      "excerpt": "深入分析一人公司常见的自律陷阱，提供从环境设计、时间管理到心理调节的完整解决方案。"
+    },
+    {
+      "slug": "zaiban-bianjie-gongzuo-shenghuo",
+      "title": "在家办公如何保持工作与生活的边界：自由职业者的空间与时间管理术",
+      "excerpt": "在家办公两年后我总结的10个实用方法：从物理空间隔离到时间块管理，从仪式感到数字极简，帮自由职业者找回工作与生活的平衡。"
+    },
+    {
+      "slug": "du-shu-sikao-shangye-shuji",
+      "title": "读书与思考：一人公司创始人如何通过阅读构建商业认知体系",
+      "excerpt": "一人公司创始人如何在有限时间内通过高效阅读构建商业认知体系？分享我的三层阅读框架、主题阅读法和知识内化工作流。"
     }
   ]
 }
