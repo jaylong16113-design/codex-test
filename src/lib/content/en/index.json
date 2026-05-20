@@ -1033,6 +1033,16 @@
       "slug": "n8n-workflow-orchestration-solo",
       "title": "n8n Workflow Orchestration for Solopreneurs: Automate 20+ Tools",
       "excerpt": "n8n is the most underrated automation tool for solopreneurs. Build 5 core automation pipelines: order processing, customer service, content distribution, analytics, and finance. Complete node configurations for each."
+    },
+    {
+      "slug": "ai-trend-prediction-tools-review-2026",
+      "title": "AI Product Trend Prediction Tools Reviewed: Which Ones Actually Find Winners in 2026?",
+      "excerpt": "Compare Jungle Scout AI, Helium 10 Trendster, SellerSprite, and Oulu AI across accuracy, frequency, UI/UX, and pricing for solo sellers."
+    },
+    {
+      "slug": "ai-cross-border-shipping-cost-calculator",
+      "title": "AI-Powered Cross-Border Shipping Cost Calculator: From Rate Comparison to Duty Automation",
+      "excerpt": "Compare ShipBob, 17TRACK, Freightos, and Flexport AI for cross-border shipping. Covers FBA inbound, small packet, and overseas warehouse cost analysis."
     }
   ],
   "wear": [
@@ -1650,6 +1660,21 @@
       "slug": "summer-capsule-ten-pieces",
       "title": "Summer Capsule Wardrobe: 10 Essential Pieces for Every Occasion",
       "excerpt": "Build a summer wardrobe with just 10 versatile, high-quality pieces. Complete buying guide with budget tiers from $150 to $500, plus 6 outfit formulas for work, travel, dates, and weekends."
+    },
+    {
+      "slug": "commuter-capsule-wardrobe-8-pieces",
+      "title": "The Commuter's Capsule Wardrobe: 8 Pieces, 30 Days of Non-Repeating Outfits",
+      "excerpt": "Build a versatile capsule wardrobe with just 8 core pieces. A 30-day outfit calendar, color system, and brand guide for the modern commuter."
+    },
+    {
+      "slug": "summer-mens-fabrics-linen-guide",
+      "title": "Summer Men's Fabrics Guide: From Linen to Hemp-Cotton Blends for Breathable Comfort",
+      "excerpt": "A complete guide to summer fabrics for men: linen, cotton blends, seersucker, mercerized cotton, and bamboo fiber with breathability scores and styling tips."
+    },
+    {
+      "slug": "business-casual-advanced-styling",
+      "title": "Advanced Business Casual Styling: Flawless Transitions from Boardroom to Dinner",
+      "excerpt": "Master the hardest dress code with three tiers of business casual expertise. 10 complete outfit formulas with texture mixing, layering, and accessory logic."
     }
   ],
   "ops": [
@@ -2292,6 +2317,21 @@
       "slug": "solo-dev-project-management",
       "title": "Solo Developer Project Management: Notion + Feishu for One-Person Operations",
       "excerpt": "How solo developers can build a complete project management system using Notion and Feishu. Product roadmap, client tracking, supplier management — zero cost, maximum efficiency."
+    },
+    {
+      "slug": "ai-customer-segmentation-solopreneur-closed-loop",
+      "title": "AI Customer Segmentation for Solopreneurs: A Complete Closed-Loop System Without a Data Team",
+      "excerpt": "Build an AI customer segmentation system as a solopreneur. Covers GA4 + Shopify data collection, AI clustering, RFM modeling, and marketing automation."
+    },
+    {
+      "slug": "xiaohongshu-cps-monetization-guide",
+      "title": "Xiaohongshu (REDnote) CPS Monetization: The Complete Playbook for 2026",
+      "excerpt": "CPS monetization guide for Xiaohongshu/REDnote in 2026. Covers account positioning, product selection, Pugongying partnerships, and livestream mechanics."
+    },
+    {
+      "slug": "sge-seo-strategy-solopreneur-2026",
+      "title": "SEO in the Age of Google SGE: How Solopreneur Ecommerce Sites Can Survive and Thrive in 2026",
+      "excerpt": "Analysis of how Google SGE reshapes organic traffic for solopreneur ecommerce sites. Includes traffic data, SEO checklist, and content strategy shifts for 2026."
     }
   ],
   "mood": [
@@ -2866,6 +2906,16 @@
       "title": "The Art of Solitude: How Founders Turn Loneliness Into Creative Superpower",
       "excerpt": "Solitude is the secret weapon of creative founders. Neuroscience-backed guide on using structured alone time for deep creative work, digital detox routines, and building a healthy relationship with solitude.",
       "site": "mood"
+    },
+    {
+      "slug": "solopreneur-morning-ritual-design",
+      "title": "Designing Your Solopreneur Morning Ritual: 1 Hour for 6 Hours of Productive Work",
+      "excerpt": "A science-backed morning ritual for solopreneurs: 4 blocks of 15 minutes to unlock deep focus, energy management, and 6 hours of productive work."
+    },
+    {
+      "slug": "minimalism-ai-era-solopreneur",
+      "title": "Minimalism in the AI Era: Why Less Is More for Solopreneurs in 2026",
+      "excerpt": "In 2026, AI lets one person do the work of ten. Paradoxically, minimalism — not maximization — is the solopreneur's ultimate competitive advantage."
     }
   ]
 }
