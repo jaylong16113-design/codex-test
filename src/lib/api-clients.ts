@@ -87,7 +87,7 @@ export async function apimartVideoGeneration(params: {
       prompt: params.prompt,
       negative_prompt: params.negative_prompt || '',
       duration: params.duration,
-      resolution: params.resolution || '1920x1080',
+      resolution: params.resolution || '1080x1920',
       style: params.style || 'cinematic',
       seed: params.seed,
       n: params.n || 1,

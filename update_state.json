@@ -1,0 +1,16 @@
+{
+  "last_run": "2026-05-21T00:00:00",
+  "status": "success",
+  "articles_generated": 20,
+  "zh_articles": 10,
+  "en_articles": 10,
+  "new_total": 1136,
+  "categories": {
+    "zh_wear_added": 4,
+    "zh_ops_added": 3,
+    "zh_mood_added": 3,
+    "en_wear_added": 4,
+    "en_ops_added": 3,
+    "en_mood_added": 3
+  }
+}
