@@ -1088,6 +1088,11 @@
       "slug": "ai-agents-orchestration-playbook-2026",
       "title": "Build Your First Multi-Agent AI System: A Practical Playbook for 2026",
       "excerpt": "A hands-on playbook for building a multi-agent AI system using CrewAI. Learn how to design agent roles, define tasks, create workflows, and deploy a real multi-agent system that automates complex business processes."
+    },
+    {
+      "slug": "ai-ab-testing-tools-ecommerce-2026",
+      "title": "Top 5 AI-Powered A/B Testing Tools for E-Commerce in 2026",
+      "excerpt": "5 AI A/B testing tools: VWO, Convert, Optimizely, Dynamic Yield, no-code Shopify. Compare pricing, features, ease of use"
     }
   ],
   "wear": [
@@ -1760,6 +1765,21 @@
       "slug": "mens-summer-style-capsule-wardrobe",
       "title": "Summer Capsule Wardrobe for Men: 12 Pieces, 30 Looks",
       "excerpt": "Build a summer capsule wardrobe with just 12 essential pieces that create 30+ outfits. Includes exact item recommendations, color palette, and outfit formulas."
+    },
+    {
+      "slug": "mens-denim-fit-wash-style-guide",
+      "title": "The Complete Guide to Men's Denim: Fit, Wash, and Style for Every Occasion",
+      "excerpt": "A comprehensive guide to choosing the right jeans - from fit types to washes to styling for different occasions"
+    },
+    {
+      "slug": "mens-business-travel-capsule-wardrobe",
+      "title": "Business Travel Capsule Wardrobe: Packing for 7 Days with a Carry-On",
+      "excerpt": "Master the art of business travel packing - create 10+ outfits from 12 pieces in one carry-on"
+    },
+    {
+      "slug": "men-spring-summer-transition-layering",
+      "title": "Spring-to-Summer Transition Style: Layering Strategies for Men",
+      "excerpt": "Master the art of transitional dressing with layering techniques that handle temperature swings from 50°F to 80°F"
     }
   ],
   "ops": [
@@ -2477,6 +2497,16 @@
       "slug": "ai-compliance-solo-founder-guide-2026",
       "title": "Privacy Compliance for Solo Founders in 2026: A Practical Guide Without a Legal Team",
       "excerpt": "A practical step-by-step guide for solo founders to achieve GDPR, CCPA, and new 2026 state privacy law compliance without hiring a lawyer or compliance officer."
+    },
+    {
+      "slug": "linkedin-personal-brand-solopreneur-2026",
+      "title": "The Solopreneur's Guide to Building a Personal Brand on LinkedIn in 2026",
+      "excerpt": "A step-by-step system for solo founders to build a LinkedIn personal brand that attracts clients, partners, and opportunities"
+    },
+    {
+      "slug": "email-marketing-automation-solopreneur-2026",
+      "title": "Email Marketing Automation for One-Person Businesses: Tools & Workflows",
+      "excerpt": "How solopreneurs can set up email marketing automation on a budget, from list building to drip campaigns to revenue tracking"
     }
   ],
   "mood": [
@@ -3116,6 +3146,26 @@
       "slug": "habit-building-working-alone-guide",
       "title": "Habit Building When You Work Alone: Systems That Actually Stick",
       "excerpt": "Practical habit-building strategies for solopreneurs and remote workers who struggle with consistency. Covers environment design, accountability loops, and habit stacking."
+    },
+    {
+      "slug": "solopreneur-meaningful-connections-guide",
+      "title": "Beyond the Screen: Building Real Connections as a Solopreneur",
+      "excerpt": "Guide for solopreneurs facing isolation. Accountability groups, masterminds, co-working, industry events, peer networks online"
+    },
+    {
+      "slug": "digital-minimalism-solo-founders-2026",
+      "title": "Digital Minimalism for Solo Founders: Why Less Tools Equals More Output",
+      "excerpt": "Contrarian take on tool overload. Audit methods, consolidation strategies, cutting 15 tools to 5 without losing capability"
+    },
+    {
+      "slug": "art-of-saying-no-solopreneur-focus",
+      "title": "The Art of Saying No: Focus Strategies for Solopreneurs",
+      "excerpt": "Master the skill of prioritization and boundary-setting as a solo business owner"
+    },
+    {
+      "slug": "second-brain-solopreneur-knowledge-management",
+      "title": "Building a Second Brain for Solopreneurs: Knowledge Management That Actually Works",
+      "excerpt": "A practical knowledge management system for solo founders that turns information into actionable business insights"
     }
   ]
 }
