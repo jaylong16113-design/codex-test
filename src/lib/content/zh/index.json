@@ -868,6 +868,16 @@
       "slug": "dianshang-dashboard-dajian-zhinan",
       "title": "电商运营数据看板搭建指南：从零构建你的业务仪表盘",
       "excerpt": "手把手教你用Looker Studio、Metabase和Superset搭建电商运营看板，涵盖关键指标定义、数据源对接和自动更新配置"
+    },
+    {
+      "slug": "ai-ecommerce-customer-service-guide",
+      "title": "AI辅助电商客服系统搭建指南",
+      "excerpt": "从ChatGPT到企业级AI客服，手把手搭建自动化客服系统，降低70%人工成本"
+    },
+    {
+      "slug": "ecommerce-ab-testing-tools-comparison",
+      "title": "电商A/B测试工具实战对比测评",
+      "excerpt": "对比Google Optimize、VWO、Convert、Optimizely四款A/B测试工具的功能和价格"
     }
   ],
   "wear": [
@@ -1540,6 +1550,16 @@
       "slug": "niuzai-ku-xuanze-dapei-zhinan",
       "title": "牛仔裤选购与搭配完全指南：找到属于你的那条完美牛仔裤",
       "excerpt": "从版型、水洗、磅数到搭配，全面解读男士牛仔裤选购与穿搭指南"
+    },
+    {
+      "slug": "leather-shoe-care-complete-guide",
+      "title": "皮鞋养护从入门到精通",
+      "excerpt": "从清洁、上油到定型，涵盖德比鞋、牛津鞋和乐福鞋的保养指南"
+    },
+    {
+      "slug": "chubby-men-slimming-style-tips",
+      "title": "微胖男生显瘦穿搭全攻略",
+      "excerpt": "从版型选择到颜色搭配，微胖男士的衣橱改造方案和视觉显瘦技巧"
     }
   ],
   "ops": [
@@ -2207,6 +2227,21 @@
       "slug": "neirong-marketing-roi-jisuan-fangfa",
       "title": "内容营销ROI计算方法：用数据驱动你的内容策略优化",
       "excerpt": "系统化的内容营销ROI计算方法，从指标定义、数据追踪到归因模型，帮助一人公司量化内容投入产出"
+    },
+    {
+      "slug": "solopreneur-finance-management-basics",
+      "title": "一人公司财务管理从零开始",
+      "excerpt": "个人创业者的财务记账、税务筹划、现金流管理实操指南"
+    },
+    {
+      "slug": "xiaohongshu-to-tmall-conversion-tracking",
+      "title": "小红书种草到天猫成交的全链路追踪",
+      "excerpt": "从种草笔记到天猫下单，通过UTM参数和数据分析实现完整ROI追踪"
+    },
+    {
+      "slug": "seo-content-matrix-methodology",
+      "title": "SEO内容矩阵搭建方法论",
+      "excerpt": "从关键词研究到内容生产再到效果追踪，系统化搭建高排名内容矩阵"
     }
   ],
   "mood": [
@@ -2882,6 +2917,16 @@
       "slug": "yiren-duchuang-chuangyelian-xiuzheng",
       "title": "能量管理比时间管理更重要：一人公司的精力分配策略",
       "excerpt": "一人公司创业者应把精力管理放在时间管理之上，科学分配每天的高能量时段创造最大产出"
+    },
+    {
+      "slug": "solopreneur-work-life-balance-practical",
+      "title": "一人公司的工作生活平衡实操指南",
+      "excerpt": "自由职业者和一人创业者如何避免过劳、建立边界、找到可持续的工作节奏"
+    },
+    {
+      "slug": "energy-management-after-thirty",
+      "title": "30岁以后创业者的精力管理心得",
+      "excerpt": "不是时间管理而是精力管理：睡眠、运动、饮食和心流状态的系统化方法"
     }
   ]
 }

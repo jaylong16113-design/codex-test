@@ -1093,6 +1093,11 @@
       "slug": "ai-ab-testing-tools-ecommerce-2026",
       "title": "Top 5 AI-Powered A/B Testing Tools for E-Commerce in 2026",
       "excerpt": "5 AI A/B testing tools: VWO, Convert, Optimizely, Dynamic Yield, no-code Shopify. Compare pricing, features, ease of use"
+    },
+    {
+      "slug": "ai-dropshipping-product-research-tools",
+      "title": "AI-Powered Dropshipping Product Research Tools for 2026",
+      "excerpt": "Compare top AI dropshipping product research tools to find winning products faster"
     }
   ],
   "wear": [
@@ -1780,6 +1785,21 @@
       "slug": "men-spring-summer-transition-layering",
       "title": "Spring-to-Summer Transition Style: Layering Strategies for Men",
       "excerpt": "Master the art of transitional dressing with layering techniques that handle temperature swings from 50°F to 80°F"
+    },
+    {
+      "slug": "complete-guide-linen-suits-summer",
+      "title": "The Complete Guide to Linen Suits for Summer",
+      "excerpt": "Everything you need to know about linen suits from fabric quality to styling and care"
+    },
+    {
+      "slug": "smart-casual-business-meetings-guide",
+      "title": "How to Dress Smart Casual for Business Meetings",
+      "excerpt": "The definitive guide to smart casual dress code for professional men in business settings"
+    },
+    {
+      "slug": "capsule-wardrobe-modern-professional-man",
+      "title": "Capsule Wardrobe for the Modern Professional Man",
+      "excerpt": "Build a versatile 30-piece capsule wardrobe for the office, meetings, and casual events"
     }
   ],
   "ops": [
@@ -2507,6 +2527,21 @@
       "slug": "email-marketing-automation-solopreneur-2026",
       "title": "Email Marketing Automation for One-Person Businesses: Tools & Workflows",
       "excerpt": "How solopreneurs can set up email marketing automation on a budget, from list building to drip campaigns to revenue tracking"
+    },
+    {
+      "slug": "10k-mrr-solo-business-2026",
+      "title": "Building a $10K MRR Solo Business in 2026: A Practical Roadmap",
+      "excerpt": "Step-by-step roadmap to building a $10K monthly recurring revenue solo business"
+    },
+    {
+      "slug": "multi-channel-attribution-small-ecommerce",
+      "title": "Multi-Channel Attribution for Small Ecommerce Brands",
+      "excerpt": "How small ecommerce brands can implement multi-channel attribution without enterprise budgets"
+    },
+    {
+      "slug": "zero-to-one-content-marketing-solopreneur",
+      "title": "Zero-to-One Content Marketing Strategy for Solopreneurs",
+      "excerpt": "Practical content marketing strategy for solo founders with zero budget and limited time"
     }
   ],
   "mood": [
@@ -3166,6 +3201,21 @@
       "slug": "second-brain-solopreneur-knowledge-management",
       "title": "Building a Second Brain for Solopreneurs: Knowledge Management That Actually Works",
       "excerpt": "A practical knowledge management system for solo founders that turns information into actionable business insights"
+    },
+    {
+      "slug": "solopreneur-guide-avoiding-burnout",
+      "title": "The Solopreneur's Guide to Avoiding Burnout",
+      "excerpt": "Practical strategies for solo entrepreneurs to maintain mental health and sustainable productivity"
+    },
+    {
+      "slug": "deep-work-habits-solopreneur",
+      "title": "Building Deep Work Habits When You Work Alone",
+      "excerpt": "How solopreneurs can cultivate deep work habits without external structure or accountability"
+    },
+    {
+      "slug": "mindful-productivity-quality-over-hustle",
+      "title": "Mindful Productivity: Choosing Quality Over Hustle",
+      "excerpt": "Why hustle culture is burning you out and how mindful productivity leads to better results"
     }
   ]
 }
