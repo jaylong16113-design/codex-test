@@ -795,11 +795,6 @@
       "excerpt": "Turning social traffic into low-cost conversions"
     },
     {
-      "slug": "ai-ecommerce-chatbot-comparison-guide",
-      "title": "Best AI Chatbots for E-Commerce in 2026: Comparing Tidio, Gorgias, Zendesk AI, and Freshchat",
-      "excerpt": "Compare Tidio, Gorgias, Zendesk AI, and Freshchat for your store — testing response accuracy, pricing, and real conversion lift in 2026."
-    },
-    {
       "slug": "ai-speech-to-text-tools-compared",
       "title": "AI Speech-to-Text Tools Compared: Whisper vs Otter vs Rev — Accuracy & Speed",
       "excerpt": "In-depth comparison of OpenAI Whisper, Otter.ai, and Rev for English speech-to-text accuracy, turnaround speed, pricing,"
@@ -1173,6 +1168,31 @@
       "slug": "ai-customer-winback-automation-tools",
       "title": "AI Customer Win-Back Automation: Re-Engage Lapsed Customers with Smarter Campaigns",
       "excerpt": "Acquiring a new customer costs 5-7x more than retaining an existing one. Discover how AI-powered win-back tools predict churn, personalize re-engagement offers, and automatically bring lapsed customers back with measurable ROI."
+    },
+    {
+      "slug": "ai-consumer-insight-mining",
+      "title": "AI Consumer Insight Mining: How to Extract Product Improvements from 10,000 Reviews",
+      "excerpt": "Manual review analysis doesn't scale beyond a handful of products. This guide compares Talkwalker, Brandwatch, and Meltwater — showing how AI-powered consumer insight tools surface product improvements from user feedback."
+    },
+    {
+      "slug": "ai-cross-platform-ad-creative",
+      "title": "AI Cross-Platform Ad Creative Automation: One Asset, Every Platform, Zero Manual Work",
+      "excerpt": "Every time you launch a product, you need different ad sizes for every platform. This guide shows how AI tools automatically resize, reformat, and restyle your creatives — cutting production time from days to minutes."
+    },
+    {
+      "slug": "ai-dropshipping-product-validation",
+      "title": "AI Dropshipping Product Validation: How to Confirm Product Demand Before Spending a Dime",
+      "excerpt": "The biggest mistake dropshippers make is buying inventory before validating demand. This guide covers AI tools that analyze search trends, estimate competitor sales, and predict social media traction."
+    },
+    {
+      "slug": "ai-chatbot-builder-comparison-2026",
+      "title": "2026 AI Chatbot Builder Showdown: Chatbase vs Tidio vs ManyChat — Which Is Best for Ecommerce?",
+      "excerpt": "Building an AI chatbot for your store doesn't have to be technical. This hands-on comparison tests each tool on training difficulty, response quality, ecommerce features, and pricing."
+    },
+    {
+      "slug": "ai-content-calendar-planner",
+      "title": "AI Content Calendar Planning: How Solopreneurs Schedule a Month of Content in One Session",
+      "excerpt": "The biggest enemy of content creation isn't writer's block — it's lack of planning. This review shows how to build an automated content scheduling system that works for one-person teams."
     }
   ],
   "wear": [
@@ -1940,6 +1960,31 @@
       "slug": "color-coordinated-mens-wardrobe-guide",
       "title": "How to Build a Color-Coordinated Wardrobe: A Systematic Approach for Men",
       "excerpt": "A color-coordinated wardrobe is the single highest-leverage upgrade a man can make. When every piece works with every other piece, 20 items yield 100+ outfits."
+    },
+    {
+      "slug": "summer-linen-clothing-guide",
+      "title": "The Complete Guide to Summer Linen Clothing: Fabric Quality, Care, and Styling for Men",
+      "excerpt": "Linen is summer's most breathable natural fiber. This guide covers everything from linen quality grades and wrinkle management to complete outfit combinations for every summer occasion."
+    },
+    {
+      "slug": "mens-leather-jacket-buying-guide",
+      "title": "The Ultimate Men's Leather Jacket Buying Guide: Hide Types, Cuts, and Brands",
+      "excerpt": "A great leather jacket lasts a decade. This guide breaks down cowhide vs lambskin vs horsehide, jacket silhouettes, and how to find the perfect jacket for your style and budget."
+    },
+    {
+      "slug": "capsule-wardrobe-work-guide",
+      "title": "Build a Minimalist Work Capsule Wardrobe: 10 Pieces, 30 Outfits",
+      "excerpt": "Staring at a full closet with nothing to wear? This guide shows you how to build a 10-piece work capsule wardrobe that produces 30+ outfit combinations across seasons."
+    },
+    {
+      "slug": "denim-care-maintenance-guide",
+      "title": "Denim Care & Maintenance: How to Make Your Raw Selvedge Jeans Last a Decade",
+      "excerpt": "A good pair of raw selvedge denim is worth maintaining properly. From first soak to washing frequency, drying methods, and basic repairs — everything you need to know."
+    },
+    {
+      "slug": "mens-shoe-care-polishing-guide",
+      "title": "Men's Shoe Care & Polishing: The Complete At-Home Guide",
+      "excerpt": "Well-maintained shoes are a man's best accessory. This guide covers the complete shoe care workflow: tools, cleaning, conditioning, wax polishing, and waterproofing."
     }
   ],
   "ops": [
@@ -2762,6 +2807,31 @@
       "slug": "competitor-price-monitoring-automation",
       "title": "Automated Competitor Price Monitoring: The Solopreneur's Guide to Winning Price Wars",
       "excerpt": "Detect competitor price changes within minutes using SaaS tools, DIY scrapers, or AI models. A complete guide to automated price monitoring."
+    },
+    {
+      "slug": "solopreneur-content-site-building",
+      "title": "The Solopreneur's Complete Guide to Building a Content Site That Pays the Bills",
+      "excerpt": "No ad spend, no luck on TikTok — just a content site that earns steadily. From domain selection to content strategy and SEO optimization, a complete roadmap for building a profitable content site."
+    },
+    {
+      "slug": "niche-site-affiliate-monetization",
+      "title": "Niche Site Affiliate Monetization: Product Selection, Content, and Conversion Optimization",
+      "excerpt": "Affiliate marketing is the most sustainable way to monetize a content site. This guide covers product selection, natural content integration, conversion optimization, and tracking."
+    },
+    {
+      "slug": "email-list-building-zero-to-first-1000",
+      "title": "Build Your Email List from Zero: 8 Proven Ways to Get Your First 1,000 Subscribers",
+      "excerpt": "An email list is the most undervalued asset for any independent creator. This guide shares 8 proven subscriber growth strategies from lead magnets to landing page optimization."
+    },
+    {
+      "slug": "freelancer-to-product-builder",
+      "title": "From Freelancer to Product Builder: The Complete Mindset and Strategy Guide",
+      "excerpt": "Selling time has a low ceiling. This guide shares the complete journey from freelancer to product creator — covering mindset shifts, MVP development, and your first paying customers."
+    },
+    {
+      "slug": "solopreneur-time-management-system",
+      "title": "The Solopreneur Time Management System: Work 4 Hours a Day with Notion + AI",
+      "excerpt": "The biggest challenge for a solopreneur isn't business strategy — it's time management. This guide shares a proven system to focus on what matters, work fewer hours, and accomplish more."
     }
   ],
   "mood": [
@@ -3536,6 +3606,31 @@
       "slug": "existential-uncertainty-founder-en",
       "title": "Managing Existential Uncertainty as a Founder: Finding Clarity When the Path Is Invisible",
       "excerpt": "The hardest part of entrepreneurship isn't competition, funding, or growth — it's the constant presence of existential uncertainty. Here's how to build psychological resilience for the unknown."
+    },
+    {
+      "slug": "solopreneur-morning-routine",
+      "title": "The Solopreneur's Morning Ritual: How the First 90 Minutes Define Your Entire Day",
+      "excerpt": "The most critical hours of your day are the first 90 minutes after waking. This article shares morning routines from 5 successful solo founders and a science-backed framework."
+    },
+    {
+      "slug": "dealing-with-imposter-syndrome-creator",
+      "title": "Imposter Syndrome Survival Guide for Creators: What to Do When You Feel Like a Fraud",
+      "excerpt": "Even the most successful creators feel like frauds sometimes. This guide explains the psychology behind imposter syndrome and provides proven coping strategies."
+    },
+    {
+      "slug": "digital-minimalism-ecommerce-sellers",
+      "title": "Digital Minimalism for Ecommerce Sellers: Cutting Through Information Overload",
+      "excerpt": "Ecommerce sellers face 3x the information load of the average professional. This guide shares practical digital minimalism strategies to reclaim focus and improve decisions."
+    },
+    {
+      "slug": "building-healthy-habits-business",
+      "title": "The Entrepreneur's Habit-Building System: Sustainable Health Without Willpower",
+      "excerpt": "I'll start exercising when things settle down is the entrepreneur's most dangerous promise. This guide shares a habit-building system covering sleep, exercise, nutrition, and meditation."
+    },
+    {
+      "slug": "work-life-balance-solopreneur",
+      "title": "Flow State Work: Redefining Work-Life Balance for the Solopreneur",
+      "excerpt": "For solopreneurs, work-life balance isn't a 50-50 split. This article introduces Flow State Work — using energy management instead of time management."
     }
   ]
 }

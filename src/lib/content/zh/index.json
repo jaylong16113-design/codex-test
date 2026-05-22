@@ -923,6 +923,31 @@
       "slug": "ai-customer-winback-automation",
       "title": "AI自动化客户赢回营销全攻略：用智能策略把流失客户一个个拉回来",
       "excerpt": "获取一个新客户的成本是维系老客户的5到7倍。本文详解AI驱动的客户赢回策略，从流失预警到个性化召回的全自动流程，帮你系统地挽回那些已经默默离开的客户。"
+    },
+    {
+      "slug": "ai-consumer-insight-mining",
+      "title": "AI消费者洞察挖掘工具：从海量评论中提取产品改进方向的完整指南",
+      "excerpt": "每天有成百上千条用户评论和社交讨论，人工分析根本来不及。本文评测Talkwalker、Brandwatch、Meltwater等AI消费者洞察工具。"
+    },
+    {
+      "slug": "ai-cross-platform-ad-creative",
+      "title": "AI跨平台广告创意自动化：一套素材适配抖音/淘宝/小红书/拼多多的实操方案",
+      "excerpt": "不同平台的广告素材规格和风格天差地别。本文详解AI工具如何一键生成适配多平台的广告创意，从尺寸裁剪到风格转换全自动。"
+    },
+    {
+      "slug": "ai-dropshipping-product-validation",
+      "title": "AI一件代发选品验证工具：在花钱采购前确认产品能卖得出去的完整流程",
+      "excerpt": "一件代发最容易踩的坑就是选品失败。本文介绍AI选品验证工具，通过搜索趋势分析、竞品销量估算和社交媒体热度预判确认产品潜力。"
+    },
+    {
+      "slug": "ai-chatbot-builder-comparison-2026",
+      "title": "2026年AI聊天机器人搭建工具横评：Chatbase vs Tidio vs ManyChat谁最适合电商？",
+      "excerpt": "实测对比Chatbase、Tidio、ManyChat、Botsify和Landbot五款AI聊天机器人搭建工具，从训练难度、回复质量、电商功能、定价四个维度给出选型建议。"
+    },
+    {
+      "slug": "ai-content-calendar-planner",
+      "title": "AI内容日历规划工具：一人公司如何用AI提前一个月规划全平台内容",
+      "excerpt": "内容创作最大的敌人不是灵感不够，而是没有规划。本文评测ContentCal、Planable、Later和CoSchedule的AI功能，教你搭建自动排期系统。"
     }
   ],
   "wear": [
@@ -1675,6 +1700,31 @@
       "slug": "peise-tixi-dajian-zhinan",
       "title": "男士衣橱配色体系搭建指南：让每一件衣服都能互相搭配",
       "excerpt": "大多数男人的衣橱问题不是衣服太少，而是颜色太乱。一套科学的配色体系可以让10件单品产生100种搭配。"
+    },
+    {
+      "slug": "summer-linen-clothing-guide",
+      "title": "夏季男装亚麻穿搭完全指南：从衬衫到西装的面料选择与搭配技巧",
+      "excerpt": "亚麻是夏天最透气的天然面料。本文从亚麻的品质鉴别、打理方法到全品类穿搭方案，手把手教你穿出清爽高级的夏季风格。"
+    },
+    {
+      "slug": "mens-leather-jacket-buying-guide",
+      "title": "男士皮衣选购完全指南：从皮质鉴别到版型挑选一次讲透",
+      "excerpt": "一件好皮衣能穿十年。本文从牛皮、羊皮、马皮到版型风格，详解如何挑选最适合你的那件皮衣。"
+    },
+    {
+      "slug": "capsule-wardrobe-work-guide",
+      "title": "极简职场胶囊衣橱搭建指南：10件单品穿出30套通勤造型",
+      "excerpt": "每天早上站在衣柜前不知道该穿什么？本文教你用10件精选单品搭建完整的职场胶囊衣橱，覆盖春夏秋冬和不同职场场景。"
+    },
+    {
+      "slug": "denim-care-maintenance-guide",
+      "title": "牛仔裤保养与养护完全指南：让你的原牛穿十年不变形",
+      "excerpt": "一条好的原牛值得花时间养护。本文从首次下水、洗涤频率、晾晒方式到修补技巧，详解牛仔裤养护全流程。"
+    },
+    {
+      "slug": "mens-shoe-care-polishing-guide",
+      "title": "男士皮鞋护理完全指南：从清洁到打蜡的完整流程",
+      "excerpt": "一双精心护理的皮鞋是男人最好的名片。本文从工具选择、清洁流程、滋养上光到防水保养，详解家庭护理的每一个步骤。"
     }
   ],
   "ops": [
@@ -2417,6 +2467,31 @@
       "slug": "jingpin-jiage-zidong-jiankong",
       "title": "自动化竞品价格监控系统搭建实战：在价格战中永远快对手一步",
       "excerpt": "从Prisync到自建爬虫到AI预测，详解一人公司如何搭建自动化竞品价格监控系统，帮你从容应对价格战。"
+    },
+    {
+      "slug": "solopreneur-content-site-building",
+      "title": "一人公司内容站搭建完全指南：从零到月入过万的实操路线图",
+      "excerpt": "不用烧钱投广告，一个内容站就能养活一人公司。本文从域名选择、建站工具、内容策略到SEO优化，给出完整的实操路线图。"
+    },
+    {
+      "slug": "niche-site-affiliate-monetization",
+      "title": "垂直内容站联盟营销变现指南：选品、内容、优化全流程",
+      "excerpt": "内容站的终极变现方式不是卖广告位而是联盟营销。本文从选品策略、内容植入、转化优化到数据跟踪，详解CPS持续盈利方法。"
+    },
+    {
+      "slug": "email-list-building-zero-to-first-1000",
+      "title": "从零搭建邮件列表：独立开发者获取前1000个订阅者的8种实战方法",
+      "excerpt": "邮件列表是独立开发者最被低估的资产。本文分享8种经过验证的邮件订阅增长策略，从引流磁铁到Landing Page优化。"
+    },
+    {
+      "slug": "freelancer-to-product-builder",
+      "title": "从接单到做产品：自由职业者转型独立产品开发者的完整心法与实操",
+      "excerpt": "靠卖时间赚钱的天花板太低。本文分享从自由职业者转型做产品的完整路径，包括心态转变、产品选型到第一批付费用户获取。"
+    },
+    {
+      "slug": "solopreneur-time-management-system",
+      "title": "一人公司时间管理系统：用Notion+AI每天只工作4小时的高效法则",
+      "excerpt": "一人公司最大的挑战不是业务而是时间管理。本文分享一套经过验证的时间管理系统，让你每天只花4小时做最重要的事。"
     }
   ],
   "mood": [
@@ -3191,12 +3266,37 @@
     {
       "slug": "habit-stacking-solopreneurs",
       "title": "习惯叠加的科学：一人创业者如何用最小动力建立高效系统",
-      "excerpt": "为什么你设定了目标却总是无法坚持？习惯叠加是一种不依赖意志力的行为设计方法。本文从行为心理学出发，教你如何把新习惯\u201c粘贴\u201d在已有习惯上，构建自动运行的效率系统。"
+      "excerpt": "为什么你设定了目标却总是无法坚持？习惯叠加是一种不依赖意志力的行为设计方法。本文从行为心理学出发，教你如何把新习惯“粘贴”在已有习惯上，构建自动运行的效率系统。"
     },
     {
       "slug": "existential-uncertainty-founder",
       "title": "存在性不确定性管理：创始人如何在迷雾中保持前行的定力",
       "excerpt": "创业最大的挑战不是竞争，不是资金，而是对未知的恐惧。本文从存在心理学角度出发，探讨创始人如何与不确定性共处，在没有确定性保证的情况下依然坚定前行。"
+    },
+    {
+      "slug": "solopreneur-morning-routine",
+      "title": "一人公司创始人的晨间仪式：如何用早晨2小时决定全天效率",
+      "excerpt": "一天中最关键的2小时是起床后的第一个90分钟。本文分享5位成功独立创业者的晨间仪式以及可立即执行的晨间优化方案。"
+    },
+    {
+      "slug": "dealing-with-imposter-syndrome-creator",
+      "title": "创作者冒充者综合症自救指南：当你觉得自己不够好时的应对方法",
+      "excerpt": "即使是顶级的创作者也会觉得自己是个骗子。本文从心理学角度解析冒充者综合症的成因，并提供经过验证的应对策略。"
+    },
+    {
+      "slug": "digital-minimalism-ecommerce-sellers",
+      "title": "电商卖家的数字极简主义：如何减少信息过载提升决策质量",
+      "excerpt": "电商卖家每天面对的信息量是普通人的3倍以上。本文分享数字极简主义的实践方法，帮你从信息洪流中找回专注力。"
+    },
+    {
+      "slug": "building-healthy-habits-business",
+      "title": "创业者的习惯养成系统：不用靠意志力也能坚持的健康生活方案",
+      "excerpt": "创业者最大的健康陷阱是等忙完这一阵再说。本文分享一套不靠意志力的习惯养成系统，让好习惯融入创业生活。"
+    },
+    {
+      "slug": "work-life-balance-solopreneur",
+      "title": "一人公司的心流工作法：重新定义工作与生活的平衡",
+      "excerpt": "对一人公司创始人来说，工作与生活的平衡不是50-50的切割。本文提出心流工作法，用能量管理代替时间管理。"
     }
   ]
 }
