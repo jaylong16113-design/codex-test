@@ -973,6 +973,31 @@
       "slug": "ai-dianshang-xieyi-dingjia-zhineng",
       "title": "AI电商协议定价系统：智能合同与自动报价工具",
       "excerpt": "B2B电商定价的AI解决方案：客户分层定价、自动报价五步搭建、智能合同生成、合规风控体系，全员实操案例与ROI数据"
+    },
+    {
+      "slug": "ai-kuajing-duopingtai-bijia-gongju",
+      "title": "AI跨境电商多平台智能比价工具推荐与深度评测",
+      "excerpt": "AI比价工具正在让手动查价成为历史。本文深度评测Prisync、RepricerExpress、Feedvisor等6款主流比价工具，覆盖实时监测、智能调价、数据可视化等核心功能，帮助跨境卖家选择最适合自己的自动化比价方案。"
+    },
+    {
+      "slug": "ai-shangpin-xiangqingye-zidonghua-shengcheng",
+      "title": "AI电商商品详情页自动化生成全流程工具指南",
+      "excerpt": "从商品文案到视觉设计，AI工具正在重塑详情页制作流程。本文对比Jasper、Flair AI、Pixlr等AIGC工具在电商场景中的实战表现，提供从数据采集到多平台适配的全自动化方案。"
+    },
+    {
+      "slug": "ai-kehupingjia-fenxi-koubei-guanli-gongju",
+      "title": "AI驱动的客户评价分析与口碑管理工具实战",
+      "excerpt": "差评一条损失几十单？用AI实时监控和分析客户评价，自动识别差评根源并生成回复草案。本文评测ReviewMeta、Yotpo、PowerReviews等口碑管理工具的真实效果。"
+    },
+    {
+      "slug": "ai-dianshang-shuju-kehuhua-zhoubao-zidonghua",
+      "title": "AI电商数据可视化与周报自动化生成方案",
+      "excerpt": "每天手动拉数据做报表的日子该结束了。本文教你把MySQL/生意参谋数据接入AI可视化工具，用n8n+Metabase/Looker Studio搭建自动化数据管道，周报一键生成。"
+    },
+    {
+      "slug": "ai-shangpin-shipin-zidong-jianji-duopingtai-shipei",
+      "title": "AI商品视频自动剪辑与多平台适配工具对比",
+      "excerpt": "一条视频多平台发布的时代来了。本文对比CapCut电商版、Pika、HeyGen、Descript等工具，详解AI自动剪辑、字幕生成、多尺寸适配的核心功能和使用场景。"
     }
   ],
   "wear": [
@@ -1775,6 +1800,31 @@
       "slug": "liangzhuang-piduihua-jianbie",
       "title": "西装皮拖鞋如何鉴别真伪：从皮料到工艺的五步鉴定法",
       "excerpt": "手工皮拖鞋真伪鉴别五步法，皮料纹理对比、固特异工艺检查、缝线细节品控、鞋底材质分辨、品牌LOGO验证，附常见仿制手法揭秘"
+    },
+    {
+      "slug": "xia-ji-nan-zhuang-mian-liao-xuan-ze",
+      "title": "夏季男装面料选择指南：亚麻、棉与速干面料透气性深度对比",
+      "excerpt": "夏天穿什么面料最凉快？本文从纤维结构、透气性测试、抗皱能力、选购建议四个维度深度对比亚麻、纯棉和功能性速干面料的实际表现。"
+    },
+    {
+      "slug": "nan-shi-mian-shi-chuan-da-quan-gong-lue",
+      "title": "男士面试穿搭全攻略：用着装为第一印象加分",
+      "excerpt": "面试穿什么直接影响面试官对你的第一印象。本文覆盖互联网、金融、外企等不同行业的面试穿搭规则，从西装选择到配饰细节一应俱全。"
+    },
+    {
+      "slug": "nan-shi-pi-xie-xuan-gou-zhi-nan",
+      "title": "男士皮鞋选购指南：牛津鞋、德比鞋与乐福鞋的区别与搭配",
+      "excerpt": "想买第一双正经皮鞋却不知道从何选起？本文从鞋型区别、工艺对比、皮料等级、搭配建议到保养方法，帮你一次弄清楚男士皮鞋的所有知识点。"
+    },
+    {
+      "slug": "yun-dong-yu-shang-wu-chuan-da-ping-heng",
+      "title": "运动与商务之间的穿搭平衡：现代Athleisure风实用指南",
+      "excerpt": "运动休闲早已不是健身房的专利。本文教你如何将运动单品融入日常商务穿搭，从面料选择到颜色搭配，打造既有活力又不失专业的当代职场穿搭风格。"
+    },
+    {
+      "slug": "nan-shi-xiang-shui-ru-men-xuan-gou",
+      "title": "男士香水入门选购指南：从香调分类到使用礼仪",
+      "excerpt": "第一次买香水不知道怎么选？本文从香调金字塔、五大常见香型、浓度等级、试香技巧到使用礼仪，为香水小白提供一份完整入门指南。"
     }
   ],
   "ops": [
@@ -2567,6 +2617,31 @@
       "slug": "yiren-gongsi-liushui-zidonghua",
       "title": "一人公司流水自动化体系：从记账到报税的完整解决方案",
       "excerpt": "一人公司财务自动化实操方案，票据OCR识别、银行流水自动导入、费用智能分类、税务申报一键生成，月均节省15小时对账时间"
+    },
+    {
+      "slug": "seo-content-site-from-zero",
+      "title": "一人公司从零搭建内容站：SEO关键词研究与文章排名的完整流程",
+      "excerpt": "从域名选择到关键词库搭建，从内容创作到外链建设，手把手教你在2026年从零搭建一个能持续获取自然搜索流量的内容站。"
+    },
+    {
+      "slug": "cross-border-ecommerce-cold-start",
+      "title": "跨境电商独立站冷启动：零预算获取前1000个自然访客的方法",
+      "excerpt": "没有广告预算怎么做跨境电商？本文分享完全基于免费渠道的冷启动策略，包括社媒内容引流、社区问答获客、长尾SEO、裂变传播等实操方法。"
+    },
+    {
+      "slug": "content-matrix-multi-platform-distribution",
+      "title": "自媒体内容矩阵搭建：公众号/知乎/小红书/抖音的分发策略",
+      "excerpt": "一份内容如何在多个平台发挥最大价值？本文系统性讲解自媒体内容矩阵的搭建思路，从选题规划到一鱼多吃，再到各平台的差异化运营策略。"
+    },
+    {
+      "slug": "ai-era-pricing-strategy",
+      "title": "AI时代一人公司的产品定价策略：价值定价 vs 竞争定价实操",
+      "excerpt": "定价定生死。在AI工具普及的2026年，一人公司的定价策略应该怎么调整？本文对比价值定价、竞争定价和成本加成三种策略，结合真实案例给出实操建议。"
+    },
+    {
+      "slug": "side-hustle-to-full-time-roadmap",
+      "title": "从副业到全职的转型路线图：收入达标判断与风险控制",
+      "excerpt": "副业做到什么程度可以全职？本文提供一套完整的决策框架，包括收入安全线计算、客户储备策略、社保衔接、心理准备和风险管理机制。"
     }
   ],
   "mood": [
@@ -3397,6 +3472,31 @@
       "slug": "duli-kaifa-shenghuo-sikao",
       "title": "独立开发者生活思考：从996到自由职业的心态转变实录",
       "excerpt": "真实独立开发者的生活转变记录，收入波动应对、时间管理重构、社交需求满足、身份认同重塑四个维度的心理适应过程"
+    },
+    {
+      "slug": "sanshi-sui-hou-de-rensheng-jianfa",
+      "title": "三十岁后的人生减法：为什么少即是多才是成年人的顶级自律",
+      "excerpt": "三十岁以后开始明白，真正的高手都在做减法。本文从物品、社交、信息、目标四个维度，探讨如何通过减法生活找回内心的秩序和自由。"
+    },
+    {
+      "slug": "yigeren-lvxing-duchu-tansuo",
+      "title": "一个人旅行：如何通过独处旅行找回内心平静与创造力",
+      "excerpt": "一个人旅行不是孤独，而是一场与自己的深度对话。本文分享一个人旅行的真实体验和心理变化，以及如何让独处旅行成为创造力的源泉。"
+    },
+    {
+      "slug": "shuzi-jijian-zhuyi-jianshao-pingmu-shijian",
+      "title": "数字极简主义：如何减少屏幕时间找回专注力",
+      "excerpt": "每天刷手机6小时以上的你，知道自己在失去什么吗？本文从认知科学角度分析数字过载的危害，并给出一个30天数字极简实践方案。"
+    },
+    {
+      "slug": "congling-peiyang-yuedu-xiguan-yinian-50-ben",
+      "title": "从零培养阅读习惯：一年读完50本书的方法论",
+      "excerpt": "知道读书好但就是坚持不下来？本文分享一套经过验证的阅读习惯培养体系，从选书策略、时间安排、笔记方法到心态调整，帮你把阅读变成日常。"
+    },
+    {
+      "slug": "chuangyezhe-guanli-jiaolv-yali-renzhi-zhonggou",
+      "title": "创业者如何管理焦虑和压力：从认知重构到日常实践",
+      "excerpt": "创业者的焦虑从不会消失，但可以被管理。本文从认知行为疗法、正念冥想、身体调节、社交支持四个维度，提供一套科学的压力管理实操方案。"
     }
   ]
 }
