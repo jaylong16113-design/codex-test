@@ -1193,6 +1193,31 @@
       "slug": "ai-content-calendar-planner",
       "title": "AI Content Calendar Planning: How Solopreneurs Schedule a Month of Content in One Session",
       "excerpt": "The biggest enemy of content creation isn't writer's block — it's lack of planning. This review shows how to build an automated content scheduling system that works for one-person teams."
+    },
+    {
+      "slug": "ai-drive-smart-packaging-ecommerce",
+      "title": "AI-Driven Smart Packaging: How Intelligent Unboxing Experiences Boost Repeat Purchases",
+      "excerpt": "How AI-powered smart packaging transforms the unboxing experience into a retention engine — personalization engines, dynamic QR codes, AR interactions, and measurable ROI"
+    },
+    {
+      "slug": "kuaishou-store-auto-toolchain",
+      "title": "Building an Automated Kuaishou Store Toolchain: From Product Listing to Order Fulfillment",
+      "excerpt": "Complete guide to automating a Kuaishou store operation — product listing automation, AI customer service, automated order processing, and data analytics tools"
+    },
+    {
+      "slug": "pinduoduo-smart-checkout-tools",
+      "title": "Pinduoduo One-Click Checkout & Smart Gift Tools: Reactivating Dormant Users",
+      "excerpt": "Reactivating dormant Pinduoduo users with one-click checkout, smart gift forwarding, and AI-driven re-engagement campaigns backed by conversion data"
+    },
+    {
+      "slug": "multi-platform-product-sync-tools",
+      "title": "Multi-Platform Product Sync Tools: Managing Inventory Across 1688, Shopee, and TikTok Shop",
+      "excerpt": "Cross-platform product sync solutions for Chinese e-commerce — field mapping, inventory coordination, and pricing automation across 1688, Shopee, and TikTok Shop"
+    },
+    {
+      "slug": "ai-contract-pricing-system",
+      "title": "AI-Powered Contract & Pricing Systems: Automated Quoting for B2B E-Commerce",
+      "excerpt": "B2B e-commerce pricing automation with AI — customer segmentation modeling, dynamic quote generation, smart contract creation, and compliance frameworks"
     }
   ],
   "wear": [
@@ -1985,6 +2010,31 @@
       "slug": "mens-shoe-care-polishing-guide",
       "title": "Men's Shoe Care & Polishing: The Complete At-Home Guide",
       "excerpt": "Well-maintained shoes are a man's best accessory. This guide covers the complete shoe care workflow: tools, cleaning, conditioning, wax polishing, and waterproofing."
+    },
+    {
+      "slug": "custom-suit-fit-for-body-types",
+      "title": "Custom Suit Fit Guide for Different Body Types: Short, Broad, and Slim Frame Solutions",
+      "excerpt": "Custom suit fitting guide for different body types — height-optimizing cuts for short frames, slimming patterns for broad builds, and shoulder-proportioning solutions for slim frames"
+    },
+    {
+      "slug": "cashmere-suit-care-guide",
+      "title": "Cashmere & Wool Suit Care Guide: From Washing to Storage Best Practices",
+      "excerpt": "Complete care guide for cashmere and wool suits — daily brushing techniques, dry cleaning frequency, ironing temperature control, and moth-proof storage solutions"
+    },
+    {
+      "slug": "mens-jacket-fabric-comparison",
+      "title": "Men's Jacket Fabric Comparison: Cotton, Linen, Denim, and Technical Fabrics for Every Season",
+      "excerpt": "Comprehensive comparison of men's jacket fabrics — breathability, durability, and shape retention across cotton, linen, denim, and technical materials for every season"
+    },
+    {
+      "slug": "smart-casual-dressing-guide",
+      "title": "Smart Casual Dressing Guide: Seamless Transitions from Office to Evening",
+      "excerpt": "Master the art of smart casual dressing with practical guidelines for shirt collar choices, trouser fabrics, footwear matching and accessories for office-to-dinner transitions"
+    },
+    {
+      "slug": "leather-shoe-authentication-guide",
+      "title": "Leather Shoe Authentication Guide: A Five-Step Method to Spot Counterfeit Footwear",
+      "excerpt": "Five-step leather shoe authentication method — leather grain analysis, Goodyear welt inspection, stitching quality check, sole material identification, and brand logo verification"
     }
   ],
   "ops": [
@@ -2832,6 +2882,31 @@
       "slug": "solopreneur-time-management-system",
       "title": "The Solopreneur Time Management System: Work 4 Hours a Day with Notion + AI",
       "excerpt": "The biggest challenge for a solopreneur isn't business strategy — it's time management. This guide shares a proven system to focus on what matters, work fewer hours, and accomplish more."
+    },
+    {
+      "slug": "ecommerce-tax-guide-small-business",
+      "title": "E-Commerce Tax Management: Small Business vs General Taxpayer Strategy Guide",
+      "excerpt": "Complete e-commerce tax management guide covering small business vs general taxpayer classification, VAT strategies, invoice automation, and cross-border tax optimization"
+    },
+    {
+      "slug": "multi-brand-mini-program-strategy",
+      "title": "Multi-Brand Mini-Program Matrix Strategy: Cost Sharing and Cross-Traffic Optimization",
+      "excerpt": "Strategy for operating multiple brand mini-programs on WeChat — shared middleware architecture, cross-brand traffic mechanisms, and data-driven cold start methods"
+    },
+    {
+      "slug": "kuaishou-affiliate-cps-guide",
+      "title": "Kuaishou Affiliate (CPS) Full Funnel Guide: From Product Selection to Commission Settlement",
+      "excerpt": "Complete Kuaishou CPS affiliate marketing tutorial — creator matching, commission structure design, campaign management, tracking, settlement, and common pitfalls"
+    },
+    {
+      "slug": "jd-exclusive-store-operation",
+      "title": "JD Exclusive Store Operations: From New Product Launch to Bestseller Maintenance",
+      "excerpt": "JD exclusive store operations playbook — cold start strategies, traffic acquisition channels, review management, and bestseller lifecycle maintenance from experienced operators"
+    },
+    {
+      "slug": "solopreneur-financial-automation",
+      "title": "Solopreneur Financial Automation: From Bookkeeping to Tax Filing in One System",
+      "excerpt": "Financial automation system for solopreneurs — OCR receipt capture, bank feed integration, AI expense categorization, and automated tax filing, saving 15+ hours monthly"
     }
   ],
   "mood": [
@@ -3631,6 +3706,31 @@
       "slug": "work-life-balance-solopreneur",
       "title": "Flow State Work: Redefining Work-Life Balance for the Solopreneur",
       "excerpt": "For solopreneurs, work-life balance isn't a 50-50 split. This article introduces Flow State Work — using energy management instead of time management."
+    },
+    {
+      "slug": "solopreneur-health-management",
+      "title": "Solopreneur Health Management: Exercise Plans and Daily Routines for Desk Workers",
+      "excerpt": "Health management guide for desk-bound solopreneurs — micro-workout plans, desk stretching routines, circadian rhythm optimization, and dietary adjustments for busy entrepreneurs"
+    },
+    {
+      "slug": "burnout-recovery-for-founders",
+      "title": "Burnout Recovery for Founders: Building Psychological Resilience in High-Pressure Environments",
+      "excerpt": "Burnout recovery guide for founders — cognitive reframing techniques, breathwork protocols, social support systems, and goal management strategies to maintain mental health"
+    },
+    {
+      "slug": "indie-hacker-mindset-guide",
+      "title": "The Indie Hacker Mindset: Navigating the Emotional Journey from Anxiety to Stability",
+      "excerpt": "Real indie hacker emotional journey mapping — from launch anxiety through mid-project doubt to sustainable stability, with practical mindset tools for each phase"
+    },
+    {
+      "slug": "sustainable-discipline-habits",
+      "title": "Sustainable Self-Discipline: How to Build Lasting Habits Without Burning Out",
+      "excerpt": "Breaking the discipline-equals-suffering myth — minimum viable action, habit stacking, environment design, and system-over-willpower approaches for lasting behavioral change"
+    },
+    {
+      "slug": "freelancer-lifestyle-transition",
+      "title": "Freelancer Lifestyle Transition: Real Stories of Moving from 9-to-5 to Self-Employment",
+      "excerpt": "Real freelancer transition stories covering income volatility coping, time sovereignty management, social fulfillment strategies, and identity reconstruction after leaving corporate employment"
     }
   ]
 }

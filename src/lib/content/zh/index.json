@@ -948,6 +948,31 @@
       "slug": "ai-content-calendar-planner",
       "title": "AI内容日历规划工具：一人公司如何用AI提前一个月规划全平台内容",
       "excerpt": "内容创作最大的敌人不是灵感不够，而是没有规划。本文评测ContentCal、Planable、Later和CoSchedule的AI功能，教你搭建自动排期系统。"
+    },
+    {
+      "slug": "ai-drive-tuiguang-zhineng-waibaozhuang",
+      "title": "AI驱动推广：智能外包装如何提升电商复购率",
+      "excerpt": "从画像引擎到内容生成，再到追踪分析——AI驱动的智能外包装如何通过个性化开箱体验将复购率提升30%以上，含5个落地场景和ROI测算方法"
+    },
+    {
+      "slug": "kuaishou-xiaodian-zidonghua-gongju",
+      "title": "快手小店全自动运营工具链搭建指南",
+      "excerpt": "商品上架、智能客服、订单处理、营销投放、数据监控五大模块一键打通，完整工具选型与配置流程，让一人也能管理多个快手店铺"
+    },
+    {
+      "slug": "pinxiaoxi-mianyi-zhuanhuan-gongju",
+      "title": "拼多多免密支付+智能转赠工具激活沉默用户",
+      "excerpt": "拼多多沉默用户激活的完整实操方案：免密支付接入、智能转赠三种模式、五步组合策略，附数据验证指标和真实案例"
+    },
+    {
+      "slug": "duokuaipingtai-shangpin-tongbu-gongju",
+      "title": "多平台商品同步管理工具：从1688到TikTok Shop",
+      "excerpt": "1688到TikTok Shop全链路商品同步方案，字段映射、库存协同、价格自动化，对比6款主流同步工具，手把手搭建跨平台商品管理体系"
+    },
+    {
+      "slug": "ai-dianshang-xieyi-dingjia-zhineng",
+      "title": "AI电商协议定价系统：智能合同与自动报价工具",
+      "excerpt": "B2B电商定价的AI解决方案：客户分层定价、自动报价五步搭建、智能合同生成、合规风控体系，全员实操案例与ROI数据"
     }
   ],
   "wear": [
@@ -1725,6 +1750,31 @@
       "slug": "mens-shoe-care-polishing-guide",
       "title": "男士皮鞋护理完全指南：从清洁到打蜡的完整流程",
       "excerpt": "一双精心护理的皮鞋是男人最好的名片。本文从工具选择、清洁流程、滋养上光到防水保养，详解家庭护理的每一个步骤。"
+    },
+    {
+      "slug": "nanshi-shencai-dingzhi-xifu",
+      "title": "男士身材定制西装方案：矮个/胖体型/窄肩的不同版型选择",
+      "excerpt": "针对不同身材的男士西装定制指南，矮个显高版型设计、胖体型显瘦剪裁方案、窄肩优化比例的垫肩与驳领选择，含具体面料与细节建议"
+    },
+    {
+      "slug": "xia-ge-yangrong-xifu-yanghu",
+      "title": "夏格羊绒西装养护全指南：从洗涤到收纳的完整流程",
+      "excerpt": "羊绒与羊毛西装的完整养护流程，日常除尘技巧、干洗频率控制、熨烫温度控制、防虫防潮收纳方法，延长西装使用寿命的具体操作步骤"
+    },
+    {
+      "slug": "nanshi-jianjie-mianliao-xuanze",
+      "title": "男士休闲夹克面料选择指南：棉/麻/牛仔/机能面料对比",
+      "excerpt": "男士休闲夹克四大面料横评，纯棉、亚麻、牛仔与机能面料的透气性、耐用度、造型保持力对比，不同季节和场景的最佳面料选择方案"
+    },
+    {
+      "slug": "shangwu-xianzhuang-dapei-gonglue",
+      "title": "商务休闲装搭配全攻略：从办公室到晚餐的无缝切换",
+      "excerpt": "商务休闲装搭配实操指南，从衬衫领型选择、裤装面料搭配、鞋履风格匹配到配饰点缀，解决办公室到社交场合的无缝切换难题"
+    },
+    {
+      "slug": "liangzhuang-piduihua-jianbie",
+      "title": "西装皮拖鞋如何鉴别真伪：从皮料到工艺的五步鉴定法",
+      "excerpt": "手工皮拖鞋真伪鉴别五步法，皮料纹理对比、固特异工艺检查、缝线细节品控、鞋底材质分辨、品牌LOGO验证，附常见仿制手法揭秘"
     }
   ],
   "ops": [
@@ -2492,6 +2542,31 @@
       "slug": "solopreneur-time-management-system",
       "title": "一人公司时间管理系统：用Notion+AI每天只工作4小时的高效法则",
       "excerpt": "一人公司最大的挑战不是业务而是时间管理。本文分享一套经过验证的时间管理系统，让你每天只花4小时做最重要的事。"
+    },
+    {
+      "slug": "dianshang-gongsi-suishou-guanli",
+      "title": "电商企业税务管理全攻略：小规模纳税人与一般纳税人的选择",
+      "excerpt": "电商企业税务管理实操指南，详解小规模纳税人与一般纳税人的区别、转换时点、发票管理策略及合规自动化工具配置"
+    },
+    {
+      "slug": "duopinpai-xiaochengxu-yunying",
+      "title": "多品牌小程序矩阵运营策略：成本分摊与流量互通",
+      "excerpt": "微信生态多品牌小程序矩阵搭建与运营策略，涵盖共享中间层架构、跨品牌引流机制、数据中台搭建与单个账号的低成本冷启动方法"
+    },
+    {
+      "slug": "kuaishou-daifei-CPS-jiaocheng",
+      "title": "快手带货CPS全流程实操：从选品到结算的完整教程",
+      "excerpt": "快手CPS带货从0到1实操教程，达人撮合、佣金设置、计划创建、数据追踪、结算对账、避坑指南六大环节，附真实佣金计算案例"
+    },
+    {
+      "slug": "jingdong-zhuanmai-dian-yunying",
+      "title": "京东专卖店精细化运营：新品破零到爆款维护全流程",
+      "excerpt": "京东专卖店运营全流程手册，新品冷启动五步法、流量获取渠道矩阵、评价管理策略与爆款生命周期维护，一手操盘经验分享"
+    },
+    {
+      "slug": "yiren-gongsi-liushui-zidonghua",
+      "title": "一人公司流水自动化体系：从记账到报税的完整解决方案",
+      "excerpt": "一人公司财务自动化实操方案，票据OCR识别、银行流水自动导入、费用智能分类、税务申报一键生成，月均节省15小时对账时间"
     }
   ],
   "mood": [
@@ -3297,6 +3372,31 @@
       "slug": "work-life-balance-solopreneur",
       "title": "一人公司的心流工作法：重新定义工作与生活的平衡",
       "excerpt": "对一人公司创始人来说，工作与生活的平衡不是50-50的切割。本文提出心流工作法，用能量管理代替时间管理。"
+    },
+    {
+      "slug": "yiren-gongsi-jiankang-guanli",
+      "title": "一人公司的健康管理：久坐族的运动计划与作息优化",
+      "excerpt": "久坐创业者健康管理实操方案，碎片化运动计划、办公桌拉伸动作、作息节律优化、饮食结构调整，有效对抗久坐带来的健康隐患"
+    },
+    {
+      "slug": "juanshi-yali-tiaojie",
+      "title": "卷时代压力调节指南：创业者必备的心理韧性训练方法",
+      "excerpt": "卷时代创业者的压力调节实操指南，认知重构、呼吸训练、社交支持系统建立、目标管理等方法，帮助创业者在高压环境下保持心理健康"
+    },
+    {
+      "slug": "xiaochengxu-chuangye-xintai",
+      "title": "小程序创业者的心态修炼：从焦虑期到稳定期的心理过渡",
+      "excerpt": "小程序创业者的心理成长路径，从初期焦虑到中期迷茫再到稳定期的四个阶段转变，真实的心理体验记录与应对策略分享"
+    },
+    {
+      "slug": "zilv-xiangguan-tiaozheng",
+      "title": "自律不是苦行僧：如何建立不痛苦的日常习惯",
+      "excerpt": "可持续自律的实操方法，从最小行动原则到习惯堆叠法再到环境设计，打破自律等于痛苦的认知误区，用系统取代意志力"
+    },
+    {
+      "slug": "duli-kaifa-shenghuo-sikao",
+      "title": "独立开发者生活思考：从996到自由职业的心态转变实录",
+      "excerpt": "真实独立开发者的生活转变记录，收入波动应对、时间管理重构、社交需求满足、身份认同重塑四个维度的心理适应过程"
     }
   ]
 }
