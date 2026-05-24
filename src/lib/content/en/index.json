@@ -1463,6 +1463,16 @@
       "slug": "cross-border-store-risk-management-ai",
       "title": "Cross-Border Store Risk Management: AI Tools for Review Monitoring and Compliance",
       "excerpt": "Explore AI tools for cross-border e-commerce risk management. Monitor product reviews, detect compliance issues, manage intellectual property claims, and maintain store health across markets."
+    },
+    {
+      "slug": "ai-copywriting-tools-compare",
+      "title": "AI Copywriting Tools Compared: Finding the Right Fit for Your Business",
+      "excerpt": "Not all AI copywriting tools are created equal. This comparison covers output quality, pricing, platform integrations, and which tool suits different content types and business models."
+    },
+    {
+      "slug": "no-code-ai-agent-build",
+      "title": "Building AI Agents Without Code: A Practical Guide for Solopreneurs",
+      "excerpt": "No-code AI agent builders are making automation accessible to everyone. This guide covers top platforms, solopreneur use cases, step-by-step builds, and cost considerations."
     }
   ],
   "wear": [
@@ -2430,6 +2440,21 @@
       "slug": "advanced-color-matching-men",
       "title": "Advanced Men's Color Matching: From Neutrals to Earth Tones",
       "excerpt": "Go beyond basic color matching. Learn how to combine earth tones, saturated hues, and neutrals into sophisticated outfits that command attention without shouting."
+    },
+    {
+      "slug": "casual-blazer-styling-guide",
+      "title": "The Modern Casual Blazer: How to Style It for Any Occasion",
+      "excerpt": "The casual blazer is the most versatile piece in a modern man's wardrobe. This guide covers fabric choices, fit fundamentals, outfit combinations, and occasion-specific styling."
+    },
+    {
+      "slug": "linen-suit-summer-essentials",
+      "title": "Linen Suits for Summer: Style, Care, and Buying Guide",
+      "excerpt": "Linen suits are the ultimate summer style investment. This guide covers how to choose linen quality, style your suit for work and weekends, care for the fabric, and avoid common buyer mistakes."
+    },
+    {
+      "slug": "capsule-wardrobe-minimalist-men",
+      "title": "Building a Capsule Wardrobe: The Minimalist Man's Guide to Modern Style",
+      "excerpt": "A capsule wardrobe simplifies daily choices while improving your style. This guide covers the essential 25-piece list, fabric tips, building on a budget, and maintaining the system."
     }
   ],
   "ops": [
@@ -3457,6 +3482,16 @@
       "slug": "service-monetization-solopreneur",
       "title": "Service Monetization for Solopreneurs: The Free-to-Paid Transformation Guide",
       "excerpt": "Convert free offerings into paid services systematically. Learn the free-to-paid pipeline, pricing psychology, and client conversion strategies for solopreneurs."
+    },
+    {
+      "slug": "solopreneur-tax-accounting-basics",
+      "title": "Solopreneur Tax and Accounting: A Practical Guide for Independent Workers",
+      "excerpt": "Managing taxes as a solopreneur doesn't have to be overwhelming. This guide covers quarterly estimated taxes, deductible expenses, accounting software recommendations, and when to hire a professional."
+    },
+    {
+      "slug": "content-repurposing-maximize-output",
+      "title": "The Content Repurposing Playbook: Turn One Idea into 10 Posts",
+      "excerpt": "Content repurposing is the most efficient way to scale your content marketing. This playbook covers a repeatable system for transforming one long-form piece into multiple formats."
     }
   ],
   "mood": [
@@ -4431,6 +4466,16 @@
       "slug": "self-directed-life-planning",
       "title": "Self-Directed Life Planning: Stop Living by Others' Expectations",
       "excerpt": "Break free from the default path society sets for you and build a life plan aligned with your authentic values, strengths, and definition of success."
+    },
+    {
+      "slug": "remote-work-loneliness-solutions",
+      "title": "Overcoming Remote Work Loneliness: Building Connection When Working Alone",
+      "excerpt": "Loneliness is the hidden cost of remote work. This guide covers practical strategies for building professional connections, structuring social interaction, and knowing when to seek support."
+    },
+    {
+      "slug": "creative-block-breakthrough-tips",
+      "title": "Breaking Through Creative Block: Practical Techniques That Actually Work",
+      "excerpt": "Creative block affects every creator. This guide covers the neuroscience behind creative blocks, evidence-based techniques to break through them, and long-term strategies to prevent recurrence."
     }
   ]
 }
