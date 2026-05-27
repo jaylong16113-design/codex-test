@@ -1414,6 +1414,16 @@
       "slug": "cross-border-low-budget-startup-roadmap",
       "title": "跨境电商低预算起盘：从0到月入5万的90天实操路线图",
       "excerpt": "5000元启动资金能做跨境电商吗？可以。本文分享完整的90天启动路线图，从选品到第一单的每一步"
+    },
+    {
+      "slug": "ai-live-stream-ecommerce-tool",
+      "title": "AI直播带货全流程工具解析",
+      "excerpt": "从选品、话术生成、虚拟主播到直播数据复盘，本文详解6款主流AI直播工具的实际使用方法，帮助电商卖家降低人力成本、提升转化率。适合抖音、淘宝、TikTok等平台的直播运营者。"
+    },
+    {
+      "slug": "ai-batch-image-generation-ecommerce",
+      "title": "AI批量生成商品图工具推荐",
+      "excerpt": "电商卖家如何用AI批量生成高质量商品图片？本文介绍ZMO、Pebblely、Flair等6款主流工具的实操方法，从场景合成、模特换装到多平台适配输出，单图成本可低至0.3元，效率提升10倍以上。"
     }
   ],
   "ops": [
@@ -2301,6 +2311,21 @@
       "slug": "zi-dong-peisong-liucheng-youhua",
       "title": "自动配送流程优化：独立电商卖家的履约效率提升指南",
       "excerpt": "本文为独立电商卖家提供一套完整的配送流程自动化方案，涵盖订单路由分发、批量打单与标签生成、承运商比价选择、退货处理自动化以及物流追踪集成等关键环节。通过ShipStation、Easyship等工具的实际操作指南，帮助单人运营者将日均履约耗时从数小时压缩至数十分钟，显著提升发货效率和客户满意度。"
+    },
+    {
+      "slug": "yiren-gongsi-neirong-zhongtai",
+      "title": "一人公司内容中台搭建指南",
+      "excerpt": "一人公司如何搭建轻量级内容中台？本文分享一套包含选题库、素材库、排期系统和复盘模板的四模块框架，结合Notion和Make自动化，让单人内容产出效率提升3倍。"
+    },
+    {
+      "slug": "yiren-gongsi-CPS-bianxian-2026",
+      "title": "一人公司CPS变现全攻略",
+      "excerpt": "2026年一人公司如何通过CPS（按销售额分成）实现稳定变现？本文拆解高佣金赛道选择、流量获取策略、信任机制搭建和转化漏斗优化四大模块，附真实案例数据和收入预期。"
+    },
+    {
+      "slug": "yiren-gongsi-SEO-guanjianci",
+      "title": "一人公司SEO关键词布局策略",
+      "excerpt": "一人公司做SEO资源有限，关键词策略决定成败。本文从长尾词挖掘、竞争度评估、内容集群搭建到排名追踪，提供一套适合单人操作的完整关键词运营方案，附工具和模板。"
     }
   ],
   "wear": [
@@ -3213,6 +3238,21 @@
       "slug": "zhongnian-shangwu-xiuxian-gouwu-zhinan",
       "title": "中年男士商务休闲穿搭购物指南：从面料选择到色彩搭配的完整攻略",
       "excerpt": "面向中年创业者和职场人士的商务休闲购物指南，从四季面料选择、中性色体系搭建、版型优化技巧出发，给出春夏秋冬四套穿搭方案与品牌推荐，帮助用最少单品构建最高效的商务休闲衣柜。"
+    },
+    {
+      "slug": "nanzhuang-xiezi-xuanze-zhinan",
+      "title": "男装鞋子选购全攻略",
+      "excerpt": "从正装皮鞋到休闲运动鞋，这篇男装鞋子选购指南为你详解德比鞋、牛津鞋、乐福鞋等各类鞋型的特点，并附上ECCO、Clarks、Loake等品牌的具体价位和搭配建议，帮你花对钱买对鞋。"
+    },
+    {
+      "slug": "nanzhuang-chenshan-mianliao",
+      "title": "男士衬衫面料选购指南",
+      "excerpt": "选对衬衫面料是男人提升穿衣质感的第一步。本文从棉质府绸、牛津纺、亚麻到法兰绒逐一解析，涵盖面料支数误区、品牌推荐（如Suitsupply、Brooks Brothers、Uniqlo）以及职场与休闲场景的搭配建议。"
+    },
+    {
+      "slug": "xifu-rixi-gongzuo-dapei",
+      "title": "西装日常工作会议搭配法",
+      "excerpt": "打破穿西装就必须全套三件式的刻板印象，教你用单品混搭打造适合日常工作会议的通勤造型。从西装与不同裤装的组合、内搭选择到鞋履搭配，结合Zara、Suitsupply等品牌价位，提供可立即上手的实用技巧。"
     }
   ],
   "mood": [
@@ -4140,6 +4180,16 @@
       "slug": "mood-xiaohongshu-comment-strategy",
       "title": "mood-xiaohongshu-comment-strategy",
       "excerpt": "mood-xiaohongshu-comment-strategy"
+    },
+    {
+      "slug": "mood-shangbanzu-shiwu-liyi",
+      "title": "上班族必备事务礼仪指南",
+      "excerpt": "职场中，细节往往比能力更能决定你的职业高度。从邮件沟通到会议礼仪，从办公室边界感到跨部门协作，本文用真实场景拆解上班族必知的事务礼仪，帮你赢在细微处、走得更长远。"
+    },
+    {
+      "slug": "mood-jingzheng-xintai-tiaozheng",
+      "title": "竞争心态的科学调整",
+      "excerpt": "竞争带来的焦虑和内耗往往比对手更消耗你。本文从认知心理学视角出发，提供五个经过验证的心态调整策略，辅以真实案例和日常练习，帮你把竞争压力转化为持续成长的动力，找回内心的从容与笃定。"
     }
   ]
 }
