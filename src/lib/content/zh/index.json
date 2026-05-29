@@ -1474,6 +1474,31 @@
       "slug": "ai-duopingtai-dingdan-zidonghua-guanli",
       "title": "多平台电商订单AI自动化管理指南",
       "excerpt": "一套完整的跨平台订单自动化管理方案，涵盖订单聚合、智能分仓、异常预警和售后自动化，帮助同时运营多个电商平台的卖家告别手动处理订单的低效困境。"
+    },
+    {
+      "slug": "ai-dianshang-tupian-piliang-chuli-gongju",
+      "title": "AI电商图片批量处理工具实战指南",
+      "excerpt": "详解5款AI图片批量处理工具在电商场景中的应用，包含Remove.bg、Claid.ai、Pixelcut等工具的价格方案与实操流程，助你提升商品图处理效率10倍。"
+    },
+    {
+      "slug": "ai-dianshang-pinpai-gushi-shengcheng-fangan",
+      "title": "AI电商品牌故事生成方案",
+      "excerpt": "用AI工具为电商品牌打造打动人心的品牌故事，涵盖Copy.ai、Jasper、ChatGPT、Writesonic的使用技巧、价格对比和完整创作流程。"
+    },
+    {
+      "slug": "ai-zhibo-liucheng-zidonghua-gongju-zhinan",
+      "title": "AI直播流程自动化工具实战指南",
+      "excerpt": "从AI虚拟主播到直播话术自动生成，本文详解HeyGen、Synthesia、DeepBrain AI等工具的定价方案和实操步骤，助电商卖家实现24小时无人直播。"
+    },
+    {
+      "slug": "ai-shipin-pianqu-shengcheng-dianshang-shijian",
+      "title": "AI视频片头片尾生成电商实战",
+      "excerpt": "用AI工具快速生成电商视频片头片尾，涵盖InVideo、CapCut、Canva、RunwayML的价格方案与实操步骤，帮你节省80%视频制作时间。"
+    },
+    {
+      "slug": "AI-dianshang-xinpin-guanli-zidonghua-gongju",
+      "title": "AI电商新品管理自动化工具实战",
+      "excerpt": "用AI工具实现新品从选品调研、Listing生成、库存管理到多平台上架的自动化，涵盖Jungle Scout、Zoho、TradeGecko等工具的实战流程。"
     }
   ],
   "ops": [
@@ -2426,6 +2451,31 @@
       "slug": "yiren-gongsi-shequn-yunying-liucheng",
       "title": "一人公司社群运营：从拉新到转化完整流程",
       "excerpt": "面向一人公司创始人的社群运营全流程指南，从精准拉新、入群欢迎、日常活跃、价值输出到转化变现，详解单人运营社群的实操方法与效率工具。"
+    },
+    {
+      "slug": "yiren-gongsi-neirong-neibao-jingying",
+      "title": "一人公司内容月报经营法",
+      "excerpt": "一人公司如何用内容月报实现高效编辑规划？本文分享 Notion 看板法、Make 自动化流程、以及每月 12 篇内容的产能分配策略，帮助独立创作者建立可持续的内容生产体系。"
+    },
+    {
+      "slug": "duopingtai-bianxian-youhua-xiaoge-ce",
+      "title": "多平台变现优化小个册策略",
+      "excerpt": "一人公司如何构建多平台变现矩阵？从 Substack 订阅、Gumroad 数字产品到知识星球社群，本文提供完整的渠道优化策略、收入预期数据以及自动化分发方案，助你实现月入 3 万以上的稳定营收。"
+    },
+    {
+      "slug": "dianpu-shequn-cehua-yunying-shijian",
+      "title": "店铺社群策划运营实战指南",
+      "excerpt": "一人公司如何从零搭建高活跃付费社群？本文分享社群定位方法论、种子用户获取策略、每周互动活动设计以及流失预警机制，结合知识星球与微信生态的真实运营数据，手把手教你跑通社群冷启动全流程。"
+    },
+    {
+      "slug": "AI-gongju-dianshang-shujv-fenxi-sikao",
+      "title": "AI 工具电商数据分析思考",
+      "excerpt": "一人电商团队如何用 AI 工具突破数据分析瓶颈？从 Google Analytics 4 自动化报表、ChatGPT 智能归因分析到 Python 自动化异常检测，本文提供完整的技术选型与落地实践方案，助你用数据驱动增长。"
+    },
+    {
+      "slug": "dianshang-pinpai-xiangdao-SEO-yunying-fangan",
+      "title": "电商品牌向导 SEO 运营方案",
+      "excerpt": "一人电商品牌如何制定高效的 SEO 运营方案？从关键词矩阵搭建、站内优化清单到外链建设策略，本文提供完整的执行框架与数据参考，帮助独立品牌在不依赖付费广告的前提下实现自然搜索流量的持续增长。"
     }
   ],
   "wear": [
@@ -3403,6 +3453,31 @@
       "slug": "chunxia-nanzhuang-jiaonang-yichu",
       "title": "春夏男士胶囊衣橱：10件单品搞定整个季节",
       "excerpt": "一套涵盖春夏两季的极简男装方案，10件精选核心单品即可组合出超过15套日常穿搭，兼顾舒适度、实用性和时尚感。"
+    },
+    {
+      "slug": "nanzhuang-mianliao-hanhu-baoyang-jiqiao",
+      "title": "男装面料护理与保养全攻略",
+      "excerpt": "从羊毛西服到亚麻衬衫，不同面料需要不同的护理方式。本文详解羊毛、棉麻、真丝、化纤等常见男装面料的洗涤、熨烫与收纳技巧，帮助你的衣物延长寿命、保持质感。"
+    },
+    {
+      "slug": "nanzhuang-changjing-lvxing-chuanda-shiyong",
+      "title": "男士旅行穿搭实用指南",
+      "excerpt": "出差与旅行时如何在有限行李中兼顾风格与实用？本文提供多场景男士旅行穿搭方案，从商务差旅到度假休闲，教你用最少单品搭配出最多造型，让行李箱减负而不减分。"
+    },
+    {
+      "slug": "ziyoushang-xizhuang-xiuxian-chuanda-tuijian",
+      "title": "自由商休闲西服穿搭推荐",
+      "excerpt": "自由职业者、创业者等非传统职场人士如何穿西服？告别僵硬套装，拥抱休闲西服搭配新思路。本文推荐无结构西服、针织面料西服等舒适之选，并示范多种半正式穿搭方案。"
+    },
+    {
+      "slug": "nanzhuang-shejishi-jiaonang-jingxuan-zhinan",
+      "title": "设计师男装胶囊精选指南",
+      "excerpt": "从山本耀司到Lemaire，男士如何构建设计师品牌胶囊衣橱？本文精选8个值得投资的设计师男装品牌，详解每件核心单品的搭配逻辑与购买时机，助你用最少预算打造最有辨识度的衣橱。"
+    },
+    {
+      "slug": "nanzhuang-yundong-xiuxian-dapei-yuanze",
+      "title": "男装运动休闲搭配原则",
+      "excerpt": "运动休闲（Athleisure）已成为男装主流趋势。如何把运动单品穿出时髦感而非健身房即视感？本文详解五大搭配原则，从面料混搭到廓形平衡，助你掌握舒适与风格兼具的日常穿搭技法。"
     }
   ],
   "mood": [
@@ -4390,6 +4465,31 @@
       "slug": "shuzi-jijian-zhuyi-jian-pingmu",
       "title": "数字极简主义：如何减少屏幕时间找回真实连接",
       "excerpt": "手机屏幕正在偷走我们的注意力、时间和真实的人际连接。数字极简主义不是拒绝科技，而是有意识地选择如何使用技术，让科技服务于生活而非主宰生活。"
+    },
+    {
+      "slug": "yiren-gongsi-xiaolu-tigao-gongju-chengxu",
+      "title": "一人公司效率提升工具",
+      "excerpt": "专为一人公司设计的效率工具组合与工作流程序，涵盖时间管理、任务优先级和精力分配三大核心模块，帮助独立创业者用最少时间实现最大产出。"
+    },
+    {
+      "slug": "duchu-shenghuo-xingfu-zhihui-tiyan",
+      "title": "独处生活幸福智慧",
+      "excerpt": "在喧嚣时代学会高质量独处，将孤独转化为自我成长的能量。本文分享五种经过心理学验证的独处练习，帮助你从独处中获得深度幸福与人生智慧。"
+    },
+    {
+      "slug": "dianshang-chuangye-xintai-zhangsheng-fangan",
+      "title": "电商创业心态掌控方案",
+      "excerpt": "电商创业者的情绪过山车如何应对？从选品焦虑到流量波动，从差评心理到库存压力，本文提供五套经过认知行为心理学验证的心态管理方案，帮你稳定创业情绪。"
+    },
+    {
+      "slug": "qingxu-jijian-shenghuo-meirong-dapei",
+      "title": "情绪极简生活美容搭配",
+      "excerpt": "将情绪极简理念融入日常美容与穿搭中，用最少的物品和步骤打造内外兼修的美好状态。从衣橱整理到护肤仪式，每一条建议都有情绪心理学和审美心理学依据。"
+    },
+    {
+      "slug": "yiren-gongsi-jiankang-richang-shenghuo-tixi",
+      "title": "一人公司健康日常体系",
+      "excerpt": "为一人公司创业者量身打造的健康生活体系，从睡眠节律到饮食结构，从运动方案到心理保养，用行为科学方法在忙碌创业中维持身心平衡与长远竞争力。"
     }
   ]
 }
