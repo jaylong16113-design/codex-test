@@ -1499,6 +1499,31 @@
       "slug": "AI-dianshang-xinpin-guanli-zidonghua-gongju",
       "title": "AI电商新品管理自动化工具实战",
       "excerpt": "用AI工具实现新品从选品调研、Listing生成、库存管理到多平台上架的自动化，涵盖Jungle Scout、Zoho、TradeGecko等工具的实战流程。"
+    },
+    {
+      "slug": "ai-xiaohongshu-neirong-shengchan-liucheng",
+      "title": "AI小红书内容批量生产工作流",
+      "excerpt": "本文系统性拆解利用AI工具批量生成小红书图文笔记的全流程，涵盖选题挖掘、文案撰写、图片生成与发布时间优化四大核心环节，帮助电商运营者实现日均产出30+条高质量笔记。"
+    },
+    {
+      "slug": "duopingtai-dianpu-tongbu-gongju-tuijian",
+      "title": "多平台店铺同步管理工具推荐",
+      "excerpt": "深度对比店小秘、芒果店长、马帮ERP、领星ERP四款主流多平台店铺管理工具，从功能覆盖、价格体系、适用场景三个维度分析优劣势，帮助电商卖家找到最适合自己的同步管理方案。"
+    },
+    {
+      "slug": "ai-shangpin-biaoti-youhua-gongju",
+      "title": "AI商品标题优化工具实战评测",
+      "excerpt": "实测DeepSeek、ChatGPT、阿里妈妈创意中心、Jasper四款AI工具在电商商品标题优化中的表现，从关键词挖掘、标题改写、A/B测试三个维度进行横向对比，给出每个场景的最佳工具选择。"
+    },
+    {
+      "slug": "ai-dianpu-duanshipin-zidongshengcheng",
+      "title": "店铺短视频内容AI自动生成方案",
+      "excerpt": "从脚本生成、AI配音、智能剪辑到批量产出，完整拆解利用AI工具将商品图片自动转化为带货短视频的全流程方案，帮助电商卖家实现每天产出20条高质量商品短视频。"
+    },
+    {
+      "slug": "ai-dianshang-tuandui-xiezuo-gongju",
+      "title": "AI电商团队协作工具推荐",
+      "excerpt": "对比飞书AI、Notion AI、Teambition、Wolai四款工具的AI功能在电商团队场景中的实际表现，从内容协作、项目管理、知识沉淀三个维度给出选型建议和团队落地实操方案。"
     }
   ],
   "ops": [
@@ -2476,6 +2501,31 @@
       "slug": "dianshang-pinpai-xiangdao-SEO-yunying-fangan",
       "title": "电商品牌向导 SEO 运营方案",
       "excerpt": "一人电商品牌如何制定高效的 SEO 运营方案？从关键词矩阵搭建、站内优化清单到外链建设策略，本文提供完整的执行框架与数据参考，帮助独立品牌在不依赖付费广告的前提下实现自然搜索流量的持续增长。"
+    },
+    {
+      "slug": "yiren-gongsi-shipinhao-neirong-jingying",
+      "title": "一人公司视频号内容经营全攻略",
+      "excerpt": "视频号是微信生态中一人公司最值得投入的内容阵地。本文从内容定位、选题策略、发布时间优化到变现路径，系统拆解适合一人公司的轻量化视频号运营方法论，帮你用最少人力获取最大流量。"
+    },
+    {
+      "slug": "dianpu-kedan-cehua-zhuanhuan-tisheng",
+      "title": "店铺客单价提升策略与实操",
+      "excerpt": "客单价是电商店铺利润的核心杠杆。本文从套餐组合、满减活动、关联推荐、会员体系四个维度，拆解提升客单价的具体落地方法，包含数据埋点和效果验证的完整实操流程。"
+    },
+    {
+      "slug": "yiren-gongsi-dianshang-falv-fengxian",
+      "title": "一人公司电商法律风险防范指南",
+      "excerpt": "一人公司做电商最容易忽视的就是法律风险。本文从商标注册、知识产权保护、广告法合规、消费者权益保障四个核心维度出发，系统梳理电商经营中常见的法律雷区及防范措施。"
+    },
+    {
+      "slug": "dianpu-shengyi-canmou-shujv-fenxi",
+      "title": "电商生意参谋数据分析实战",
+      "excerpt": "生意参谋是电商运营的核心数据工具。本文从选品分析、流量诊断、转化率优化、竞品监控四个维度，拆解一人公司如何用最少的时间从生意参谋数据中提取 actionable 的运营决策。"
+    },
+    {
+      "slug": "yiren-gongsi-zhishi-fuyu-bianxian",
+      "title": "一人公司知识付费变现全路径",
+      "excerpt": "知识付费是一人公司最轻的变现模式。本文从内容积累、课程设计、社群运营到平台选择，系统梳理了从零开始搭建知识付费业务的全流程，帮助个人创作者找到适合自己的变现路径。"
     }
   ],
   "wear": [
@@ -3478,6 +3528,31 @@
       "slug": "nanzhuang-yundong-xiuxian-dapei-yuanze",
       "title": "男装运动休闲搭配原则",
       "excerpt": "运动休闲（Athleisure）已成为男装主流趋势。如何把运动单品穿出时髦感而非健身房即视感？本文详解五大搭配原则，从面料混搭到廓形平衡，助你掌握舒适与风格兼具的日常穿搭技法。"
+    },
+    {
+      "slug": "xifu-liang-shen-gaizhi-yu-xinshou-zhinan",
+      "title": "西服量身定制与新手选购指南",
+      "excerpt": "从面料选择、版型知识、量体指标到定制流程，本文为新手提供一套完整的西服量身定制指南。涵盖羊毛面料支数解读、半毛衬与全毛衬区别、三大版型体系对比以及定制全流程注意事项，帮助您选对第一套定制西服。"
+    },
+    {
+      "slug": "nanzhuang-xiangshui-fenxiang-xuanze-jiqiao",
+      "title": "男装香氛选择技巧与季节搭配",
+      "excerpt": "香水是男装穿搭中不可或缺的感官延伸。本文详解木质调、柑橘调、海洋调和东方调四大香型分类，针对春夏秋冬不同季节和商务、约会、日常等场景给出具体选香建议，帮助男性通过气味强化个人风格与穿搭氛围。"
+    },
+    {
+      "slug": "nanzhuang-chenshan-lingxing-xuanze-zhinan",
+      "title": "男装衬衫领型选择指南",
+      "excerpt": "衬衫领型是男装穿搭中最容易被忽视却至关重要的细节。本文系统介绍标准领、温莎领、纽扣领、立领、古巴领等主流领型的设计特点、适用场景与搭配建议，帮助读者根据脸型、领带选择及场合需求精准挑选衬衫领型。"
+    },
+    {
+      "slug": "nanzhuang-qiu-dong-da-pei-cengci-gan",
+      "title": "男装秋冬穿搭层次感打造技巧",
+      "excerpt": "秋冬穿搭的核心在于层次感的营造。本文从内搭选择、中间层搭配、外套组合到配饰点缀，系统讲解男装叠穿的方法论。涵盖高领衫与衬衫的叠穿公式、针织衫的中间层用法、大衣与夹克的外套组合逻辑，帮助男性在保暖的同时穿出丰富的视觉层次。"
+    },
+    {
+      "slug": "nanzhuang-bangqiu-xie-dapei-fengge",
+      "title": "男装棒球夹克穿搭风格解析",
+      "excerpt": "棒球夹克从运动场走向街头与时尚圈，已成为男装中兼具休闲与复古魅力的标志性单品。本文回顾棒球夹克的历史演变，解析羊毛、皮革、棉质三大材质的风格差异，并针对不同季节和场合提供具体的穿搭方案，帮助男性驾驭这件经典单品。"
     }
   ],
   "mood": [
@@ -4490,6 +4565,31 @@
       "slug": "yiren-gongsi-jiankang-richang-shenghuo-tixi",
       "title": "一人公司健康日常体系",
       "excerpt": "为一人公司创业者量身打造的健康生活体系，从睡眠节律到饮食结构，从运动方案到心理保养，用行为科学方法在忙碌创业中维持身心平衡与长远竞争力。"
+    },
+    {
+      "slug": "yiren-chuangye-xinqing-richang-jilu",
+      "title": "一人创业心情日常记录与感悟",
+      "excerpt": "记录一人创业的真实心情起伏——从工作孤独感到时间自由的喜悦，从决策压力到自我突破的成长。这是每一个独立创作者都能共鸣的内心独白与生存智慧。"
+    },
+    {
+      "slug": "qingxu-shufang-sheji-he-chuangzuo",
+      "title": "情绪书房设计与创作空间",
+      "excerpt": "如何打造一个既能激发创造力又能疗愈情绪的家庭工作空间？从灯光配色到绿植摆放，从家具选择到心理边界，这份指南帮你把书房变成真正的情绪加油站。"
+    },
+    {
+      "slug": "duju-yule-ziwo-tisheng-fangshi",
+      "title": "独居娱乐与自我提升方式",
+      "excerpt": "独居生活不等于孤独无聊。这份指南推荐了最适合独处时光的自我提升活动——从深度阅读到创意手作，从优质播客到系统课程，让一个人的日子过得充实又有温度。"
+    },
+    {
+      "slug": "jiankang-yinshi-xiaoti-zhongri-cheng",
+      "title": "健康饮食小贴士与每日记录",
+      "excerpt": "一人公司创业者如何吃得健康又高效？从10分钟快速早餐到备餐技巧，从外卖选择智慧到情绪性进食管理，这份饮食指南让忙碌的日子也能吃得营养均衡。"
+    },
+    {
+      "slug": "shenghuo-jianfa-zidonghua-kuaijie-jing",
+      "title": "生活减法自动化快捷经验",
+      "excerpt": "用自动化工具和极简原则简化日常决策——自动账单、每周菜单方案、家务外包策略。少做选择，多做重要的事。这份经验分享帮你从琐碎事务中解放大脑带宽。"
     }
   ]
 }
