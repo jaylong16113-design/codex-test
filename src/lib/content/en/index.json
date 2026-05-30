@@ -1768,6 +1768,31 @@
       "slug": "ai-visual-search-ecommerce-personalization",
       "title": "Implementing AI Visual Search and Recommendation Engines for Ecommerce",
       "excerpt": "How AI-powered visual search and hyper-personalized recommendation engines are transforming ecommerce discovery — with implementation strategies for merchants."
+    },
+    {
+      "slug": "ai-recommendation-system-ecommerce-guide",
+      "title": "AI Recommendation System Design for Ecommerce: A Practical Guide",
+      "excerpt": "Learn how to design, build, and optimize AI recommendation systems for ecommerce. Covers collaborative filtering, real-time personalization, and A/B testing."
+    },
+    {
+      "slug": "smart-invoice-management-tools-ecommerce",
+      "title": "Smart Invoice Management Tools for Ecommerce",
+      "excerpt": "Discover the best smart invoice management tools for ecommerce businesses. Covers automated billing, reconciliation, multi-currency support, and tax compliance."
+    },
+    {
+      "slug": "ai-copywriting-automation-workflow-guide",
+      "title": "AI Copywriting Automation: Full Workflow Guide",
+      "excerpt": "Master AI copywriting automation with this full workflow guide. Covers content strategy, model selection, prompt engineering, editing, and quality control."
+    },
+    {
+      "slug": "ecommerce-data-visualization-tool-comparison",
+      "title": "Ecommerce Data Visualization Tools Compared",
+      "excerpt": "Compare the top ecommerce data visualization tools for dashboards, analytics, and reporting. Covers Tableau, Looker, Power BI, Metabase, and custom solutions."
+    },
+    {
+      "slug": "ai-printing-form-processing-ecommerce",
+      "title": "AI-Powered Printing and Form Processing for Ecommerce",
+      "excerpt": "Explore AI-powered printing and form processing solutions for ecommerce. Covers OCR, smart document routing, packaging labels, and automated fulfillment workflows."
     }
   ],
   "wear": [
@@ -2965,6 +2990,31 @@
       "slug": "suit-patterns-and-weaves-explained",
       "title": "Suit Patterns and Weaves Explained: From Sharkskin to Houndstooth",
       "excerpt": "Understanding suit weaves and patterns is essential for any well-dressed man. Learn to distinguish between sharkskin, birdseye, nailhead, herringbone, and more with confidence."
+    },
+    {
+      "slug": "menswear-personalized-styling-techniques",
+      "title": "Menswear Personalized Styling: Core Techniques",
+      "excerpt": "Master personalized menswear styling with core techniques in fit, fabric coordination, pattern mixing, and silhouette balancing for a truly distinctive wardrobe."
+    },
+    {
+      "slug": "smart-casual-suit-daily-wear-guide",
+      "title": "Smart Casual: Wearing Suits in Daily Life",
+      "excerpt": "Learn how to wear suits as smart casual attire in daily life with practical tips on fabric choice, footwear, layering, and accessory styling."
+    },
+    {
+      "slug": "mens-cologne-suit-pairing-art",
+      "title": "The Art of Pairing Cologne with Your Suit",
+      "excerpt": "Discover the art of pairing cologne with your suit: matching fragrance families to fabric types, occasions, and seasonal moods for a complete sensory experience."
+    },
+    {
+      "slug": "suit-care-maintenance-complete-guide",
+      "title": "Complete Guide to Suit Care and Maintenance",
+      "excerpt": "A complete guide to suit care and maintenance covering cleaning, pressing, storage, and repairs to extend the life of your tailored garments for years."
+    },
+    {
+      "slug": "men-color-matching-practical-rules",
+      "title": "Men's Color Matching: Practical Rules for Everyday Wear",
+      "excerpt": "Practical color matching rules for everyday men's wear covering the color wheel, neutral foundations, accent colors, and advanced techniques for confident dressing."
     }
   ],
   "ops": [
@@ -4257,6 +4307,31 @@
       "slug": "scaling-cps-revenue-without-increasing-traffic",
       "title": "Scaling CPS Revenue Without Increasing Traffic: Conversion Optimization for Affiliates",
       "excerpt": "How to grow affiliate commission income by optimizing conversion rates, average order values, and placement strategies — all without spending a dime on more traffic."
+    },
+    {
+      "slug": "solo-entrepreneur-traffic-acquisition-strategies",
+      "title": "Solo Entrepreneur Traffic Acquisition Strategies",
+      "excerpt": "Learn proven traffic acquisition strategies for solo entrepreneurs: SEO content stacking, social media loops, cold email outreach, and paid ads on a shoestring budget."
+    },
+    {
+      "slug": "indie-developer-monetization-pathways",
+      "title": "Complete Monetization Pathways for Indie Developers",
+      "excerpt": "Explore proven monetization pathways for indie developers: SaaS subscriptions, one-time licenses, freemium tiers, marketplace sales, and consulting hybrids."
+    },
+    {
+      "slug": "content-monetization-from-zero-solopreneur",
+      "title": "Content Monetization from Zero: A Solopreneur Guide",
+      "excerpt": "A step-by-step guide to monetizing content from zero audience: niche selection, platform strategy, product creation, and revenue diversification for solopreneurs."
+    },
+    {
+      "slug": "low-cost-experimental-seo-website-guide",
+      "title": "Low-Cost Experimental SEO Website Building Guide",
+      "excerpt": "Build and rank an experimental SEO website on a tight budget: domain strategy, lightweight tech stack, content velocity, and keyword research without expensive tools."
+    },
+    {
+      "slug": "cps-marketing-full-funnel-optimization",
+      "title": "CPS Marketing Full-Funnel Optimization Handbook",
+      "excerpt": "Master CPS marketing with full-funnel optimization: cost-per-sale models, landing page conversion, offer sequencing, traffic sourcing, and data-driven scaling."
     }
   ],
   "mood": [
@@ -5651,6 +5726,31 @@
       "slug": "joy-of-slow-living-mindful",
       "title": "The Joy of Slow Living: Embracing Presence in a World That Rushes",
       "excerpt": "Slow living shifts from quantity to quality, from busyness to meaning. Discover how embracing slowness transforms your relationship with time, work, and joy."
+    },
+    {
+      "slug": "finding-direction-in-busy-life",
+      "title": "Finding Direction in a Busy Life",
+      "excerpt": "Discover how to find clarity and purpose when life feels overwhelming. Practical strategies to navigate busy schedules and rediscover your inner compass."
+    },
+    {
+      "slug": "midlife-mental-growth-for-men",
+      "title": "Midlife Mental Growth for Men",
+      "excerpt": "Explore how midlife can become a powerful season of mental and emotional growth for men. Break free from stereotypes and embrace authentic development."
+    },
+    {
+      "slug": "morning-habits-that-change-your-day",
+      "title": "Morning Habits That Change Your Day",
+      "excerpt": "Transform your entire day with powerful morning habits. Learn science-backed routines that boost productivity, mood, and mental clarity starting from sunrise."
+    },
+    {
+      "slug": "digital-detox-overcoming-internet-addiction",
+      "title": "Digital Detox: Overcoming Internet Addiction",
+      "excerpt": "Break free from internet addiction with practical strategies for digital detox. Reclaim your attention, improve mental health, and rediscover real-world connection."
+    },
+    {
+      "slug": "work-life-balance-art-fulfillment",
+      "title": "The Art of Work-Life Balance and Fulfillment",
+      "excerpt": "Master the art of work-life balance and discover genuine fulfillment. Practical wisdom for integrating career success with personal well-being and meaningful living."
     }
   ]
 }
