@@ -1704,6 +1704,31 @@
       "slug": "ai-customer-service-multi-platform",
       "title": "AI智能客服系统多平台接入方案",
       "excerpt": "全面解析AI智能客服系统在多电商平台接入的实施方案，涵盖Shopify、淘宝、亚马逊、TikTok Shop等主流平台，帮助企业实现客服自动化。"
+    },
+    {
+      "slug": "ai-dianpu-yunying-wurongqi-gongju",
+      "title": "AI店铺运营无容器工具实战指南",
+      "excerpt": "本文详细介绍2025年主流AI店铺运营无容器工具，涵盖商品管理、数据分析与自动化营销，帮助电商卖家零门槛提升运营效率。"
+    },
+    {
+      "slug": "deepseek-dianshang-kehu-fuwu-jiaoben",
+      "title": "DeepSeek电商客服脚本编写指南",
+      "excerpt": "手把手教你用DeepSeek API编写电商客服自动化脚本，覆盖售前咨询、售后处理和话术优化，将回复效率提升300%。"
+    },
+    {
+      "slug": "douyin-xiaodian-zhineng-kefu-peizhi",
+      "title": "抖音小店智能客服全流程配置",
+      "excerpt": "从零开始配置抖音小店智能客服系统，包含欢迎语设置、常见问题自动回复、转人工规则和数据分析看板，手把手带你完成部署。"
+    },
+    {
+      "slug": "aigc-chanpin-tupian-batch-shengcheng",
+      "title": "AIGC产品图片批量生成全攻略",
+      "excerpt": "详解使用Stable Diffusion、Midjourney和ComfyUI批量生成电商产品图的完整流程，包含商品图换背景、多尺寸适配和后期优化技巧。"
+    },
+    {
+      "slug": "xiaohongshu-bi-keng-shuju-fenxi",
+      "title": "小红书店铺避坑数据分析指南",
+      "excerpt": "揭秘小红书电商运营中的常见数据陷阱，从流量分析、转化率优化到内容策略，用数据思维避开90%新手都会踩的坑。"
     }
   ],
   "ops": [
@@ -2896,6 +2921,31 @@
       "slug": "ge-ren-ip-da-zao-cong-ding-wei-dao-bian-xian",
       "title": "个人IP打造从定位到变现全流程",
       "excerpt": "个人IP是数字时代最值钱的资产。本文完整拆解个人IP从零到一的打造路径，包括定位挖掘、内容体系搭建、粉丝积累和商业化变现的每一个关键环节。"
+    },
+    {
+      "slug": "yigeren-gongsi-zhuanxing-lu-jing",
+      "title": "一人公司转型路径",
+      "excerpt": "从自由职业到一人公司的完整转型路线图，涵盖工具选型、流程搭建、客户获取与收入稳定化的实战方法论，附真实转化率与成本分析。"
+    },
+    {
+      "slug": "solopreneur-cps-bianxian-duoce",
+      "title": "CPS变现多策略实战",
+      "excerpt": "面向一人公司的五种CPS变现策略详解，包含选品方法、流量获取、转化优化与收益预估，推荐平台佣金比例与实战案例分享。"
+    },
+    {
+      "slug": "xiaohongshu-cps-tuiguang-zhongji",
+      "title": "小红书CPS推广终极指南",
+      "excerpt": "2025年小红书CPS推广全流程指南，从账号冷启动到爆款笔记打造，从选品逻辑到合规避坑，实操数据驱动的内容策略与方法论。"
+    },
+    {
+      "slug": "zhineng-tisheng-solopreneur-xiaolv",
+      "title": "智能工具提升一人公司效率",
+      "excerpt": "一人公司如何用AI工具实现10倍效率提升？本文详解GPT、Claude、Notion AI等工具的实际应用场景，包含自动化工作流搭建与真实ROI分析。"
+    },
+    {
+      "slug": "di-chengben-solopreneur-yunying",
+      "title": "低成本一人公司运营策略",
+      "excerpt": "月预算3000元如何启动一人公司？从零成本获客到极致省钱工具选择，分享真实运营数据与资源利用最大化方法论，适合预算有限的创业者。"
     }
   ],
   "wear": [
@@ -4113,6 +4163,31 @@
       "slug": "nanzhuang-jichukuan-yichu-dajian-qingdan",
       "title": "男士基础款衣橱搭建清单",
       "excerpt": "从外套、上衣、裤装到鞋履与配饰，系统梳理男士基础款衣橱必备单品清单，结合面料、颜色和版型选择原则，让你用最少单品搭配出最多造型。"
+    },
+    {
+      "slug": "xiaban-xizhuang-richang-chuanda",
+      "title": "下班西服日常穿搭指南",
+      "excerpt": "下班后如何将西服穿出休闲感？本文从配色、鞋履、内搭三大维度，结合Uniqlo、Massimo Dutti等品牌，提供500-3000元预算的日常西服穿搭方案，让通勤着装轻松切换至生活场景。"
+    },
+    {
+      "slug": "xiuxian-xizhuang-mianliao-zhishi",
+      "title": "休闲西服面料选购知识",
+      "excerpt": "休闲西服与商务西服的面料选择有何不同？亚麻、棉麻混纺、羊毛混纺、丝绒四大主流面料详解，附Hugo Boss、Ralph Lauren等品牌实测推荐，助你根据季节与场合精准选择休闲西服面料。"
+    },
+    {
+      "slug": "nanzhuang-da-pei-jian-yue-feng",
+      "title": "男装搭配简约风穿搭指南",
+      "excerpt": "极简男装怎么穿才不显单调？本文从色彩克制、面料质感、版型剪裁三大核心出发，结合COS、Theory、Lemaire等品牌，用500-8000元预算打造高级感简约穿搭，涵盖通勤到约会全场景搭配方案。"
+    },
+    {
+      "slug": "xia-ge-zi-xizhuang-gouwu-zhinan",
+      "title": "格子西装选购购物指南",
+      "excerpt": "格子西装怎么选才不显老气？本文详解苏格兰格、千鸟格、威尔士亲王格三大经典格纹，从版型、颜色、搭配三个维度提供选购建议，推荐Burberry、Ted Baker、G2000等品牌，预算1000-15000元全覆盖。"
+    },
+    {
+      "slug": "qingnian-shangwu-xizhuang-tuijian",
+      "title": "青年商务西装推荐选购指南",
+      "excerpt": "刚入职场或创业初期的年轻人如何选择第一套商务西装？从2000元入门款到10000元进阶款，对比SuitSupply、G2000、威可多等品牌，涵盖版型选择、颜色搭配、预算分配等实用建议，助你穿出专业感。"
     }
   ],
   "mood": [
@@ -5340,6 +5415,31 @@
       "slug": "anxiety-to-calm-emotion-management",
       "title": "从焦虑到平静：五个科学有效的情绪管理技巧",
       "excerpt": "焦虑不是你的敌人，而是你的身体在试图保护你。学会与情绪对话而非对抗，用科学的方法把焦虑的强度降下来，找回内心的平静。"
+    },
+    {
+      "slug": "san-shi-sui-rensheng-guan",
+      "title": "三十岁人生观的转变",
+      "excerpt": "三十岁是人生重要的分水岭，本文从心理学角度剖析三十岁前后的价值观转变，提供应对中年焦虑的实用策略，帮助你在而立之年找到真正属于自己的人生方向。"
+    },
+    {
+      "slug": "du-li-gong-zuo-zhe-xin-tai",
+      "title": "独立工作者的心理建设",
+      "excerpt": "自由职业、远程办公日益普及，独立工作者面临独特的心理挑战。本文从自律管理、社交需求、收入焦虑等维度提供科学的心理调适方法，助你保持高效和身心健康。"
+    },
+    {
+      "slug": "xiao-cheng-xu-sheng-huo",
+      "title": "小城序生活的生活美学",
+      "excerpt": "逃离一线城市的喧嚣，小城生活正成为越来越多人的选择。本文从生活节奏、人际关系、职业发展等角度，分享在小城市构建高品质生活的实用心得和心理学依据。"
+    },
+    {
+      "slug": "zhi-chang-qing-xu-guan-li",
+      "title": "职场情绪管理的实用技巧",
+      "excerpt": "职场中的情绪波动不仅影响工作表现，还会损害人际关系和身心健康。本文基于心理学研究，提供从觉察到调节的完整情绪管理方案，帮助你在工作场景中保持理性和从容。"
+    },
+    {
+      "slug": "shenghuo-zhong-de-xiao-que-xing",
+      "title": "生活中的小确幸心理学",
+      "excerpt": "小确幸是日常生活中微小但确定的幸福。本文从积极心理学角度解析小确幸如何提升幸福感，并提供具体可行的方法帮助你在忙碌的生活中发现和创造更多幸福时刻。"
     }
   ]
 }
