@@ -1679,6 +1679,31 @@
       "slug": "ai-duanshipin-piliang-shengchan-gongju",
       "title": "AI短视频批量生产工具全面评测",
       "excerpt": "2025年AI短视频批量生产工具深度对比评测：剪映批量剪辑、HeyGen数字人、Runway Gen-3、Synthesia、Pika、腾讯智影、一帧秒创等主流平台功能、价格、适用场景全解析，助你选出最适合的短视频批量生产方案。"
+    },
+    {
+      "slug": "ai-cross-border-product-selection",
+      "title": "AI驱动的跨境电商选品工具实战评测",
+      "excerpt": "深度评测五款主流AI跨境电商选品工具，从数据精准度、操作便捷性、价格性价比三个维度进行对比分析，帮助卖家找到最适合自己的选品助手。"
+    },
+    {
+      "slug": "ecommerce-dashboard-setup-2026",
+      "title": "2026电商店铺数据看板搭建指南",
+      "excerpt": "手把手教你搭建电商数据看板，从Google Looker Studio到自定义仪表盘，覆盖销售分析、库存监控、广告效果等核心指标，提升运营效率。"
+    },
+    {
+      "slug": "aigc-ecommerce-content-batch",
+      "title": "电商AIGC内容批量生成工具横向对比",
+      "excerpt": "对比分析六款主流电商AIGC内容生成工具，覆盖商品文案、社交媒体内容、短视频脚本等场景，从内容质量、批量效率、成本控制角度给出推荐。"
+    },
+    {
+      "slug": "independent-station-seo-automation",
+      "title": "独立站SEO自动化工具配置教程",
+      "excerpt": "详细教程讲解独立站SEO自动化工具配置方法，从关键词研究、内容优化到外链建设全流程自动化的实现方案，适合Shopify和WordPress站长。"
+    },
+    {
+      "slug": "ai-customer-service-multi-platform",
+      "title": "AI智能客服系统多平台接入方案",
+      "excerpt": "全面解析AI智能客服系统在多电商平台接入的实施方案，涵盖Shopify、淘宝、亚马逊、TikTok Shop等主流平台，帮助企业实现客服自动化。"
     }
   ],
   "ops": [
@@ -2846,6 +2871,31 @@
       "slug": "shequn-yunying-congling-dao-yi",
       "title": "社群运营从0到1搭建完整流程",
       "excerpt": "付费社群从0到1搭建完整指南：涵盖平台选择、定价策略、内容日历设计、SOP流程和用户留存技巧，结合真实数据帮助独立创作者构建可持续的社群商业模式。"
+    },
+    {
+      "slug": "yi-ren-gong-si-zi-dong-hua-gong-zuo-liu",
+      "title": "一人公司如何搭建自动化工作流",
+      "excerpt": "一人公司资源有限，自动化是放大效率的关键。本文从工具选型到流程设计，手把手教你搭建一套完整的自动化工作流体系，涵盖客户获取、内容分发、财务管理等核心环节。"
+    },
+    {
+      "slug": "di-cheng-ben-cps-bian-xian-xiang-mu",
+      "title": "低成本CPS变现项目从0到1实操",
+      "excerpt": "CPS变现是零成本启动的绝佳方式，但很多人不知道具体如何落地。本文从选品、渠道、内容制作到数据优化，完整拆解一套可复制的CPS变现流程，帮你快速跑通第一个项目。"
+    },
+    {
+      "slug": "su-ren-bo-zhu-xiao-hong-shu-zhang-fen",
+      "title": "素人博主小红书涨粉实操指南",
+      "excerpt": "0粉丝起步做小红书博主，如何从冷启动到稳定涨粉？本文从账号定位、笔记创作、流量获取到商业变现，给出素人博主可复制的全套实操方案。"
+    },
+    {
+      "slug": "zi-you-zhi-ye-zhe-shi-jian-guan-li",
+      "title": "自由职业者时间管理系统搭建",
+      "excerpt": "自由职业最大的挑战不是找不到客户，而是管不住自己。本文分享一套经过验证的时间管理系统，从任务优先级、时间分块到精力管理，帮你告别拖延、高效产出。"
+    },
+    {
+      "slug": "ge-ren-ip-da-zao-cong-ding-wei-dao-bian-xian",
+      "title": "个人IP打造从定位到变现全流程",
+      "excerpt": "个人IP是数字时代最值钱的资产。本文完整拆解个人IP从零到一的打造路径，包括定位挖掘、内容体系搭建、粉丝积累和商业化变现的每一个关键环节。"
     }
   ],
   "wear": [
@@ -4038,6 +4088,31 @@
       "slug": "nanshi-tongqin-beibao-chuanda-dapei",
       "title": "男士通勤背包与穿搭搭配",
       "excerpt": "男士通勤包袋选购与穿搭搭配指南：双肩包/邮差包/公文包三种包型对比，材质选择技巧，配色方案和场景化搭配建议，附品牌推荐和价格区间，打造实用又时尚的日常通勤造型。"
+    },
+    {
+      "slug": "xiaogezi-nanxian-xiangao-chuanda-jiqiao",
+      "title": "小个子男生显高穿搭技巧",
+      "excerpt": "全面解析小个子男生的显高穿搭技巧，从裤长选择、上衣版型到配色方案，帮助矮个子男生在视觉上优化身材比例，穿出挺拔气场。"
+    },
+    {
+      "slug": "nanzhuang-xifu-mianliao-xuanze-zhinan",
+      "title": "男士西装面料选择指南：羊毛vs混纺",
+      "excerpt": "深入对比羊毛与混纺西装面料的特性、适用场景和保养方式，从纱支数、克重到织法工艺，帮助男士选购最适合自己的西装面料。"
+    },
+    {
+      "slug": "xialing-tongqin-nanzhuang-dapei-fangan",
+      "title": "夏季通勤男装搭配方案合集",
+      "excerpt": "精选五套夏季通勤男装搭配方案，涵盖商务正式、商务休闲和日常通勤三大场景，从面料选择到配色技巧，助你清爽体面地度过炎炎夏日。"
+    },
+    {
+      "slug": "butong-tixing-nanxing-xifu-xuanze-jianyi",
+      "title": "不同体型男士的西装选择建议",
+      "excerpt": "针对瘦高型、健壮型、微胖型和矮小型四种常见体型，从肩宽、衣长、腰线到裤型给出具体的西装选择建议，帮助每位男士找到修饰身材的完美西装。"
+    },
+    {
+      "slug": "nanzhuang-jichukuan-yichu-dajian-qingdan",
+      "title": "男士基础款衣橱搭建清单",
+      "excerpt": "从外套、上衣、裤装到鞋履与配饰，系统梳理男士基础款衣橱必备单品清单，结合面料、颜色和版型选择原则，让你用最少单品搭配出最多造型。"
     }
   ],
   "mood": [
@@ -5240,6 +5315,31 @@
       "slug": "yuedu-xiguan-yangcheng-50ben-shu",
       "title": "阅读习惯养成：一年读50本书的方法",
       "excerpt": "一年读50本书并非遥不可及。本文提供了一套经过验证的系统：选书策略、番茄阅读法、三种笔记系统、碎片时间利用和阅读框架思维。不需要速读天赋，不需要大块空闲时间，从每天15分钟开始，构建终身受益的阅读习惯。"
+    },
+    {
+      "slug": "30s-minimalism-philosophy",
+      "title": "三十岁后，我学会了极简生活哲学",
+      "excerpt": "三十岁以后，物质堆积不再带来安全感，反而是整理和舍弃让人感到轻松。极简不是苦行，而是重新定义什么才是真正重要的。"
+    },
+    {
+      "slug": "quality-time-alone",
+      "title": "独处时光：如何与自己高质量相处",
+      "excerpt": "独处不是孤独，而是一种能力。学会与自己做朋友，把独处变成滋养内心而非消耗能量的时光。这里有五个实用方法。"
+    },
+    {
+      "slug": "digital-minimalism-practice",
+      "title": "数字极简主义：我的三个减少屏幕时间的有效方法",
+      "excerpt": "屏幕时间正在悄悄吞噬我们的生活。数字极简不是彻底不用手机，而是重新掌握对注意力的主动权，让技术服务于人而不是反过来。"
+    },
+    {
+      "slug": "sustainable-morning-routine",
+      "title": "不再设置闹钟焦虑：如何建立真正可持续的晨间习惯",
+      "excerpt": "看了那么多晨间习惯指南，但总是坚持不过三天？问题不在你，在于那些习惯本身。真正的晨间习惯应该是温柔的、可调整的、不焦虑的。"
+    },
+    {
+      "slug": "anxiety-to-calm-emotion-management",
+      "title": "从焦虑到平静：五个科学有效的情绪管理技巧",
+      "excerpt": "焦虑不是你的敌人，而是你的身体在试图保护你。学会与情绪对话而非对抗，用科学的方法把焦虑的强度降下来，找回内心的平静。"
     }
   ]
 }
