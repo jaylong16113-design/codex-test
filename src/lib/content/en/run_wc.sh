@@ -1,0 +1,1 @@
+node /home/ric_16113/.hermes/codex-test/src/lib/content/en/tmp_wc_check.js
