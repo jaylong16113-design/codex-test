@@ -2048,6 +2048,11 @@
       "slug": "ai-content-localization-transcreation-tools-2026",
       "title": "AI Content Localization & Transcreation Tools 2026: 7 Tools That Adapt Your Brand Voice for Global Markets",
       "excerpt": "Expand globally without losing your brand voice. Compare 7 AI localization and transcreation tools — Lokalise, Crowdin, POEditor, Smartling, Weglot, DeepL, a..."
+    },
+    {
+      "slug": "ai-customer-segmentation-personalization-engines",
+      "title": "AI Customer Segmentation and Personalization Engines",
+      "excerpt": "Modern ecommerce demands hyper-personalized experiences. AI segmentation engines analyze behavior in real time to deliver tailored product recommendations and dynamic content."
     }
   ],
   "wear": [
@@ -3445,6 +3450,36 @@
       "slug": "chalkstripe-vs-pinstripe-suit-guide",
       "title": "Chalkstripes, Pinstripes, and Crayon Stripes: Decoding Stripe Suiting",
       "excerpt": "Learn the differences between chalkstripe, pinstripe, and crayon stripe suit fabrics, their historical origins, appropriate occasions, and how to wear them with confidence."
+    },
+    {
+      "slug": "wool-suit-fabric-weights-guide",
+      "title": "Wool Suit Fabric Weights Explained: From Tropical to Flannel",
+      "excerpt": "Not all wool is equal. Understanding weight — from 150g tropical to 400g flannel — helps pick the right suit for every season and occasion."
+    },
+    {
+      "slug": "tie-knots-guide-collar-styles",
+      "title": "Tie Knots: Four-in-Hand to Windsor for Every Collar",
+      "excerpt": "Matching your tie knot to your collar style elevates a good outfit to a great one. Master the four essential knots and their best collar pairings."
+    },
+    {
+      "slug": "mens-leather-belt-guide",
+      "title": "Men's Leather Belt Guide: Width, Colour, and Buckle Choice",
+      "excerpt": "A belt frames your silhouette. Learn how to match width to trousers, coordinate colour with shoes, and select the right buckle for every outfit."
+    },
+    {
+      "slug": "perfect-suit-fit-guide",
+      "title": "Perfect Suit Fit: Shoulders, Chest, Waist, and Jacket Length",
+      "excerpt": "Fit is everything. Learn the precise measurements and visual cues for a suit that fits perfectly from shoulder to hem."
+    },
+    {
+      "slug": "summer-suiting-without-jacket",
+      "title": "Summer Suiting: Waistcoat and Dress Shirt Combinations",
+      "excerpt": "A three-piece suit's waistcoat worn without the jacket is the ultimate summer alternative — formal enough for the office, cool enough for July."
+    },
+    {
+      "slug": "navy-charcoal-black-suit-color-guide",
+      "title": "Navy vs Charcoal vs Black: Choosing Your First Suit Colour",
+      "excerpt": "Your first investment suit should earn its keep. We compare navy, charcoal, and black across versatility, formality, and value to help you decide."
     }
   ],
   "ops": [
@@ -4992,6 +5027,31 @@
       "slug": "ai-api-integration-connector-platforms-solopreneurs-2026",
       "title": "AI API Integration & Connector Platforms for Solopreneurs 2026: 7 Tools to Connect Your Stack Without a Developer",
       "excerpt": "Connect your SaaS tools without hiring a developer. Compare 7 AI-powered API integration platforms — Zapier, Make, n8n, Pipedream, Tray.io, Parabola, and Kno..."
+    },
+    {
+      "slug": "linkedin-personal-brand-b2b-services",
+      "title": "Building a Personal Brand on LinkedIn for B2B Service Providers",
+      "excerpt": "LinkedIn is the single most powerful platform for B2B service providers to attract clients without cold outreach. Here is a repeatable system for building authority."
+    },
+    {
+      "slug": "solopreneur-content-repurposing-one-piece-ten-formats",
+      "title": "The Solopreneur's Guide to Content Repurposing: One Piece, Ten Formats",
+      "excerpt": "Stop creating from scratch every day. One core idea can become ten pieces of content across platforms. This system saves solopreneurs hours each week."
+    },
+    {
+      "slug": "automated-invoicing-payment-collection-freelancers",
+      "title": "Automated Invoicing and Payment Collection Systems for Freelancers",
+      "excerpt": "Late payments are the solopreneur's silent revenue killer. Here is how to build an automated invoicing and collection system that gets you paid on time, every time."
+    },
+    {
+      "slug": "referral-system-service-businesses",
+      "title": "Building a Referral System That Actually Works for Service Businesses",
+      "excerpt": "Most service businesses leave referrals to chance. A structured referral system can double your client acquisition without spending a dollar on ads."
+    },
+    {
+      "slug": "quarterly-business-review-solo-founder",
+      "title": "How to Conduct a Quarterly Business Review as a Solo Founder",
+      "excerpt": "Without a board or co-founder, solo founders drift. A structured quarterly business review provides the accountability and clarity that replaces a leadership team."
     }
   ],
   "mood": [
@@ -6601,6 +6661,31 @@
       "slug": "micro-rituals-emotional-regulation",
       "title": "Micro-Rituals for Emotional Regulation: 90-Second Resets for the Overwhelmed Solopreneur",
       "excerpt": "When overwhelm strikes mid-workday, you don't need an hour of meditation. These 90-second micro-rituals help you reset your nervous system and refocus fast."
+    },
+    {
+      "slug": "habit-stacking-science",
+      "title": "The Science of Habit Stacking: Routines That Stick",
+      "excerpt": "Habit stacking leverages your brain's existing neural pathways to make new routines effortless. Here's the science and a step-by-step system."
+    },
+    {
+      "slug": "say-no-without-guilt",
+      "title": "Say No Without Guilt: Set Professional Boundaries",
+      "excerpt": "Saying no is a skill, not a character flaw. Learn how to set boundaries that protect your energy and deepen respect, not damage relationships."
+    },
+    {
+      "slug": "afternoon-energy-slump-solutions",
+      "title": "Afternoon Energy Slump: Science-Backed Focus Recovery",
+      "excerpt": "That 2-4 PM crash isn't a character flaw — it's biology. Here's exactly what to do when your brain refuses to cooperate after lunch."
+    },
+    {
+      "slug": "building-a-reading-habit-adult",
+      "title": "Build a Reading Habit: Systems for Deep Reading",
+      "excerpt": "You don't need more time to read — you need a better system. Here's how to build a reading habit that survives a busy adult life."
+    },
+    {
+      "slug": "art-of-doing-nothing-creativity",
+      "title": "The Art of Doing Nothing: Why Boredom Boosts Creativity",
+      "excerpt": "In a world that worships productivity, doing nothing is the most creative thing you can do. Here's the science of deliberate boredom."
     }
   ]
 }
