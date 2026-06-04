@@ -2018,6 +2018,36 @@
       "slug": "ai-social-proof-ugc-aggregation-tools",
       "title": "Automating Social Proof: AI Tools for UGC Aggregation and Display",
       "excerpt": "Learn how AI tools automatically collect customer reviews, social media mentions, and in-the-wild product photos to build powerful social proof on your store pages."
+    },
+    {
+      "slug": "ai-interactive-product-demo-tour-tools-2026",
+      "title": "AI Interactive Product Demo & Tour Tools 2026: 7 Tools That Let You Create Walkthroughs Without Code",
+      "excerpt": "Compare the 7 best AI-powered interactive product demo and product tour tools in 2026. From Navattic to Arcade — find the right no-code walkthrough builder f..."
+    },
+    {
+      "slug": "ai-pitch-deck-investor-presentation-generator-2026",
+      "title": "AI Pitch Deck & Investor Presentation Generators 2026: 7 Tools for Fundraising on a Solo Budget",
+      "excerpt": "Raise capital without hiring a designer. Compare 7 AI pitch deck generators in 2026 — Gamma, Beautiful.ai, Tome, Pitch, Canva AI, SlidesAI, and Decktopus — t..."
+    },
+    {
+      "slug": "ai-error-monitoring-bug-tracking-tools-saas-2026",
+      "title": "AI Error Monitoring & Bug Tracking Tools for Small SaaS 2026: 6 Tools That Catch Issues Before Users Do",
+      "excerpt": "Catch production bugs before they affect users. Compare 6 AI-powered error monitoring tools — Sentry, Rollbar, Datadog, Bugsnag, Honeybadger, and TrackJS — t..."
+    },
+    {
+      "slug": "ai-user-research-customer-interview-analysis-tools-2026",
+      "title": "AI User Research & Customer Interview Analysis Tools 2026: 5 Tools That Extract Insights From Hours of Recordings in Minutes",
+      "excerpt": "Stop re-watching customer interviews. Compare 5 AI-powered user research tools — Dovetail, Condens, Marvin, Grain, and Otter AI — tested for solo founders wh..."
+    },
+    {
+      "slug": "ai-competitive-pricing-intelligence-ecommerce-2026",
+      "title": "AI Competitive Pricing Intelligence Tools for E-commerce 2026: 6 Tools That Automate Price Monitoring Across Hundreds of Competitors",
+      "excerpt": "Win the Buy Box without racing to the bottom. Compare 6 AI pricing intelligence tools — Prisync, Price2Spy, Competitor Monitor, Intelliprice, Sellery, and Om..."
+    },
+    {
+      "slug": "ai-content-localization-transcreation-tools-2026",
+      "title": "AI Content Localization & Transcreation Tools 2026: 7 Tools That Adapt Your Brand Voice for Global Markets",
+      "excerpt": "Expand globally without losing your brand voice. Compare 7 AI localization and transcreation tools — Lokalise, Crowdin, POEditor, Smartling, Weglot, DeepL, a..."
     }
   ],
   "wear": [
@@ -4942,6 +4972,26 @@
       "slug": "ai-assisted-content-ops-pipeline",
       "title": "The Solopreneur's AI-Assisted Content Operations Pipeline",
       "excerpt": "Build a repeatable, scalable content production system using AI tools for research, drafting, editing, and optimization — designed specifically for solo operators who need quality at speed."
+    },
+    {
+      "slug": "ai-blog-to-video-conversion-workflow-2026",
+      "title": "AI Blog-to-Video Conversion 2026: 6 Tools That Turn Your Written Content Into Viral Shorts",
+      "excerpt": "Turn blog posts into viral short-form videos with AI. Compare 6 blog-to-video conversion tools in 2026 — Opus Clip, Klap, Vizard, VEED, CapCut, and Vidyo.ai ..."
+    },
+    {
+      "slug": "ai-newsletter-curation-content-discovery-tools-2026",
+      "title": "AI Newsletter Curation & Content Discovery Tools 2026: 7 Ways to Automate Your Newsletter Without Losing Your Voice",
+      "excerpt": "Grow your newsletter without spending hours curating links. Compare 7 AI-powered content curation and newsletter tools in 2026 — Curated, Beehiiv, Letterdrop..."
+    },
+    {
+      "slug": "ai-saas-churn-analysis-prediction-tools-2026",
+      "title": "AI SaaS Churn Analysis & Prediction Tools 2026: 6 Tools That Forecast Who's About to Cancel",
+      "excerpt": "Stop losing customers you didn't see coming. Compare 6 AI churn analysis and prediction tools — Baremetrics, ProfitWell, ChartMogul, Canny, Churnkey, and Use..."
+    },
+    {
+      "slug": "ai-api-integration-connector-platforms-solopreneurs-2026",
+      "title": "AI API Integration & Connector Platforms for Solopreneurs 2026: 7 Tools to Connect Your Stack Without a Developer",
+      "excerpt": "Connect your SaaS tools without hiring a developer. Compare 7 AI-powered API integration platforms — Zapier, Make, n8n, Pipedream, Tray.io, Parabola, and Kno..."
     }
   ],
   "mood": [
