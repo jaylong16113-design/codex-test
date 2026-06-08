@@ -1929,6 +1929,16 @@
       "slug": "ai-kefu-jiqiren-zhuanhua-youhua",
       "title": "AI客服机器人与转化优化：从应答到成交的全链路策略",
       "excerpt": "从应答到成交，AI客服机器人正在重新定义电商服务的商业价值。本文详解大模型驱动的智能客服架构、引导式销售策略、动态应答优化及全渠道协同方法论。"
+    },
+    {
+      "slug": "ai-dianshang-shipin-shenhe-jianji",
+      "title": "AI电商视频质量智能审核与自动剪辑工具深度对比",
+      "excerpt": "深度评测6款主流AI电商视频审核与自动剪辑工具，从智能审核准确率、自动剪辑效率、批量处理能力、价格等维度全面对比，帮助电商团队选型。"
+    },
+    {
+      "slug": "kua-pingtai-dianshang-yizhanshi-ai-zhushou",
+      "title": "跨平台电商店铺一站式AI运营助手系统全面解析",
+      "excerpt": "一站式AI运营助手系统如何帮助跨平台电商卖家实现商品上下架、订单管理、智能定价、客服响应、数据分析的全自动化运营，实测5大平台的效率提升数据。"
     }
   ],
   "ops": [
@@ -3366,6 +3376,21 @@
       "slug": "yigeren-gongsi-caishui-hegui",
       "title": "一人公司的财税合规与税务优化全攻略",
       "excerpt": "一人公司虽然规模小，但财税合规不可忽视。本文从主体选择、发票管理、成本归集到税务申报，系统讲解一人公司必须掌握的财税知识框架。"
+    },
+    {
+      "slug": "yigeren-gongsi-qingliang-crm",
+      "title": "一人公司如何搭建轻量CRM客户管理系统",
+      "excerpt": "没有预算买Salesforce？一人公司可以用Notion、Airtable和开源工具搭建轻量级CRM系统。本文从需求分析到自动化流程，手把手教你用最低成本管理客户关系。"
+    },
+    {
+      "slug": "zimeiti-duoqudao-shouru-zuidahua",
+      "title": "自媒体运营多渠道收入最大化策略",
+      "excerpt": "自媒体不能只靠平台流量分成。本文从广告变现、知识付费、带货佣金、社群运营、品牌合作五个维度，系统性拆解自媒体人如何搭建多元化收入结构。"
+    },
+    {
+      "slug": "di-yusuan-gao-huibao-neirong-yingxiao",
+      "title": "低预算高回报的内容营销策略",
+      "excerpt": "没有几十万的营销预算，小团队如何做内容营销？本文从SEO长尾词策略、UGC内容复用、AI辅助创作、渠道精准选择四个维度拆解低预算高回报的内容营销实战方法。"
     }
   ],
   "wear": [
@@ -4823,6 +4848,21 @@
       "slug": "gongnengxing-mianliao-kepu-sugan-fangzhou-touqi",
       "title": "功能性面料科普：速干、防皱、透气的前沿科技解析",
       "excerpt": "现代男装面料早已超越天然材质的局限。本文深度解读速干、防皱、透气三大功能性面料的科技原理与选购要点。"
+    },
+    {
+      "slug": "nanshi-xiaji-xizhuang-mianliao-xuanze-touqi-dapei",
+      "title": "男士夏季西装面料选择与透气搭配技巧",
+      "excerpt": "夏季穿西装不再闷热难耐。本文详解亚麻、棉麻混纺、热带羊毛、泡泡纱等夏季西装面料的特性与适用场景，并分享从内搭衬衫到鞋履的全套透气搭配方案。"
+    },
+    {
+      "slug": "nanshi-jiaonang-yichu-goujian-shangwu-xiuxian",
+      "title": "商务休闲两不误的男士胶囊衣橱构建指南",
+      "excerpt": "用15-20件核心单品构建一套从董事会到周末早午餐无缝切换的男士胶囊衣橱，涵盖品类选择、色彩体系与搭配公式，帮你用最少单品实现最多造型。"
+    },
+    {
+      "slug": "butong-tixing-nanshi-xifu-jiancai-xuanze-dingzhi-jianyi",
+      "title": "不同体型男士的西服剪裁选择与定制建议",
+      "excerpt": "从倒三角、矩形、椭圆到V型四种常见男士体型出发，详解各体型对应的西服驳领、肩部、衣身、裤装剪裁方案与定制避坑指南。"
     }
   ],
   "mood": [
@@ -6285,6 +6325,16 @@
       "slug": "zaoqi-xiguan-yangcheng-chenjian-yishi-gan",
       "title": "早起习惯养成与晨间仪式感",
       "excerpt": "早起改变人生。本文从睡眠科学出发，分享循序渐进的早起方法，教你设计属于自己的晨间仪式，开启高效而丰盛的一天。"
+    },
+    {
+      "slug": "san-shi-hou-ren-sheng-qu-she",
+      "title": "三十岁后的人生取舍：找到内心的自洽与平静",
+      "excerpt": "三十岁后，人生开始做减法。不是放弃，而是学会取舍。从社交圈精简到职业转型，从物质欲望到精神追求，本文探讨如何在各种人生选择中实现内心的自洽与平衡。"
+    },
+    {
+      "slug": "ji-jian-sheng-huo-jing-shen-fu-zu",
+      "title": "从极简生活到精神富足：少即是多的生活哲学",
+      "excerpt": "极简不是贫穷，而是一种主动选择的生活方式。当物质断舍离之后，你会发现精神世界反而变得更加丰盈。本文探讨极简生活的核心原则与实践方法。"
     }
   ]
 }
