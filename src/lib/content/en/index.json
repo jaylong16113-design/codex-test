@@ -2293,6 +2293,16 @@
       "slug": "ai-ecommerce-funnel-analytics-optimization-tools-2026",
       "title": "7 Best AI Ecommerce Funnel Analytics & Optimization Tools in 2026: Find and Fix Leaks Fast",
       "excerpt": "Compare the 7 best AI-powered ecommerce funnel analytics and optimization tools in 2026. From Hotjar and Lucky Orange to Mixpanel and Amplitude — visualize customer journeys, identify drop-offs, and optimize conversion funnels with AI."
+    },
+    {
+      "slug": "ai-ecommerce-product-image-tools-2026",
+      "title": "Best AI Ecommerce Product Image Tools in 2026: From White Background to Scene Composition",
+      "excerpt": "Explore the best AI product image tools for ecommerce in 2026. From white background generation to scene composition and AI model changing, these tools transform how sellers create visuals."
+    },
+    {
+      "slug": "ai-content-scheduling-ecommerce-automation",
+      "title": "AI Content Scheduling for Ecommerce: Automated Planning and Multi-Platform Publishing",
+      "excerpt": "Discover how AI-powered content scheduling transforms ecommerce marketing. From calendar planning to multi-platform distribution, learn how stores save hours and boost engagement."
     }
   ],
   "wear": [
@@ -3850,6 +3860,21 @@
       "slug": "mens-shoe-guide-formal-oxfords-casual-loafers",
       "title": "Men's Shoe Guide: From Formal Oxfords to Casual Loafers",
       "excerpt": "A comprehensive guide to essential men's shoe styles. Learn the difference between oxfords and derbies, when to wear loafers vs brogues, and how to build a versatile shoe collection."
+    },
+    {
+      "slug": "mens-spring-suit-silhouette-guide",
+      "title": "Men's Spring Suit Silhouette Guide: Balancing Slim Fit and Relaxed Proportions",
+      "excerpt": "Master the art of spring suiting with our guide to balancing slim-fit tailoring and relaxed proportions. Learn about fabrics, colors, and styling for the season."
+    },
+    {
+      "slug": "white-t-shirt-shoe-styling-guide",
+      "title": "The White T-Shirt and Shoe Styling Guide: From Canvas to Loafers",
+      "excerpt": "Learn how to style the perfect white t-shirt with every shoe type. From canvas sneakers to leather loafers and rugged boots, here's the complete guide."
+    },
+    {
+      "slug": "business-casual-pants-straight-tapered-wide",
+      "title": "Business Casual Pants Guide: Straight, Tapered and Wide-Leg Fit Logic",
+      "excerpt": "Navigate the three essential business casual pant fits with confidence. Learn which silhouette works for your body type, office dress code, and personal style."
     }
   ],
   "ops": [
@@ -5612,6 +5637,16 @@
       "slug": "solo-crm-budget",
       "title": "Building a Lightweight CRM System for Solo Entrepreneurs on a Budget",
       "excerpt": "Learn to build a functional, low-cost CRM as a solo entrepreneur without expensive software. From spreadsheets to open-source tools and automation, this guide covers practical CRM strategies."
+    },
+    {
+      "slug": "knowledge-monetization-solopreneur-course",
+      "title": "Knowledge Monetization for Solopreneurs: Building a Course System from Scratch",
+      "excerpt": "Learn how solopreneurs can turn expertise into revenue by building an online course system from scratch — covering positioning, structure, pricing and delivery."
+    },
+    {
+      "slug": "cps-affiliate-marketing-beginners-strategy",
+      "title": "CPS Affiliate Marketing for Beginners: Product Selection, Channels and Commission Optimization",
+      "excerpt": "A beginner's guide to CPS affiliate marketing covering product selection, traffic channels and commission optimization strategies for solopreneurs starting out."
     }
   ],
   "mood": [
@@ -7376,6 +7411,21 @@
       "slug": "building-resilience-daily-habits-mindfulness",
       "title": "Building Resilience Through Daily Habits and Mindfulness Practice",
       "excerpt": "Resilience is not a fixed trait — it is a skill cultivated through daily habits. Discover how mindfulness, morning routines, and community build the strength to navigate life's challenges."
+    },
+    {
+      "slug": "urban-creativity-balance-work-inspiration",
+      "title": "Maintaining Creativity in City Life: Balancing Work and Inspiration",
+      "excerpt": "Discover how to nurture your creative spark while navigating the demands of city living. Practical strategies for balancing career, routines, and inspiration."
+    },
+    {
+      "slug": "science-based-sleep-improvement-guide",
+      "title": "Sleep Quality Determines Life Quality: A Science-Based Guide to Better Rest",
+      "excerpt": "Learn the science-backed habits for transforming your sleep. From circadian rhythms to environment optimization, this guide covers everything you need."
+    },
+    {
+      "slug": "digital-wellbeing-boundaries-productivity",
+      "title": "Digital Wellbeing in the Age of Distraction: Setting Boundaries for Better Focus",
+      "excerpt": "Reclaim your attention and mental health with practical strategies for managing digital distractions, setting screen time boundaries, and boosting focus."
     }
   ]
 }
