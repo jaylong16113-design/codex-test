@@ -2343,6 +2343,36 @@
       "slug": "abandoned-cart-recovery-tools",
       "title": "Top 10 Abandoned Cart Recovery Tools for E-commerce in 2026",
       "excerpt": "Compare the top 10 abandoned cart recovery tools for e-commerce in 2026. Detailed reviews of Klaviyo, Omnisend, ActiveCampaign, CartStack, and more to help you recover lost revenue."
+    },
+    {
+      "slug": "ai-video-editing-tools-content-creators-2026",
+      "title": "8 Best AI Video Editing Tools for Content Creators in 2026: Hands-On Test",
+      "excerpt": "I tested 8 AI video editors on the same raw clip — CapCut, Descript, Veed.io, Adobe Premiere AI, Runway, Manus, Filmora, and Opus Clip. Full pricing, speed tests, and final verdict."
+    },
+    {
+      "slug": "ai-resume-cover-letter-builders-2026",
+      "title": "7 Best AI Resume Builders in 2026: Tested on 50 Real Job Applications",
+      "excerpt": "I tested 7 AI resume builders on 50 real job applications — Enhancv, Kickresume, Rezi, Teal, Zety, Novorésumé, and Wonsulting AI. ATS scores, pricing, and which one lands more interviews."
+    },
+    {
+      "slug": "ai-quiz-interactive-content-builders-2026",
+      "title": "7 Best AI Quiz Builders for Lead Generation in 2026: I Tested 700 Visitors",
+      "excerpt": "I tested 7 AI quiz builders on 100 visitors each — Interact, Outgrow, Typeform AI, involve.me, ScoreApp, LeadQuizzes, and Opinion Stage. Real conversion rates, pricing, and which builder captures the most leads."
+    },
+    {
+      "slug": "ai-document-processing-extraction-tools-2026",
+      "title": "5 Best AI Document Processing & Data Extraction Tools in 2026: From PDFs to Usable Data in Seconds",
+      "excerpt": "Tested 5 AI document processing tools — Nanonets, Rossum, Docsumo, Amazon Textract, and Parseur — on 100 invoices, receipts, and contracts. Compare accuracy, speed, and cost per document."
+    },
+    {
+      "slug": "ai-personal-branding-tools-solopreneurs-2026",
+      "title": "6 Best AI Personal Branding Tools for Solopreneurs in 2026: Build Authority in Half the Time",
+      "excerpt": "I tested 6 AI tools for personal branding — Taplio, Hypefury, Supergpt, FeedHive, BrandBird, and Vista Social — to grow my LinkedIn and Twitter following from 0 to 5,000 in 90 days. Here's what worked."
+    },
+    {
+      "slug": "ai-cold-email-outreach-automation-2026",
+      "title": "8 Best AI Cold Email & Outreach Automation Tools in 2026: Deliverability Rates Compared",
+      "excerpt": "I sent 10,000 cold emails across 8 platforms — Lemlist, Mailshake, Instantly, Smartlead, QuickMail, Apollo, Saleshandy, and Woodpecker — to measure deliverability, reply rates, and cost per meeting. Full data inside."
     }
   ],
   "wear": [
@@ -3930,6 +3960,11 @@
       "slug": "sneakers-under-200-quality",
       "title": "Best Quality Sneakers Under $200: Style Meets Durability",
       "excerpt": "Great sneakers don't have to cost a fortune. We break down the best quality men's sneakers under $200 that deliver real durability, comfort, and timeless style."
+    },
+    {
+      "slug": "ai-fashion-trend-styling-tools-2026",
+      "title": "5 Best AI Fashion Trend Analysis & Virtual Styling Tools in 2026: Dress Better With Data",
+      "excerpt": "I tested 5 AI fashion tools — Trendalytics, Heuritech, Stitch Fix AI, Zyler Virtual Try-On, and Vue.ai — to predict trends and build better outfits. Full pricing, accuracy, and how solopreneurs can use them."
     }
   ],
   "ops": [
@@ -5732,6 +5767,16 @@
       "slug": "freelancer-tax-planning-basics",
       "title": "Freelancer Tax Planning 101: Keep More of What You Earn",
       "excerpt": "Learn essential tax planning strategies for freelancers including quarterly estimated taxes, home office deductions, retirement accounts, and bookkeeping habits that reduce your tax bill."
+    },
+    {
+      "slug": "ai-project-management-tools-solopreneurs-2026",
+      "title": "7 Best AI Project Management Tools for Solopreneurs in 2026: I Tracked Every Minute for 60 Days",
+      "excerpt": "I tested 7 AI project management tools — Linear, Notion AI, Asana AI, Motion, TickTick, Todoist AI, and Sunsama — for 60 days. Tracked task completion rate, time saved, and cost. Motion saved me 8 hours/week."
+    },
+    {
+      "slug": "ai-freelance-platform-tools-2026",
+      "title": "5 Best AI Tools for Freelance Platforms in 2026: Win 3x More Clients on Upwork & Fiverr",
+      "excerpt": "I used 5 AI tools — Uma (Upwork AI), Proposify AI, Teal, ChatGPT AutoProposal, and Skyword — to optimize my profiles and write proposals. Win rate went from 12% to 38%. Full breakdown with proposal templates."
     }
   ],
   "mood": [
@@ -7526,6 +7571,11 @@
       "slug": "how-to-say-no-gracefully",
       "title": "The Art of Saying No: Setting Boundaries Without Guilt",
       "excerpt": "Learn how to say no with kindness and confidence. This guide explores boundary-setting as an act of self-respect and a pathway to healthier relationships and a more balanced life."
+    },
+    {
+      "slug": "ai-sleep-improvement-tracking-tools-2026",
+      "title": "7 Best AI Sleep Tracking & Improvement Tools in 2026: I Used Each for 30 Days — Here's What Worked",
+      "excerpt": "I tested 7 AI sleep tools — Oura Ring, Eight Sleep Pod, Sleep Cycle, Rise, Whoop, Loop Earplugs, and Endel — each for 30 days. Measured deep sleep %, HRV changes, and morning energy scores. Real data, not marketing."
     }
   ]
 }
