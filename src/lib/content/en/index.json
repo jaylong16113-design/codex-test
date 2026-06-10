@@ -2333,6 +2333,16 @@
       "slug": "ai-crm-setup-solopreneur-guide-2026",
       "title": "How to Set Up an AI-Powered CRM as a Solopreneur in 2026: A Complete Step-by-Step Guide",
       "excerpt": "Step-by-step guide to setting up an AI-powered CRM as a solopreneur in 2026. From choosing the right platform to configuring AI lead scoring, email automation, and pipeline tracking — no team required."
+    },
+    {
+      "slug": "ai-customer-segmentation-ecommerce",
+      "title": "AI-Powered Customer Segmentation for E-commerce: A Practical Guide",
+      "excerpt": "Learn how AI-powered customer segmentation transforms e-commerce marketing. From RFM analysis to predictive clustering, this guide covers techniques and tools to boost revenue and retention."
+    },
+    {
+      "slug": "abandoned-cart-recovery-tools",
+      "title": "Top 10 Abandoned Cart Recovery Tools for E-commerce in 2026",
+      "excerpt": "Compare the top 10 abandoned cart recovery tools for e-commerce in 2026. Detailed reviews of Klaviyo, Omnisend, ActiveCampaign, CartStack, and more to help you recover lost revenue."
     }
   ],
   "wear": [
@@ -3905,6 +3915,21 @@
       "slug": "business-casual-pants-straight-tapered-wide",
       "title": "Business Casual Pants Guide: Straight, Tapered and Wide-Leg Fit Logic",
       "excerpt": "Navigate the three essential business casual pant fits with confidence. Learn which silhouette works for your body type, office dress code, and personal style."
+    },
+    {
+      "slug": "mens-casual-wear-mix-match-guide",
+      "title": "The Art of Mix-and-Match: Building a Versatile Casual Wardrobe",
+      "excerpt": "Master the art of mix-and-match dressing. Learn how to build a versatile casual wardrobe with neutral foundations, texture, and layering for endless outfit combinations."
+    },
+    {
+      "slug": "linen-suit-alternatives-summer",
+      "title": "5 Best Linen Suit Alternatives for Summer That Keep You Cool",
+      "excerpt": "Linen suits wrinkle too easily. Discover 5 summer suit alternatives — seersucker, hemp blends, tropical wool, and more — that keep you sharp and sweat-free."
+    },
+    {
+      "slug": "sneakers-under-200-quality",
+      "title": "Best Quality Sneakers Under $200: Style Meets Durability",
+      "excerpt": "Great sneakers don't have to cost a fortune. We break down the best quality men's sneakers under $200 that deliver real durability, comfort, and timeless style."
     }
   ],
   "ops": [
@@ -5697,6 +5722,16 @@
       "slug": "make-dot-com-automation-workflows-solopreneurs-2026",
       "title": "10 Essential Make.com Automation Workflows for Solopreneurs in 2026: Save 20+ Hours Per Week",
       "excerpt": "10 ready-to-build Make.com automation workflows for solopreneurs in 2026. From lead capture to invoice generation to content repurposing — save 20+ hours weekly with these tested scenarios."
+    },
+    {
+      "slug": "solopreneur-pricing-strategy",
+      "title": "The Solopreneur's Guide to Pricing Strategy: From Free to Premium",
+      "excerpt": "Master pricing as a solopreneur with this complete guide covering freemium, tiered, value-based, and premium models. Learn how to price your services to attract clients and maximize revenue."
+    },
+    {
+      "slug": "freelancer-tax-planning-basics",
+      "title": "Freelancer Tax Planning 101: Keep More of What You Earn",
+      "excerpt": "Learn essential tax planning strategies for freelancers including quarterly estimated taxes, home office deductions, retirement accounts, and bookkeeping habits that reduce your tax bill."
     }
   ],
   "mood": [
@@ -7476,6 +7511,21 @@
       "slug": "digital-wellbeing-boundaries-productivity",
       "title": "Digital Wellbeing in the Age of Distraction: Setting Boundaries for Better Focus",
       "excerpt": "Reclaim your attention and mental health with practical strategies for managing digital distractions, setting screen time boundaries, and boosting focus."
+    },
+    {
+      "slug": "morning-routine-clarity-focus",
+      "title": "A Morning Routine for Clarity and Focus: Start Your Day Right",
+      "excerpt": "Discover a mindful morning routine designed to bring clarity, calm, and focus to your day. Simple practices that transform how you show up for yourself and your priorities."
+    },
+    {
+      "slug": "building-meaningful-connections-guide",
+      "title": "How to Build Meaningful Connections in a Digital World",
+      "excerpt": "Practical guidance for cultivating authentic relationships in an age of constant digital distraction. Learn to move beyond surface-level interactions and build deep, lasting bonds."
+    },
+    {
+      "slug": "how-to-say-no-gracefully",
+      "title": "The Art of Saying No: Setting Boundaries Without Guilt",
+      "excerpt": "Learn how to say no with kindness and confidence. This guide explores boundary-setting as an act of self-respect and a pathway to healthier relationships and a more balanced life."
     }
   ]
 }
