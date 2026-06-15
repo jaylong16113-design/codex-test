@@ -2453,6 +2453,16 @@
       "slug": "ai-usability-testing-ux-optimization-tools-2026",
       "title": "6 AI Usability Testing & UX Optimization Tools in 2026: Improve Your Product Without a Design Team",
       "excerpt": "Compare 6 AI-powered usability testing and UX optimization tools — Hotjar, FullStory, UserTesting, Maze, Crazy Egg, and Microsoft Clarity — that automate heatmaps, session recordings, user feedback collection, and conversion funnel analysis."
+    },
+    {
+      "slug": "ai-fashion-product-photography-tools",
+      "title": "AI Fashion Product Photography: Revolutionizing E-Commerce Visuals",
+      "excerpt": "AI fashion product photography tools are transforming how e-commerce brands create product images, reducing costs and production time dramatically."
+    },
+    {
+      "slug": "ecommerce-chatbot-automation-guide",
+      "title": "E-Commerce Chatbot Automation: From Manual Support to AI Agents",
+      "excerpt": "E-commerce chatbot automation is transforming customer support and sales, with AI agents handling up to 93% of inquiries without human intervention."
     }
   ],
   "wear": [
@@ -4120,6 +4130,21 @@
       "slug": "mens-suit-brand-guide",
       "title": "Men's Suit Brand Guide: From Entry-Level to Bespoke",
       "excerpt": "A tiered guide to men's suit brands — covering off-the-rack, made-to-measure, and bespoke options at every price point with honest recommendations."
+    },
+    {
+      "slug": "casual-blazer-styling-guide-men",
+      "title": "Casual Blazer Styling Guide for Men: Smart Looks Without the Tie",
+      "excerpt": "A casual blazer is the most versatile piece in a man's wardrobe. Learn how to style it for every occasion, from brunch to business casual."
+    },
+    {
+      "slug": "dress-shirt-fabric-types-guide",
+      "title": "Dress Shirt Fabric Types: A Complete Guide to Thread Counts and Weaves",
+      "excerpt": "From poplin to twill, Oxford to end-on-end — learn how fabric weave, thread count, and cotton quality affect your dress shirt's look, feel, and longevity."
+    },
+    {
+      "slug": "summer-wardrobe-essentials-men",
+      "title": "Summer Wardrobe Essentials for Men: Stay Cool and Stylish",
+      "excerpt": "Beat the heat without sacrificing style. Discover the essential summer wardrobe pieces every man needs, from linen shirts to lightweight loafers."
     }
   ],
   "ops": [
@@ -6022,6 +6047,16 @@
       "slug": "ai-editorial-calendar-content-planning-tools-2026",
       "title": "7 AI Editorial Calendar & Content Planning Tools in 2026: Automate Your Content Strategy from Idea to Publication",
       "excerpt": "Compare 7 AI-powered editorial calendar and content planning tools — CoSchedule, Airtable, Asana, Trello, ClickUp, Notion AI, and Kapost — that automate content ideation, scheduling, collaboration, and multi-channel publishing."
+    },
+    {
+      "slug": "solopreneur-email-marketing-automation",
+      "title": "Solopreneur Email Marketing Automation: Build Systems That Scale",
+      "excerpt": "Email marketing automation helps solopreneurs nurture leads and drive sales without manual effort. Learn to build scalable systems that grow with you."
+    },
+    {
+      "slug": "cps-affiliate-marketing-niche-websites",
+      "title": "CPS Affiliate Marketing for Niche Websites: Monetization Playbook",
+      "excerpt": "CPS affiliate marketing lets niche website owners earn commissions on actual sales. This playbook covers strategy, niche selection, and optimization."
     }
   ],
   "mood": [
@@ -7876,6 +7911,21 @@
       "slug": "emotional-intelligence-self-growth",
       "title": "Emotional Intelligence as a Path to Self-Growth",
       "excerpt": "Explore how developing emotional intelligence — the ability to recognize, understand, and manage emotions — can become the most powerful engine for personal transformation."
+    },
+    {
+      "slug": "mindful-morning-routine-benefits",
+      "title": "Mindful Morning Routine: Transform Your Day in 15 Minutes",
+      "excerpt": "A mindful morning routine sets the tone for your entire day. Discover science-backed practices that boost focus, reduce anxiety, and improve well-being."
+    },
+    {
+      "slug": "power-of-solitude-personal-growth",
+      "title": "The Power of Solitude: Why Alone Time Fuels Personal Growth",
+      "excerpt": "Solitude is not loneliness. Learn how intentional time alone boosts creativity, deepens self-awareness, and accelerates emotional growth."
+    },
+    {
+      "slug": "finding-purpose-work-life-balance",
+      "title": "Finding Purpose in Work-Life Balance: Beyond the Hustle",
+      "excerpt": "True work-life balance isn't about dividing hours evenly. It's about aligning your daily efforts with what gives you meaning."
     }
   ]
 }

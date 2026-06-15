@@ -1979,6 +1979,16 @@
       "slug": "ai-kua-ping-tai-nei-rong-sheng-cheng-gong-ju",
       "title": "AI跨平台内容生成工具横向评测",
       "excerpt": "全面对比主流AI内容生成工具，聚焦电商卖家和一人公司的实际使用场景，帮你找到最适合的创作利器。"
+    },
+    {
+      "slug": "ai-fuwuqi-kuaizhao-shengcheng",
+      "title": "AI服装快照生成工具：电商商品图效率革命",
+      "excerpt": "AI服装快照生成工具正以极低成本重塑电商商品图制作流程，从人台图到虚拟模特只需几分钟，大幅提升上新效率与视觉一致性。"
+    },
+    {
+      "slug": "dianshang-AI-kehufuwu-zhineng",
+      "title": "电商AI客服智能化升级：从人工到智能的高效转型",
+      "excerpt": "电商AI客服正从基础问答机器人进化为具备任务执行能力的智能Agent，显著降低人力成本、提升响应速度与转化率。"
     }
   ],
   "ops": [
@@ -3521,6 +3531,21 @@
       "slug": "dian-shang-chuang-ye-shou-yi-ti-sheng-jing-dian",
       "title": "电商创业收入提升的关键经验",
       "excerpt": "从选品策略到流量获取，从转化率优化到复购体系——实战总结电商创业者必须掌握的六个收入增长杠杆。"
+    },
+    {
+      "slug": "yigeren-gongsi-SEO-jianzhan-gonglue",
+      "title": "一人公司SEO建站全攻略：从零到自然流量",
+      "excerpt": "一人公司如何从零开始做SEO建站？本文详解关键词研究、内容策略与技术优化的完整流程，帮助独立创业者用最低成本获取稳定自然流量。"
+    },
+    {
+      "slug": "dianshang-CPS-tuiguang-jiqiao",
+      "title": "电商CPS推广进阶技巧：佣金最大化策略",
+      "excerpt": "CPS推广是电商低成本高回报的获客方式。本文从佣金策略、渠道选择、转化优化到数据分析，帮你系统性提升推广收益。"
+    },
+    {
+      "slug": "zhishifupin-CPS-bianxian-lu",
+      "title": "知识付费CPS变现路径：从内容到收益的全链路",
+      "excerpt": "知识付费CPS是内容创作者将知识转化为稳定收入的最佳路径之一。本文详解从课程设计、分销体系搭建到流量获取的完整变现流程。"
     }
   ],
   "wear": [
@@ -5078,6 +5103,21 @@
       "slug": "xi-zhuang-pin-pai-tui-jian-shi-yong-zhinan",
       "title": "西服品牌推荐与选购实用指南",
       "excerpt": "选购西服是每个男士都要面对的重要消费决策。从入门级到顶级定制，本文梳理了不同预算区间的优质品牌，涵盖Suitsupply、Canali、Zegna等经典选择，并提供实用的选购技巧与试穿检查点。"
+    },
+    {
+      "slug": "nanshi-baibian-baimian-dapei",
+      "title": "男士百变白T恤搭配指南：一件单品的无限可能",
+      "excerpt": "白T恤是男士衣橱中最百搭的单品，本文详解不同版型、面料克重与领型选择，以及从休闲到商务的多种搭配公式。"
+    },
+    {
+      "slug": "xizhuang-baoyang-qingxi-zhishi",
+      "title": "西服保养清洗知识大全：延长爱衣寿命的秘诀",
+      "excerpt": "正确保养西服能显著延长其使用寿命，本文从日常除尘、轮换穿着、干洗频率到污渍处理和收纳储存，提供全套实用指南。"
+    },
+    {
+      "slug": "nanshi-xiari-tongqin-chuanda",
+      "title": "男士夏日通勤穿搭公式：清凉与风度的平衡",
+      "excerpt": "夏季通勤如何在高温中保持清凉又不失职业风度？本文从面料选择、衬衫穿搭、轻薄西装到裤装鞋履，提供完整穿搭方案。"
     }
   ],
   "mood": [
@@ -6635,6 +6675,16 @@
       "slug": "du-li-si-kao-pi-pan-xing-si-wei",
       "title": "独立思考与批判性思维训练",
       "excerpt": "在信息爆炸的时代，独立思考比以往任何时候都更加珍贵。本文提供一套实用训练方法，帮助你在嘈杂世界中保持清醒的判断力。"
+    },
+    {
+      "slug": "zhongnian-nanshi-xinli-jiankang",
+      "title": "中年男性心理健康自修：从压力到平静的日常实践",
+      "excerpt": "中年男性承受着家庭与事业的双重压力，本文提供了一套从识别压力到回归平静的心理健康自修方法。"
+    },
+    {
+      "slug": "meihao-shenghuo-xiaoshijian",
+      "title": "美好生活小时间哲学：碎片时间里的幸福感",
+      "excerpt": "在忙碌的都市生活中，碎片时间不是焦虑的来源，而是通往微小幸福的入口。学会利用三分钟、五分钟，也能活出幸福感。"
     }
   ]
 }
