@@ -1989,6 +1989,16 @@
       "slug": "dianshang-AI-kehufuwu-zhineng",
       "title": "电商AI客服智能化升级：从人工到智能的高效转型",
       "excerpt": "电商AI客服正从基础问答机器人进化为具备任务执行能力的智能Agent，显著降低人力成本、提升响应速度与转化率。"
+    },
+    {
+      "slug": "AI-dianshang-tuiguang-xieyi-shengcheng",
+      "title": "AI电商推广文案生成指南：用工具写出高转化文案",
+      "excerpt": "本文介绍如何用AI工具快速生成电商推广文案，包括标题优化、卖点提炼和行动号召等核心技巧，助你提升转化率。"
+    },
+    {
+      "slug": "dianpu-liuliang-fenxi-gongju",
+      "title": "店铺流量分析工具推荐：数据驱动增长的必备利器",
+      "excerpt": "深度评测多款店铺流量分析工具，涵盖平台内置工具与第三方分析系统，帮助商家用数据驱动流量增长和转化优化。"
     }
   ],
   "ops": [
@@ -3546,6 +3556,21 @@
       "slug": "zhishifupin-CPS-bianxian-lu",
       "title": "知识付费CPS变现路径：从内容到收益的全链路",
       "excerpt": "知识付费CPS是内容创作者将知识转化为稳定收入的最佳路径之一。本文详解从课程设计、分销体系搭建到流量获取的完整变现流程。"
+    },
+    {
+      "slug": "yigeren-gongsi-kehuguanxi-guanli",
+      "title": "一人公司如何高效管理客户关系？从零搭建CRM系统",
+      "excerpt": "本文系统介绍一人公司客户关系管理的方法论，涵盖CRM工具选择、客户分群策略和自动化跟进流程，帮助独立创业者用最少精力维护高质量客户关系。"
+    },
+    {
+      "slug": "CPS-tuiguang-xinmeiti-bianxian",
+      "title": "CPS推广新媒体变现：从选品到转化的完整指南",
+      "excerpt": "CPS推广是新媒体创业者最稳健的变现方式之一。本文从选品策略、内容制作到转化优化，提供一套可复用的独立变现方法论。"
+    },
+    {
+      "slug": "yigeren-gongsi-shejiao-meiti-yunying",
+      "title": "一人公司社交媒体运营策略：有限资源下的增长密码",
+      "excerpt": "一人公司如何在有限的时间和预算下做好社交媒体运营？本文提供一套聚焦、高效、可复制的增长策略，包括平台选择、内容生产流程和流量转化方法论。"
     }
   ],
   "wear": [
@@ -5118,6 +5143,16 @@
       "slug": "nanshi-xiari-tongqin-chuanda",
       "title": "男士夏日通勤穿搭公式：清凉与风度的平衡",
       "excerpt": "夏季通勤如何在高温中保持清凉又不失职业风度？本文从面料选择、衬衫穿搭、轻薄西装到裤装鞋履，提供完整穿搭方案。"
+    },
+    {
+      "slug": "nanshi-zhengzhuang-xizhuang-dapei",
+      "title": "男士正装西服搭配指南：从职场到商务的穿搭法则",
+      "excerpt": "深度解析男士正装西服的搭配要点，包括版型选择、颜色搭配、配饰点缀等关键技巧，助你在职场与商务场合从容得体。"
+    },
+    {
+      "slug": "qingjie-chu-zhuang-jichu-dapei",
+      "title": "轻解春装：男士春季基础款搭配全攻略",
+      "excerpt": "告别厚重的冬装，迎接轻盈的春日。本文为你梳理男士春季基础款单品的搭配思路，从外套到鞋履一网打尽。"
     }
   ],
   "mood": [
@@ -6685,6 +6720,21 @@
       "slug": "meihao-shenghuo-xiaoshijian",
       "title": "美好生活小时间哲学：碎片时间里的幸福感",
       "excerpt": "在忙碌的都市生活中，碎片时间不是焦虑的来源，而是通往微小幸福的入口。学会利用三分钟、五分钟，也能活出幸福感。"
+    },
+    {
+      "slug": "zhongnian-nanshi-shenghuo-xiguan",
+      "title": "中年男士的健康生活习惯：从身体到心灵的全面养护",
+      "excerpt": "本文从饮食、运动、作息和心理健康四个维度，为中年男士提供切实可行的健康生活方式建议。"
+    },
+    {
+      "slug": "yigeren-gongsi-xinli-tiaozheng",
+      "title": "一人公司的心理调整：如何应对孤独与压力",
+      "excerpt": "探讨独自创业者在工作、生活中面临的孤独感与心理压力，提供切实可行的自我调适方法。"
+    },
+    {
+      "slug": "meihao-shenghuo-jiankang-rensheng",
+      "title": "美好生活从健康开始：打造可持续的健康人生",
+      "excerpt": "从身体、心理、社交三个维度出发，系统性地探讨如何建立一个长期可持续的健康生活方式。"
     }
   ]
 }
