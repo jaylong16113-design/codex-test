@@ -3621,6 +3621,21 @@
       "slug": "zhishichanquan-zishenpai-duli-chuangye",
       "title": "知识产权与自媒体创业：独立创作者的版权保护指南",
       "excerpt": "内容创作者如何保护自己的知识产权？本文从著作权登记、侵权应对、维权工具到商业授权，为独立创业者提供完整的版权保护实操指南。"
+    },
+    {
+      "slug": "duli-chuangyezhe-pinpai-dingwei",
+      "title": "独立创业者的品牌定位策略",
+      "excerpt": "一人公司如何做好品牌定位？从目标用户到差异化竞争，打造个人品牌影响力。"
+    },
+    {
+      "slug": "xiaowangzhan-seo-tuiguang-shijian",
+      "title": "小网站SEO推广实战经验",
+      "excerpt": "分享小网站SEO推广的真实经验，从关键词挖掘到外链建设，提高搜索排名。"
+    },
+    {
+      "slug": "yigeren-gongsi-kehuguanxi-shuzihua",
+      "title": "一人公司客户关系数字化管理",
+      "excerpt": "一人公司如何用数字化工具管理客户关系？从CRM选择到自动化跟进。"
     }
   ],
   "wear": [
@@ -5233,6 +5248,16 @@
       "slug": "bansui-lvxing-nanzhuang-tuijian",
       "title": "伴随旅行的男装推荐：轻商务出行的穿搭方案",
       "excerpt": "出差旅行行李有限，如何在精简的同时保持体面？从面料选择到搭配方案，本文为你提供一套完整的轻商务出行穿搭策略。"
+    },
+    {
+      "slug": "nanshi-xia-xizhuang-yanse-dapei",
+      "title": "男装夏季西装颜色搭配技巧",
+      "excerpt": "夏季西装颜色怎么选？从浅蓝到米白，掌握男士夏季西装色彩搭配法则。"
+    },
+    {
+      "slug": "xiuxian-xizhuang-richang-chuanda",
+      "title": "休闲西装日常穿搭全攻略",
+      "excerpt": "休闲西装怎么穿才不显正式？从面料选择到内搭搭配，打造日常休闲西装造型。"
     }
   ],
   "mood": [
@@ -6835,6 +6860,21 @@
       "slug": "jingxiu-yishu-shenghuo",
       "title": "静修与艺术生活：在忙碌中找到心灵栖息地",
       "excerpt": "当外界的喧嚣愈发嘈杂，内心的安静便成了最珍贵的奢侈品。静修与艺术的结合，不是逃避现实，而是以更深的觉知拥抱生活本来的样子。"
+    },
+    {
+      "slug": "duduan-shejiao-shijian-guanli",
+      "title": "独处与社交的时间管理艺术",
+      "excerpt": "学会平衡独处与社交，掌握高效的时间管理方法，让生活更充实。"
+    },
+    {
+      "slug": "meitian-yidian-jinbu-zhi",
+      "title": "每天一点进步：微习惯的力量",
+      "excerpt": "通过微小的日常习惯积累，实现持续的个人成长和突破。"
+    },
+    {
+      "slug": "qingxu-guanli-changshou",
+      "title": "情绪管理与长久幸福的秘密",
+      "excerpt": "掌握情绪管理的核心技巧，找到通往长久幸福的心理密码。"
     }
   ]
 }
