@@ -2009,6 +2009,16 @@
       "slug": "dianpu-zidonghua-yunying-gongju",
       "title": "店铺自动化运营工具：从选品到售后全流程提效",
       "excerpt": "系统梳理电商店铺自动化运营的关键工具与流程，覆盖选品分析、智能客服、库存预警、售后处理等环节，为一人公司运营者提供可落地的自动化方案。"
+    },
+    {
+      "slug": "ai-dianshang-shangpinmiaoshu-zidong-shengcheng",
+      "title": "AI电商商品描述自动生成：5款工具实测对比",
+      "excerpt": "本文实测对比ChatGPT、Jasper AI、Copy.ai、Writesonic和Product Copywriter五款AI商品描述生成工具，从SEO优化、批量效率、多语言支持等维度给出选型建议。"
+    },
+    {
+      "slug": "dianpu-shuju-fenxi-zidonghua-baogao",
+      "title": "店铺数据分析自动化：从Excel到AI报表的全流程",
+      "excerpt": "从传统Excel手工统计到AI自动化报表，本文详解店铺数据分析的全流程升级方案，涵盖数据采集、清洗、分析和可视化，帮助电商卖家做出数据驱动的运营决策。"
     }
   ],
   "ops": [
@@ -3596,6 +3606,21 @@
       "slug": "di-chengben-shiyan-shenji-fangfa",
       "title": "低成本实验设计方法：用最小资源验证商业假设",
       "excerpt": "一套系统化的低成本实验方法论，帮助一人公司在投入大量资源前快速验证商业假设，涵盖假设拆解、MVP设计、数据采集与决策框架。"
+    },
+    {
+      "slug": "yigeren-gongsi-shequn-yunying-jingyan",
+      "title": "一人公司社群运营：从0到1搭建付费社群实操",
+      "excerpt": "一人公司如何从零搭建付费社群？本文分享社群定位、定价策略、内容运营和用户增长的全流程实操方法，助力独立创业者实现社群商业化。"
+    },
+    {
+      "slug": "duochangpingtai-neirong-fenfa-celue",
+      "title": "多平台内容分发策略：一篇内容如何覆盖6个渠道",
+      "excerpt": "独立创作者时间有限，如何一篇内容多平台分发？本文详解内容再造、平台适配和自动化工具的组合策略，帮你用最少精力获取最大流量。"
+    },
+    {
+      "slug": "zhishichanquan-zishenpai-duli-chuangye",
+      "title": "知识产权与自媒体创业：独立创作者的版权保护指南",
+      "excerpt": "内容创作者如何保护自己的知识产权？本文从著作权登记、侵权应对、维权工具到商业授权，为独立创业者提供完整的版权保护实操指南。"
     }
   ],
   "wear": [
@@ -5193,6 +5218,21 @@
       "slug": "jichu-kuan-weiyi-dapei",
       "title": "基础款卫衣搭配技巧：打造日常休闲风格",
       "excerpt": "基础款卫衣是每个男士衣橱里的必备单品，但很多人穿得过于随意甚至邋遢。本文分享如何用基础款卫衣搭配出有质感的日常休闲风格。"
+    },
+    {
+      "slug": "nanshi-weizhuang-chunjingmiandapei",
+      "title": "男装微装：纯棉面料的选择与日常搭配技巧",
+      "excerpt": "纯棉面料看似简单，实则大有讲究。从棉花种类到支数克重，从季节选择到洗护保养，本文为你全面解析纯棉面料的选购与日常搭配要点。"
+    },
+    {
+      "slug": "xizhuang-richang-chuanda-fangfa",
+      "title": "西服日常穿搭方法：从办公室到晚餐的无缝转换",
+      "excerpt": "西服不只有套装一种穿法。掌握拆解搭配的技巧，一件西装外套就能轻松应对从严肃会议到休闲晚餐的各种场合。"
+    },
+    {
+      "slug": "bansui-lvxing-nanzhuang-tuijian",
+      "title": "伴随旅行的男装推荐：轻商务出行的穿搭方案",
+      "excerpt": "出差旅行行李有限，如何在精简的同时保持体面？从面料选择到搭配方案，本文为你提供一套完整的轻商务出行穿搭策略。"
     }
   ],
   "mood": [
@@ -6785,6 +6825,16 @@
       "slug": "chenmo-xiaofei-xinli",
       "title": "沉默消费心理探讨：从消费主义到理性选择",
       "excerpt": "在消费主义狂潮席卷一切的时代，沉默消费心理正在悄然兴起。本文深入剖析当代人从冲动消费到理性选择的心理转变，探讨沉默消费背后的社会动因与个人觉醒。"
+    },
+    {
+      "slug": "shenghuo-jiepai-xiguan",
+      "title": "生活节拍：建立属于自己的日常习惯体系",
+      "excerpt": "习惯不是束缚，而是我们在纷繁世界中为自己搭建的秩序。当每一个微小的日常动作都成为自我关怀的仪式，生活便有了属于自己的节拍。"
+    },
+    {
+      "slug": "jingxiu-yishu-shenghuo",
+      "title": "静修与艺术生活：在忙碌中找到心灵栖息地",
+      "excerpt": "当外界的喧嚣愈发嘈杂，内心的安静便成了最珍贵的奢侈品。静修与艺术的结合，不是逃避现实，而是以更深的觉知拥抱生活本来的样子。"
     }
   ]
 }
