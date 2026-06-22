@@ -2643,6 +2643,31 @@
       "slug": "automated-content-workflows",
       "title": "Building Automated Content Workflows That Scale",
       "excerpt": "Learn how to build automated content workflows that scale your marketing operations using AI writing assistants, scheduling platforms, and multi-channel distribution pipelines."
+    },
+    {
+      "slug": "perplexity-computer-review-2026",
+      "title": "Perplexity Computer 2026 Review: Can This AI Desktop Agent Replace a Virtual Assistant?",
+      "excerpt": "We tested Perplexity Computer for 30 days — here is how Perplexity multi-agent desktop system handles research, report generation, and task automation for solopreneurs in 2026. Pricing, pros/cons, and real benchmarks included."
+    },
+    {
+      "slug": "ai-presentation-tools-2026",
+      "title": "5 Best AI Presentation Tools in 2026: Gamma vs Tome vs Beautiful.ai vs Pitch vs Canva AI",
+      "excerpt": "Compare the top 5 AI presentation tools of 2026 — Gamma, Tome, Beautiful.ai, Pitch, and Canva AI. See which one saves the most time, costs less, and delivers the best-looking slides for your business."
+    },
+    {
+      "slug": "ai-knowledge-base-builders-2026",
+      "title": "6 Best AI Knowledge Base Builders for Small Business in 2026: From Helpjuice to Notion AI",
+      "excerpt": "The 6 best AI knowledge base builders for small business in 2026. Compare Helpjuice, Document360, Guru, Slab, Notion AI, and Zendesk Guide — with pricing, AI features, and real user reviews."
+    },
+    {
+      "slug": "ai-resume-job-search-tools-2026",
+      "title": "7 Best AI Resume & Job Search Tools in 2026: Land More Interviews in Half the Time",
+      "excerpt": "We tested 7 AI resume and job search tools in 2026 — from AI resume writers to automated job applicants. See which tools actually get you more interviews and which are overhyped. Pricing and real results included."
+    },
+    {
+      "slug": "ai-content-humanization-tools-2026",
+      "title": "5 Best AI Content Humanization Tools in 2026: Make AI Text Sound Undetectably Human",
+      "excerpt": "Can AI detection really be beaten? We tested 5 leading AI humanizer tools in 2026 — Undetectable AI, WriteHuman, Humanize AI, HIX Bypass, and BypassGPT — across Originality.ai, GPTZero, and Turnitin."
     }
   ],
   "wear": [
@@ -4475,6 +4500,11 @@
       "slug": "neutral-tones-wardrobe-guide",
       "title": "Building a Neutral Tones Wardrobe That Works",
       "excerpt": "A neutral-toned wardrobe is the foundation of effortless style. Learn which shades to choose, how to layer them, and why less color actually gives you more options."
+    },
+    {
+      "slug": "ai-wardrobe-styling-apps-2026",
+      "title": "6 Best AI Wardrobe Planning & Personal Styling Apps in 2026: Build a Smarter Closet",
+      "excerpt": "Tired of staring at a full closet with nothing to wear? We tested 6 AI wardrobe apps in 2026 that catalog your clothes, suggest outfits, and even shop for missing pieces."
     }
   ],
   "ops": [
@@ -6547,6 +6577,21 @@
       "slug": "low-cost-customer-acquisition",
       "title": "Low-Cost Customer Acquisition Strategies",
       "excerpt": "Proven customer acquisition methods that work on a solopreneur budget, from content-driven approaches to strategic partnerships and community building."
+    },
+    {
+      "slug": "ai-phone-answering-services-2026",
+      "title": "7 Best AI Phone Answering Services for Small Business in 2026: 24/7 AI Receptionists Compared",
+      "excerpt": "Never miss another business call. We tested 7 AI phone answering services in 2026 — from $29/mo solutions to enterprise-grade AI receptionists. Compare pricing, features, and which one sounds most human."
+    },
+    {
+      "slug": "ai-meeting-transcription-tools-2026",
+      "title": "6 Best AI Meeting Transcription Tools in 2026: Fireflies vs Otter vs Granola vs Fathom vs Krisp vs tl;dv",
+      "excerpt": "Stop taking notes during meetings. We tested 6 AI meeting transcription tools in 2026 — from Fireflies to Granola — comparing accuracy, integrations, pricing, and which one saves the most time for busy teams."
+    },
+    {
+      "slug": "ai-api-integration-platforms-2026",
+      "title": "5 Best AI Integration & Workflow Automation Platforms for Solopreneurs in 2026",
+      "excerpt": "n8n vs Make vs Zapier vs Tray vs Workato in 2026: which automation platform gives solopreneurs the most bang for their buck? We compared pricing, AI features, and real-world workflow speed for solo operators."
     }
   ],
   "mood": [
@@ -8546,6 +8591,11 @@
       "slug": "art-of-slow-living",
       "title": "Embracing the Art of Slow Living",
       "excerpt": "Slow living is a conscious choice to prioritize presence over productivity. Learn how decelerating your daily life can lead to deeper joy, creativity, and connection."
+    },
+    {
+      "slug": "ai-note-taking-second-brain-2026",
+      "title": "7 Best AI Note-Taking & Second Brain Apps in 2026: Never Forget a Thought Again",
+      "excerpt": "Your brain is for having ideas, not storing them. We tested 7 AI-powered note-taking and second brain apps in 2026 — Notion AI, Mem, Reflect, Obsidian AI, Roam, Tana, and Capacities."
     }
   ]
 }
