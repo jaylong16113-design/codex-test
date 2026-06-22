@@ -2618,6 +2618,21 @@
       "slug": "solo-founder-product-docs",
       "title": "How Indie Developers Write Great Product Docs — A Practical Guide for Solo-Founder SaaS Products",
       "excerpt": "Product documentation isn't just for big companies. A well-written guide can slash support tickets, boost conversions, and build user trust"
+    },
+    {
+      "slug": "ai-product-discovery-tools",
+      "title": "AI Product Discovery Tools: Transforming How Shoppers Find What They Want",
+      "excerpt": "AI product discovery tools are revolutionizing ecommerce by replacing keyword search with intent-driven, personalized product finding that boosts conversions and revenue."
+    },
+    {
+      "slug": "smart-inventory-management",
+      "title": "Smart Inventory Management: How AI Automates Stock Control for Ecommerce Brands",
+      "excerpt": "AI-driven inventory management systems forecast demand, automate reordering, and prevent stockouts — saving ecommerce brands time and money while keeping customers happy."
+    },
+    {
+      "slug": "ecommerce-customer-insights",
+      "title": "Ecommerce Customer Insights: Unlocking Growth With AI-Powered Analytics",
+      "excerpt": "AI-driven customer insights tools help ecommerce brands understand buyer behavior, predict future actions, and personalize experiences at scale for higher lifetime value."
     }
   ],
   "wear": [
@@ -4390,6 +4405,51 @@
       "slug": "weekend-casual-layering-tips",
       "title": "Weekend Casual Layering: Essential Style Tips for Men",
       "excerpt": "Master the art of casual layering for weekends with practical tips on base layers, mid layers, outerwear, and fabric combinations that create effortless, stylish outfits for any weather."
+    },
+    {
+      "slug": "classic-suit-casual-styling",
+      "title": "How to Style a Classic Suit for Casual Occasions",
+      "excerpt": "Learn how to dress down a tailored suit for semi-formal and casual settings with modern styling techniques that preserve elegance."
+    },
+    {
+      "slug": "essential-shoes-mens-guide",
+      "title": "The Essential Men's Shoe Guide: Every Style You Need",
+      "excerpt": "A complete breakdown of the essential men's shoe styles every wardrobe requires, from oxfords to loafers to boots and beyond."
+    },
+    {
+      "slug": "smart-casual-pants-guide",
+      "title": "The Smart Casual Pants Guide: From Chinos to Trousers",
+      "excerpt": "Navigate the smart casual dress code with the right pants. A complete guide to chinos, tailored trousers, and everything in between."
+    },
+    {
+      "slug": "summer-lightweight-outfits",
+      "title": "Summer Lightweight Outfits: Stay Cool Without Sacrificing Style",
+      "excerpt": "Master summer dressing with lightweight fabrics, breathable layers, and smart styling choices that keep you cool and polished."
+    },
+    {
+      "slug": "elevated-basics-menswear",
+      "title": "Elevated Basics: Building a Smarter Menswear Foundation",
+      "excerpt": "Upgrade your everyday wardrobe with elevated basics — superior fabrics, better fits, and thoughtful details that transform simple pieces."
+    },
+    {
+      "slug": "color-palette-mens-fashion",
+      "title": "Mastering Color: A Complete Guide to the Men's Fashion Palette",
+      "excerpt": "Learn how to build a versatile color palette for your wardrobe. From neutrals to accent shades, master color theory for effortless men's style."
+    },
+    {
+      "slug": "wardrobe-essentials-mens",
+      "title": "The Essential Men's Wardrobe: Building a Foundation That Lasts",
+      "excerpt": "Stop buying trends and start building a wardrobe that works. These essential pieces form the foundation every man needs for effortless style year-round."
+    },
+    {
+      "slug": "outerwear-layering-guide",
+      "title": "The Complete Guide to Men's Outerwear and Layering",
+      "excerpt": "Master the art of layering with this complete guide. Learn the three-layer system, fabric choices, and how to build outfits for any weather and occasion."
+    },
+    {
+      "slug": "fabric-selection-basics",
+      "title": "Fabric Selection Basics: What Every Man Should Know About Materials",
+      "excerpt": "Understanding fabric is the key to dressing well. Learn the differences between cotton, wool, linen, and synthetics to make smarter clothing purchases."
     }
   ],
   "ops": [
@@ -6407,6 +6467,51 @@
       "slug": "solopreneur-operations-checklist",
       "title": "The Solopreneur Operations Checklist: Systems That Scale",
       "excerpt": "A comprehensive operations checklist for solopreneurs covering finances, workflows, tools, client management, and compliance. Stop winging it and build repeatable systems that free your time."
+    },
+    {
+      "slug": "data-driven-solo-business",
+      "title": "Building a Data-Driven Solopreneur Business Without a Team",
+      "excerpt": "Learn how solo operators can leverage data analytics to make smarter decisions, optimize operations, and grow revenue without hiring analysts."
+    },
+    {
+      "slug": "content-creation-framework",
+      "title": "The Lean Content Creation Framework for Solopreneurs",
+      "excerpt": "A repeatable system for producing high-quality SEO content that ranks, converts, and monetizes without burning out your limited time."
+    },
+    {
+      "slug": "solo-crm-lightweight",
+      "title": "A Lightweight CRM System for Solopreneurs Who Hate Admin Work",
+      "excerpt": "How to manage customer relationships, track leads, and automate follow-ups without expensive software or hours of data entry each week."
+    },
+    {
+      "slug": "zero-cost-customer-acquisition",
+      "title": "Zero-Cost Customer Acquisition Strategies for Solopreneurs",
+      "excerpt": "Proven methods to attract and convert customers without spending a dollar on ads, tools, or paid promotions of any kind."
+    },
+    {
+      "slug": "low-cost-experimentation",
+      "title": "Low-Cost Experimentation: How Solopreneurs Can Test Ideas Without Wasting Money",
+      "excerpt": "A practical framework for running cheap, fast experiments to validate products, marketing channels, and pricing before committing resources."
+    },
+    {
+      "slug": "lean-brand-building",
+      "title": "Lean Brand Building for Solopreneurs",
+      "excerpt": "Learn how solopreneurs can build a strong brand using lean principles — without big budgets, large teams, or months of planning."
+    },
+    {
+      "slug": "operations-automation-guide",
+      "title": "The Solopreneur Operations Automation Guide",
+      "excerpt": "A practical guide to automating your solo business operations — from CRM and invoicing to content publishing and customer support."
+    },
+    {
+      "slug": "social-monetization-practical",
+      "title": "Practical Social Media Monetization for Solopreneurs",
+      "excerpt": "A no-fluff guide to turning social media into a reliable revenue stream with specific strategies that work when you are a team of one."
+    },
+    {
+      "slug": "SEO-practical-techniques",
+      "title": "Practical SEO Techniques for Solopreneurs in 2026",
+      "excerpt": "Actionable SEO strategies that solopreneurs can implement alone — covering AI-ready content, technical fundamentals, and sustainable link building."
     }
   ],
   "mood": [
@@ -8346,6 +8451,51 @@
       "slug": "stress-management-techniques",
       "title": "Evidence-Based Stress Management Techniques That Work",
       "excerpt": "Practical, science-backed strategies to manage stress effectively — from breathing techniques and exercise to cognitive reframing and social connection."
+    },
+    {
+      "slug": "morning-routine-habits",
+      "title": "The Power of a Morning Routine: Small Habits That Transform Your Day",
+      "excerpt": "Discover how intentional morning habits shape your brain, energy, and mood — and learn practical strategies to build a routine that sticks."
+    },
+    {
+      "slug": "stress-coping-mechanisms",
+      "title": "Beyond Bubble Baths: Real Coping Mechanisms That Build Resilience",
+      "excerpt": "Explore evidence-based coping strategies for stress that go beyond surface-level fixes and actually rewire your brain for greater resilience."
+    },
+    {
+      "slug": "solo-living-enjoyment",
+      "title": "The Unexpected Joy of Living Alone: A Guide to Thriving in Solitude",
+      "excerpt": "Living solo offers profound opportunities for self-discovery, freedom, and growth. Learn how to transform solitude into a rich, fulfilling experience."
+    },
+    {
+      "slug": "tiny-habits-formation",
+      "title": "Atomic Change: How Tiny Habits Create Massive Life Transformation",
+      "excerpt": "Small daily actions compound into extraordinary results. Learn the science of tiny habits and how to design them so they actually stick."
+    },
+    {
+      "slug": "growth-mindset-daily",
+      "title": "The Growth Mindset in Action: Daily Practices for Continuous Evolution",
+      "excerpt": "A growth mindset is more than belief — it is a daily practice. Discover actionable ways to cultivate resilience, curiosity, and lifelong learning."
+    },
+    {
+      "slug": "art-of-simplicity-life",
+      "title": "The Art of Simplicity: Designing a Life That Truly Matters",
+      "excerpt": "Discover how embracing simplicity and minimalism can free your time, energy, and mind for what genuinely enriches your life."
+    },
+    {
+      "slug": "time-management-mastery",
+      "title": "Time Management Mastery: Taking Control of Your Most Precious Resource",
+      "excerpt": "Master practical time management strategies to reclaim your schedule, reduce overwhelm, and focus on what truly moves your life forward."
+    },
+    {
+      "slug": "mindfulness-meditation-practice",
+      "title": "Mindfulness and Meditation: Building a Practice That Transforms Your Daily Life",
+      "excerpt": "Learn how to build a sustainable mindfulness meditation practice that reduces stress, sharpens focus, and deepens your connection to each moment."
+    },
+    {
+      "slug": "work-life-harmony-balance",
+      "title": "Work-Life Harmony: Finding Balance Without Sacrificing Your Ambition",
+      "excerpt": "Move beyond the impossible quest for perfect balance and discover how work-life harmony creates sustainable success and genuine fulfillment."
     }
   ]
 }
