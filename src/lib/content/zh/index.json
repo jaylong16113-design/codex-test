@@ -2059,6 +2059,16 @@
       "slug": "dianshang-shuju-fenxi-jishu",
       "title": "电商数据分析基础技术与工具",
       "excerpt": "系统介绍电商数据分析的核心技术与实用工具，涵盖数据采集、清洗、可视化到商业洞察的完整链条，帮助卖家从数据中挖掘增长机会。"
+    },
+    {
+      "slug": "ai-dianshang-duanshipin-shengcheng-gongju",
+      "title": "AI电商短视频批量生成工具实战指南",
+      "excerpt": "本文介绍如何利用AI工具批量生成电商短视频，从工具选型到实操流程，帮助运营团队大幅提升内容生产效率。"
+    },
+    {
+      "slug": "xiaohongshu-shuju-fenxi-shizhan",
+      "title": "小红书数据分析工具实战技巧",
+      "excerpt": "从小红书数据分析工具的选择到实战应用，本文将带你掌握数据驱动的运营方法，提升笔记的曝光和互动效果。"
     }
   ],
   "ops": [
@@ -3801,6 +3811,21 @@
       "slug": "neirong-bianxian-luijing-sheji",
       "title": "内容变现路径设计——从0到1的完整指南",
       "excerpt": "内容变现不是简单接广告。从流量获取到价值交付，6个步骤教你设计可持续的内容变现系统。"
+    },
+    {
+      "slug": "yigeren-yong-notion-dajian-xitong",
+      "title": "一人公司如何用Notion搭建运营系统",
+      "excerpt": "一人公司资源有限，Notion是搭建运营系统的最佳选择。本文从框架设计、任务管理、知识库到财务追踪，手把手教你构建专属系统。"
+    },
+    {
+      "slug": "ling-chengben-seo-youhua-celve",
+      "title": "零成本SEO优化策略：面向个人站长与小团队",
+      "excerpt": "预算为零也能做好SEO。本文分享面向个人站长和团队的零成本实操策略，从关键词挖掘到技术优化，全是无需花钱的落地方法。"
+    },
+    {
+      "slug": "duli-kaifazhe-bianxian-tujing",
+      "title": "独立开发者的变现路径（非卖课方向）",
+      "excerpt": "不靠卖课和知识付费，独立开发者有哪些可持续的变现路径？本文梳理SaaS订阅、数字产品、CPS联盟、服务化等6条真实可行路线。"
     }
   ],
   "wear": [
@@ -5548,6 +5573,16 @@
       "slug": "jingdian-jiaose-nanshi-dapei",
       "title": "经典配色法则——男士穿搭的色彩密码",
       "excerpt": "男士穿搭中色彩搭配是最容易被忽视却最能提升整体气质的技能。从基础色彩理论到实战配色公式，六条经典配色法则帮你建立属于自己的色彩体系。"
+    },
+    {
+      "slug": "xiatian-qingshuang-shangwu-chuanda-zhinan",
+      "title": "夏日清爽商务穿搭指南",
+      "excerpt": "如何在炎炎夏日保持商务穿搭的清爽与得体？本文从面料选择、配色方案到单品推荐，为你提供完整的夏季商务着装方案。"
+    },
+    {
+      "slug": "zhongnian-nanshi-xiuxian-xizhuang-xuanze",
+      "title": "中年男士休闲西装选择指南",
+      "excerpt": "中年男士穿休闲西装，如何兼顾舒适、气质与场合？本文从版型、面料到搭配细节，为中年男士提供实用的休闲西装选购指南。"
     }
   ],
   "mood": [
@@ -7280,6 +7315,21 @@
       "slug": "yuedu-kuozhan-shijiao",
       "title": "阅读如何拓展我们的视角",
       "excerpt": "在算法推送和短视频占据注意力的时代，深度阅读正在成为一种稀缺的能力。但它带来的视角拓展，是任何碎片化信息都无法替代的。"
+    },
+    {
+      "slug": "jijian-shenghuo-yishu",
+      "title": "极简生活的艺术：减法带来的自由",
+      "excerpt": "极简生活不是什么都没有，而是只保留最重要的东西。本文从物品、信息、社交和时间四个维度，探讨极简主义如何带来真正的自由。"
+    },
+    {
+      "slug": "zhongnian-ren-shenghuo-pingheng",
+      "title": "中年人的生活平衡之道",
+      "excerpt": "工作、家庭、健康、个人成长——中年人在多重角色之间如何保持平衡？本文分享实用的平衡策略和心态调整方法。"
+    },
+    {
+      "slug": "chenjian-xiguan-gaibian-rensheng",
+      "title": "晨间习惯如何改变你的人生",
+      "excerpt": "早晨的状态决定了你一天的质量。本文分享经过验证的晨间习惯体系，帮助你在忙碌的生活中找到掌控感和内在秩序。"
     }
   ]
 }
