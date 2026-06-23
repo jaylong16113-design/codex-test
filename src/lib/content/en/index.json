@@ -2688,6 +2688,31 @@
       "slug": "automated-customer-support-tools",
       "title": "Automated Customer Support Tools for Small Online Stores",
       "excerpt": "Learn how small online stores can leverage automated customer support tools to reduce response times, lower costs, and improve customer satisfaction without a large team."
+    },
+    {
+      "slug": "ai-data-pipeline-etl-tools-2026",
+      "title": "5 Best AI Data Pipeline & ETL Tools for Solopreneurs in 2026: Move Data Without a Data Team",
+      "excerpt": "Compare the 5 best AI data pipeline and ETL tools for solopreneurs in 2026 — Databricks, Fivetran, Airbyte, Stitch, and dbt Cloud. Pricing, setup speed, and real-world performance data included."
+    },
+    {
+      "slug": "ai-sales-pipeline-automation-tools-2026",
+      "title": "7 AI Sales Pipeline Automation Tools for Solo Founders in 2026: Close Deals While You Sleep",
+      "excerpt": "Discover the 7 best AI sales pipeline automation tools for solo founders in 2026 — Close, Pipedrive AI, HubSpot Sales Hub, Freshsales, Salesforce Einstein, Outreach, and Lemlist."
+    },
+    {
+      "slug": "ai-database-tools-solopreneurs-2026",
+      "title": "8 Best AI Database Tools for Solopreneurs in 2026: Airtable Alternatives Compared",
+      "excerpt": "Compare the 8 best AI database tools for solopreneurs in 2026 — Airtable, Notion DB, Coda, Baserow, NocoDB, Supabase, Rowy, and DronaHQ."
+    },
+    {
+      "slug": "ai-api-testing-monitoring-tools-2026",
+      "title": "6 Best AI API Testing & Monitoring Tools for Solo Developers in 2026",
+      "excerpt": "Compare the 6 best AI API testing and monitoring tools for solo developers in 2026 — Postman AI, Insomnia, Assertible, Checkly, Bearer, and Hoppscotch."
+    },
+    {
+      "slug": "ai-screen-recording-tutorial-tools-2026",
+      "title": "5 Best AI Screen Recording & Tutorial Creation Tools for Solopreneurs in 2026",
+      "excerpt": "Discover the 5 best AI screen recording and tutorial creation tools for solopreneurs in 2026 — Loom AI, Screen Studio, OBS with AI plugins, Tella, and Descript."
     }
   ],
   "wear": [
@@ -4555,6 +4580,11 @@
       "slug": "layering-techniques-mens-style",
       "title": "Mastering Layering Techniques in Men's Style",
       "excerpt": "Learn the art of layering clothes like a pro. Covers base layers, mid layers, outerwear, proportion, texture mixing, and seasonal strategies for men."
+    },
+    {
+      "slug": "ai-color-analysis-personal-styling-men-2026",
+      "title": "4 Best AI Color Analysis & Personal Styling Apps for Men in 2026: Build a Wardrobe That Actually Works",
+      "excerpt": "Discover the 4 best AI color analysis and personal styling apps for men in 2026 — Colorwise, Style DNA, YourFit, and Vetir."
     }
   ],
   "ops": [
@@ -6662,6 +6692,21 @@
       "slug": "zero-budget-growth-hacking",
       "title": "Zero-Budget Growth Hacking Tactics That Actually Work",
       "excerpt": "Proven zero-budget growth hacking tactics for solopreneurs: content repurposing, community leverage, viral loops, and SEO shortcuts that drive real traffic without ad spend."
+    },
+    {
+      "slug": "ai-competitor-backlink-analysis-tools-2026",
+      "title": "6 Best AI Competitor Backlink Analysis Tools for SEO in 2026: Find Link Opportunities Your Rivals Are Hiding",
+      "excerpt": "Compare the 6 best AI competitor backlink analysis tools for SEO in 2026 — Ahrefs, Semrush, Majestic, Moz Link Explorer, Linkody, and Monitor Backlinks."
+    },
+    {
+      "slug": "ai-expense-reporting-automation-2026",
+      "title": "5 Best AI Expense Reporting & Reimbursement Tools for Solopreneurs in 2026: Stop Tracking Receipts Manually",
+      "excerpt": "Compare the 5 best AI expense reporting and reimbursement tools for solopreneurs in 2026 — Expensify, Zoho Expense, Dext, Ramp, and Bill.com."
+    },
+    {
+      "slug": "ai-esignature-document-signing-tools-2026",
+      "title": "7 Best AI E-Signature & Document Signing Tools for Solopreneurs in 2026",
+      "excerpt": "Compare the 7 best AI e-signature and document signing tools for solopreneurs in 2026 — DocuSign, HelloSign, PandaDoc, SignNow, Adobe Sign, RightSignature, and eversign."
     }
   ],
   "mood": [
@@ -8696,6 +8741,11 @@
       "slug": "digital-wellbeing-life-balance",
       "title": "Digital Wellbeing: Finding Balance in a Connected World",
       "excerpt": "Practical strategies for reclaiming your time and attention in an always-online world. Learn to use technology intentionally without letting it drain your energy and focus."
+    },
+    {
+      "slug": "ai-biography-memoir-writing-tools-2026",
+      "title": "How to Write Your Memoir with AI: 5 Best Biography Writing Tools in 2026",
+      "excerpt": "Learn how to write your memoir or autobiography with AI in 2026. Compare the 5 best AI biography writing tools — Mem, LifeStory AI, StoryWorth, ChatPDF Memoir, and Claude."
     }
   ]
 }
