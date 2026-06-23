@@ -2678,6 +2678,16 @@
       "slug": "xiaohongshu-data-analytics-tools",
       "title": "Xiaohongshu Data Analytics Tools: A Practical Guide for Brands",
       "excerpt": "Navigate Xiaohongshu's data ecosystem with the right analytics tools for content performance tracking, competitor benchmarking, and ROI measurement."
+    },
+    {
+      "slug": "ai-ecommerce-dashboard-tools",
+      "title": "Top AI-Powered E-Commerce Dashboard Tools in 2026",
+      "excerpt": "Discover the best AI-driven e-commerce dashboard tools in 2026 that unify analytics, inventory, and customer insights into one intelligent command center for your store."
+    },
+    {
+      "slug": "automated-customer-support-tools",
+      "title": "Automated Customer Support Tools for Small Online Stores",
+      "excerpt": "Learn how small online stores can leverage automated customer support tools to reduce response times, lower costs, and improve customer satisfaction without a large team."
     }
   ],
   "wear": [
@@ -4530,6 +4540,21 @@
       "slug": "daily-lifestyle-simple-color-matching",
       "title": "Unlock the Power of Simple Color Matching in Daily Life",
       "excerpt": "A straightforward guide to color matching for men — learn the basics of color theory, build versatile outfits, and develop an eye for harmonious combinations."
+    },
+    {
+      "slug": "summer-casual-linen-outfits",
+      "title": "Summer Casual Linen Outfits: Stay Cool and Stylish",
+      "excerpt": "Discover how to wear linen in summer with style. From linen shirts to trousers and blazers, learn fabric tips, outfit combinations, and care advice for the heat."
+    },
+    {
+      "slug": "business-casual-shoe-guide",
+      "title": "The Complete Business Casual Shoe Guide for Men",
+      "excerpt": "Navigate business casual dress codes with confidence. Covers loafers, derbies, chukka boots, sneakers, and monk straps — when to wear each and how to style them."
+    },
+    {
+      "slug": "layering-techniques-mens-style",
+      "title": "Mastering Layering Techniques in Men's Style",
+      "excerpt": "Learn the art of layering clothes like a pro. Covers base layers, mid layers, outerwear, proportion, texture mixing, and seasonal strategies for men."
     }
   ],
   "ops": [
@@ -6627,6 +6652,16 @@
       "slug": "zero-cost-seo-optimization",
       "title": "Zero-Cost SEO Optimization: Strategies for Solo Website Owners",
       "excerpt": "Improve your website's search rankings without spending money — actionable SEO strategies perfect for solopreneurs on a tight budget."
+    },
+    {
+      "slug": "solopreneur-email-list-building",
+      "title": "Email List Building for Solopreneurs: A Practical Guide",
+      "excerpt": "Learn how solopreneurs can build a profitable email list from scratch using lead magnets, landing pages, and ethical growth strategies without spending on ads."
+    },
+    {
+      "slug": "zero-budget-growth-hacking",
+      "title": "Zero-Budget Growth Hacking Tactics That Actually Work",
+      "excerpt": "Proven zero-budget growth hacking tactics for solopreneurs: content repurposing, community leverage, viral loops, and SEO shortcuts that drive real traffic without ad spend."
     }
   ],
   "mood": [
@@ -8646,6 +8681,21 @@
       "slug": "morning-routine-habits-change-life",
       "title": "How Morning Habits Can Transform Your Life",
       "excerpt": "Your morning sets the tone for everything that follows. Discover a practical morning routine system that builds momentum and control into your day."
+    },
+    {
+      "slug": "daily-meditation-beginner-guide",
+      "title": "Daily Meditation for Beginners: A 10-Minute Morning Practice",
+      "excerpt": "Discover how to start a simple 10-minute daily meditation practice. A beginner-friendly guide to morning mindfulness, breath awareness, and inner calm."
+    },
+    {
+      "slug": "morning-habits-energy-boost",
+      "title": "5 Morning Habits That Will Transform Your Energy Levels",
+      "excerpt": "Transform your mornings with five science-backed habits that boost energy, sharpen focus, and set you up for a productive, balanced day starting from the moment you wake."
+    },
+    {
+      "slug": "digital-wellbeing-life-balance",
+      "title": "Digital Wellbeing: Finding Balance in a Connected World",
+      "excerpt": "Practical strategies for reclaiming your time and attention in an always-online world. Learn to use technology intentionally without letting it drain your energy and focus."
     }
   ]
 }
