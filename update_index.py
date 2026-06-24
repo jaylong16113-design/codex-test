@@ -1,24 +1,44 @@
 import json
 
+# Load existing index
 with open('src/lib/content/en/index.json') as f:
-    idx = json.load(f)
+    data = json.load(f)
 
-new_entries = [
-    {'slug': 'ai-business-plan-generators-2026', 'title': '5 Best AI Business Plan Generators in 2026: From Idea to Bank-Ready Plan in One Hour', 'excerpt': 'Compare the 5 best AI business plan generators for solopreneurs in 2026. LivePlan vs BizPlan vs Upmetrics vs IdeaBuddy vs ChatGPT — build a bank-ready business plan in under an hour.'},
-    {'slug': 'ai-book-writing-self-publishing-2026', 'title': '7 Best AI Book Writing & Self-Publishing Tools in 2026: From Outline to Amazon Bestseller', 'excerpt': 'Discover the 7 best AI book writing tools for solopreneurs in 2026. Sudowrite vs Jasper vs Novelcrafter vs Atticus vs Vellum — write, format, and publish your Amazon bestseller without a publisher.'},
-    {'slug': 'ai-survey-customer-feedback-tools-2026', 'title': '8 AI Survey & Customer Feedback Tools in 2026: Collect Insights That Actually Drive Revenue', 'excerpt': 'Compare the top 8 AI survey tools for solopreneurs in 2026. Typeform AI vs SurveyMonkey Genius vs Polly vs Survicate vs Hotjar Engage — automate customer feedback collection and get actionable insights.'},
-    {'slug': 'ai-linkedin-content-personal-brand-2026', 'title': '10 AI LinkedIn Content & Personal Brand Tools in 2026: Grow From 0 to 10K Followers', 'excerpt': 'Discover 10 AI tools that automate LinkedIn content creation, posting, and engagement in 2026. Taplio vs ContentStudio vs Buffer vs Jasper — build your personal brand without spending hours on social media.'},
-    {'slug': 'ai-graphic-design-non-designers-2026', 'title': '6 Best AI Graphic Design Tools for Non-Designers in 2026: Create Professional Brand Assets in Minutes', 'excerpt': 'Compare the 6 best AI graphic design tools for solopreneurs with zero design experience. Canva AI vs Adobe Firefly vs Midjourney vs Looka vs Kittl — create logos, social graphics, and brand identities.'},
-    {'slug': 'ai-legal-document-generators-solopreneur-2026', 'title': '5 Best AI Legal Document Generators for Solopreneurs in 2026: Contracts, NDAs & Terms in Minutes', 'excerpt': 'Compare the 5 best AI legal document generators for solopreneurs in 2026. Rocket Lawyer vs LegalZoom vs LawDepot vs PandaDoc vs Clio — generate contracts, NDAs, and policies without lawyers.'},
-    {'slug': 'ai-spreadsheet-automation-tools-2026', 'title': '7 Best AI Spreadsheet Automation Tools in 2026: Turn Google Sheets & Excel Into Automated Workflows', 'excerpt': 'Compare the 7 best AI spreadsheet automation tools for solopreneurs in 2026. Coefficient vs Layer vs Sheetai vs GPT for Sheets vs Excel AI — automate data entry, reporting, and analysis.'},
-    {'slug': 'ai-nocode-app-builder-tools-2026', 'title': '8 Best No-Code AI App Builders in 2026: Launch a SaaS Without Writing a Single Line of Code', 'excerpt': 'Compare the 8 best no-code AI app builders for solopreneurs in 2026. Bubble vs FlutterFlow vs Adalo vs Glide vs Softr vs WeWeb — build and launch a SaaS product without a developer.'},
-    {'slug': 'ai-online-course-creation-tools-2026', 'title': '6 Best AI Online Course Creation Tools in 2026: Create & Sell Your Digital Course in Days', 'excerpt': 'Discover the 6 best AI tools for creating and selling online courses as a solopreneur in 2026. Teachable vs Thinkific vs Kajabi vs Podia vs LearnWorlds vs CourseAI.'},
-    {'slug': 'ai-hr-payroll-solopreneur-tools-2026', 'title': '5 Best AI HR & Payroll Tools for Solopreneurs in 2026: Manage Contractors and Payroll Without an HR Team', 'excerpt': 'Compare the 5 best AI HR and payroll tools for solopreneurs in 2026. Gusto vs Deel vs Remote vs Rippling vs Justworks — hire contractors, manage payroll, and stay compliant globally.'},
-]
+# New articles to append (in order within each section)
+new_articles = {
+    'tool': [
+        {'slug': 'anthropic-claude-suspension-business-2026', 'title': 'Anthropic Claude Suspension 2026: AI Guide for Business', 'excerpt': 'Anthropic suspended Claude Fable 5 and Mythos 5 after a US export order. Learn what this means for your business AI stack and how to diversify in 2026.'},
+        {'slug': 'ai-search-traffic-under-2-percent-2026', 'title': 'AI Search Still Under 2% in 2026: 7 SEO Strategies That Still Work', 'excerpt': 'Datos Q1 2026 report reveals AI search under 2% of total traffic. Avoid abandoning traditional SEO - 7 proven strategies that drive results in 2026.'},
+        {'slug': 'amazon-ai-seller-tools-2026', 'title': "Amazon's New AI Tools for Sellers in 2026: 5 Features That Boost Sales", 'excerpt': 'Amazon launched AI-powered seller tools in 2026 - real-time business visualization, dynamic pricing, and inventory forecasting. See which 5 features actually drive sales.'}
+    ],
+    'ops': [
+        {'slug': 'ai-agents-replacing-saas-2026', 'title': 'AI Agents Replacing SaaS in 2026: 7 Subscriptions You Can Cancel Today', 'excerpt': 'One AI agent can now replace 3-5 SaaS subscriptions. From project management to analytics, here are 7 tools you can cancel and what to use instead.'},
+        {'slug': 'ai-hiring-bias-compliance-2026', 'title': 'AI Hiring Bias Lawsuit 2026: 5 Compliance Steps for Small Businesses', 'excerpt': 'Workday faces California lawsuit over AI bias in hiring. Learn what this means for your small business and 5 compliance steps to protect yourself.'},
+        {'slug': 'ai-legal-privilege-risks-2026', 'title': 'AI Legal Privilege Risks 2026: What Every Business Owner Learned From the Heppner Case', 'excerpt': 'The Heppner case changed how courts view AI-generated content and attorney-client privilege. Here is what every business owner needs to know to protect themselves.'}
+    ],
+    'wear': [
+        {'slug': 'ai-powered-summer-business-casual-2026', 'title': 'Summer 2026 Business Casual: 5 AI Style Tools That Solve the What to Wear Problem', 'excerpt': 'AI style tools are transforming how professionals dress for summer 2026. From capsule wardrobes to color analysis, here are 5 tools that make dressing easier.'},
+        {'slug': 'ai-capsule-wardrobe-planning-tools-2026', 'title': 'AI Wardrobe Planning Tools 2026: Build a Capsule Closet in 30 Minutes', 'excerpt': 'AI wardrobe apps can analyze your closet, suggest outfits, and plan purchases. Here are 5 tools that help you build a capsule wardrobe in 2026.'}
+    ],
+    'mood': [
+        {'slug': 'ai-anxiety-workplace-2026', 'title': 'AI Anxiety in the Workplace 2026: 7 Ways to Stay Calm and Productive', 'excerpt': 'Nearly 1 in 3 professionals report AI-related anxiety at work. Here are 7 evidence-based strategies to stay calm, focused, and productive in the age of AI.'},
+        {'slug': 'ai-digital-minimalism-2026', 'title': 'Digital Minimalism 2026: Stay Focused When AI Tools Are Everywhere', 'excerpt': 'AI tools promise productivity but often create more noise. Learn how to practice digital minimalism while leveraging AI effectively in 2026.'}
+    ]
+}
 
-idx['tool'].extend(new_entries)
+# Verify no slug duplicates and append
+for section, items in new_articles.items():
+    existing_slugs = {a['slug'] for a in data[section]}
+    for item in items:
+        if item['slug'] in existing_slugs:
+            print(f'DUPLICATE in {section}: {item["slug"]}')
+        else:
+            data[section].append(item)
+            print(f'Added to {section}: {item["slug"]}')
 
 with open('src/lib/content/en/index.json', 'w') as f:
-    json.dump(idx, f, indent=2, ensure_ascii=False)
+    json.dump(data, f, indent=2)
 
-print(f'Updated: tool section now has {len(idx["tool"])} articles (was 273, +10)')
+# Verify counts
+for section in data:
+    print(f'{section}: {len(data[section])} articles')
