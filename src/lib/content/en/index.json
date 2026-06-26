@@ -2783,6 +2783,11 @@
       "slug": "ai-productivity-tools-solopreneurs",
       "title": "AI Productivity Tools for Solopreneurs: A Practical Guide",
       "excerpt": "A practical guide to AI productivity tools for solopreneurs — from writing assistants and workflow automation to project management. Learn how to build your AI tool stack strategically."
+    },
+    {
+      "slug": "ai-commerce-product-editing-guidebook",
+      "title": "AI-Powered Product Editing Guidebook for Ecommerce Sellers",
+      "excerpt": "Master AI tools for bulk product editing in ecommerce — optimize titles, generate descriptions, edit images, and adjust SEO keywords at scale with smart automation."
     }
   ],
   "wear": [
@@ -4790,6 +4795,26 @@
       "slug": "streetwear-formal-blend",
       "title": "Streetwear and Formal Blend: Combining Casual and Elegant",
       "excerpt": "Learn how to master the streetwear and formal blend. Combine sneakers with suits, hoodies with blazers, and create modern outfits that bridge casual and elegant style."
+    },
+    {
+      "slug": "summer-mens-fabric-selection-guide",
+      "title": "Summer Fabric Selection Guide — Stay Cool Without Sacrificing Style",
+      "excerpt": "Discover the best summer fabrics for men — linen, cotton-linen blends, silk, and Tencel. Compare breathability, wrinkle resistance, and style to choose the right fabric for every occasion."
+    },
+    {
+      "slug": "mens-casual-formal-color-matching",
+      "title": "Casual Formal Color Matching — Smart Styling for the Modern Man",
+      "excerpt": "Master the art of color matching for business casual wear. Learn how to build a neutral base, incorporate accent colors, and create polished outfits that transition seamlessly from desk to dinner."
+    },
+    {
+      "slug": "young-men-outfit-accessories-guide",
+      "title": "Men's Accessories Guide — Upgrade Your Look with the Right Details",
+      "excerpt": "Learn how to choose and match men's accessories — watches, belts, bags, shoes, and eyewear. Elevate your daily outfits with the right details that show style and sophistication."
+    },
+    {
+      "slug": "linen-summer-style-guide",
+      "title": "Linen Style Guide — How to Wear Linen Without Looking Sloppy",
+      "excerpt": "Master the art of wearing linen in summer while looking polished and put-together. Discover outfit ideas, care tips, and style combinations that keep linen crisp and stylish."
     }
   ],
   "ops": [
@@ -7027,6 +7052,16 @@
       "slug": "content-repurposing-strategy",
       "title": "Content Repurposing Strategy: One Piece of Content, Multiple Channels",
       "excerpt": "Content repurposing is the solopreneur's secret weapon for maximizing reach without burning out. Learn how to transform one piece of content into multiple formats."
+    },
+    {
+      "slug": "solo-business-experiment-cost-control",
+      "title": "Low-Cost Experimentation and Cost Control for Solo Businesses",
+      "excerpt": "Learn how solopreneurs can validate business ideas with minimal investment, control operational costs, and stretch every dollar for maximum capital efficiency."
+    },
+    {
+      "slug": "indie-developer-social-media-operations",
+      "title": "Social Media Operations Guide for Indie Developers",
+      "excerpt": "A practical guide for indie developers and solopreneurs on building a personal brand, acquiring users, and growing a business through strategic social media operations."
     }
   ],
   "mood": [
@@ -9186,6 +9221,21 @@
       "slug": "weekend-rest-recharge",
       "title": "Weekend Rest and Recharge: Reclaiming Your Time Off",
       "excerpt": "True rest is a skill that requires practice and intention. This guide explores how to design weekends that genuinely recharge you, protect your time off, and return to Monday feeling refreshed."
+    },
+    {
+      "slug": "reading-habit-psychological-change",
+      "title": "Reading Rewires Your Brain — From Anxiety to Calm",
+      "excerpt": "Discover how regular reading transforms your mental state by reducing anxiety, rewiring neural pathways, improving focus, and building deep empathy through the lens of neuroscience and psychology."
+    },
+    {
+      "slug": "life-force-growth-system",
+      "title": "Build a Personal Growth System — Goals to Progress",
+      "excerpt": "A complete framework for sustainable personal growth: goal setting, learning plans, reflection rituals, and feedback loops that turn ambition into continuous, measurable progress."
+    },
+    {
+      "slug": "quiet-morning-clarity-ritual",
+      "title": "The Quiet Morning Ritual — Clarity and Purpose",
+      "excerpt": "Transform your mornings with a simple ritual that cultivates mental clarity, mindfulness, and intentional living. Practical habits for starting each day focused and centered."
     }
   ]
 }
