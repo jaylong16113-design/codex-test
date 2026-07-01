@@ -2838,6 +2838,31 @@
       "slug": "ai-seo-tools-after-google-overviews-2026",
       "title": "AI SEO Tools That Still Work in 2026: Ranking After Google AI Overviews Took Over Search",
       "excerpt": "How Google AI Overviews changed SEO in 2026 and which AI SEO tools (Frase, Surfer SEO, Content at Scale, NeuronWriter, Writesonic) actually help you rank. Testing results, strategy shifts, and new workflows for ecommerce sites."
+    },
+    {
+      "slug": "ai-product-description-automation",
+      "title": "AI Product Description Generators: Boost Your Ecommerce Sales",
+      "excerpt": "Discover how AI product description generators can transform your ecommerce store with SEO-optimized, persuasive copy that converts browsers into buyers."
+    },
+    {
+      "slug": "social-media-automation-tools",
+      "title": "Social Media Automation for Solopreneur Ecommerce Brands",
+      "excerpt": "Learn how solopreneur ecommerce brands can automate social media management across platforms while maintaining authentic engagement and driving sales."
+    },
+    {
+      "slug": "no-code-ecommerce-store-guide",
+      "title": "Building a No-Code Ecommerce Store: Complete Guide",
+      "excerpt": "A complete guide to building a professional ecommerce store without coding, covering platform selection, design, payments, and automation for solopreneurs."
+    },
+    {
+      "slug": "email-marketing-automation-campaigns",
+      "title": "Email Marketing Automation Campaigns That Convert",
+      "excerpt": "Master email marketing automation for your ecommerce store with campaigns that nurture leads, recover carts, and drive repeat purchases on autopilot."
+    },
+    {
+      "slug": "inventory-management-solopreneur",
+      "title": "Inventory Management Systems for One-Person Businesses",
+      "excerpt": "Discover inventory management systems and automation strategies that help solopreneur ecommerce owners track stock, prevent overselling, and save hours daily."
     }
   ],
   "wear": [
@@ -4905,6 +4930,51 @@
       "slug": "dropshipping-mens-accessories-ai-2026",
       "title": "Dropshipping Men Accessories in 2026: AI Product Research Tools That Find Winners Before the Trend Hits",
       "excerpt": "How to use AI product research tools (Minea, Sell The Trend, Niche Scraper, and Dropship AI) to find trending men accessories for dropshipping in 2026. Real product validation workflow with data and profit margin analysis."
+    },
+    {
+      "slug": "minimalist-capsule-wardrobe-guide",
+      "title": "Building a Minimalist Capsule Wardrobe for Men",
+      "excerpt": "Master the art of minimalist dressing with a curated capsule wardrobe. Learn how to choose versatile pieces, build around neutrals, and simplify your morning routine."
+    },
+    {
+      "slug": "suiting-fabric-quality-guide",
+      "title": "Suiting Fabric Quality Guide: Wool to Linen",
+      "excerpt": "Navigate the world of suiting fabrics with confidence. From Super 120s wool to Irish linen, learn what makes a quality fabric and which weave suits your lifestyle."
+    },
+    {
+      "slug": "casual-shoe-collection-tips",
+      "title": "Curating a Versatile Casual Shoe Collection",
+      "excerpt": "Build a casual shoe rotation that covers every off-duty scenario. From minimalist sneakers to rugged boots, learn to curate quality footwear that lasts."
+    },
+    {
+      "slug": "leather-boot-care-routine",
+      "title": "Leather Boot Care: A Complete Maintenance Routine",
+      "excerpt": "Extend the life of your leather boots with proper care techniques. Learn cleaning, conditioning, polishing, and storage methods used by professional cobblers."
+    },
+    {
+      "slug": "summer-wardrobe-essentials",
+      "title": "Summer Wardrobe Essentials for the Modern Man",
+      "excerpt": "Stay cool and stylish through the hottest months with these essential summer pieces. From linen shirts to unstructured blazers, dress for the season without sweat."
+    },
+    {
+      "slug": "knitwear-care-mistakes",
+      "title": "Knitwear Care Mistakes That Ruin Your Sweaters",
+      "excerpt": "Stop shrinking, pilling, and stretching your sweaters. Learn the most common knitwear care mistakes and how to keep cashmere, wool, and cotton knits looking new."
+    },
+    {
+      "slug": "formal-suit-alternatives",
+      "title": "Formal Suit Alternatives for Creative Professionals",
+      "excerpt": "Break free from the traditional suit without sacrificing polish. Discover elevated alternatives like the chore coat, Nehru jacket, and textured separates for modern workplaces."
+    },
+    {
+      "slug": "watch-strap-material-guide",
+      "title": "Watch Strap Materials Guide: Leather to NATO",
+      "excerpt": "Choose the perfect watch strap for every occasion. From alligator leather to ballistic nylon, learn the characteristics, care, and best uses of each strap material."
+    },
+    {
+      "slug": "seasonal-wardrobe-transition",
+      "title": "Seasonal Wardrobe Transition: Spring to Summer",
+      "excerpt": "Master the art of transitioning your wardrobe from spring to summer with strategic layering, fabric swaps, and color adjustments that keep you comfortable and stylish."
     }
   ],
   "ops": [
@@ -7182,6 +7252,46 @@
       "slug": "micro-saas-solopreneur-blueprint-2026",
       "title": "Building a Micro-SaaS as a Solopreneur in 2026: The Complete AI-Powered Blueprint From Idea to $5k MRR",
       "excerpt": "Step-by-step guide to building a micro-SaaS business solo in 2026 — from idea validation with AI, coding with Cursor + Claude, launching on Product Hunt, to first $5k MRR. Real timelines and cost breakdown."
+    },
+    {
+      "slug": "solopreneur-tax-optimization",
+      "title": "Tax Optimization Strategies for Solopreneurs",
+      "excerpt": "Practical tax strategies for solopreneurs including LLC/S Corp elections, home office deductions, quarterly estimated payments, and retirement vehicles that reduce taxable income."
+    },
+    {
+      "slug": "side-hustle-monetization-guide",
+      "title": "Side Hustle Monetization: Turn Passion into Profit",
+      "excerpt": "A practical guide to monetizing your side hustle with proven revenue models, pricing strategies, audience-building techniques, and the systems needed to scale from hobby to income."
+    },
+    {
+      "slug": "budget-customer-acquisition-channels",
+      "title": "Budget-Friendly Customer Acquisition Channels",
+      "excerpt": "Customer acquisition strategies that work on a shoestring budget including content marketing, community building, strategic partnerships, and organic social media tactics."
+    },
+    {
+      "slug": "remote-team-productivity-system",
+      "title": "Remote Team Productivity Systems for Solo Founders",
+      "excerpt": "Productivity systems for solo founders building remote teams including async communication, task management, documentation practices, and tool stacks that maximize output."
+    },
+    {
+      "slug": "affiliate-marketing-income-streams",
+      "title": "Building Affiliate Marketing Income Streams",
+      "excerpt": "A strategic guide to building sustainable affiliate marketing income including niche selection, content strategies, traffic sources, compliance requirements, and scaling methods."
+    },
+    {
+      "slug": "solopreneur-business-planning",
+      "title": "Solopreneur Business Planning: A Practical Framework",
+      "excerpt": "A streamlined business planning framework for solopreneurs covering minimum viable strategy, revenue forecasting, milestone setting, financial planning, and quarterly review cadences."
+    },
+    {
+      "slug": "personal-brand-building-guide",
+      "title": "Personal Brand Building Guide for Independent Professionals",
+      "excerpt": "A guide to building a personal brand as an independent professional including positioning strategy, content creation systems, platform selection, networking tactics, and monetization."
+    },
+    {
+      "slug": "freelance-pricing-strategies",
+      "title": "Freelance Pricing Strategies: Value-Based Fee Setting",
+      "excerpt": "A comprehensive guide to freelance pricing from hourly rates to value-based fees including price anchoring, package design, negotiation tactics, and annual price increase frameworks."
     }
   ],
   "mood": [
@@ -9386,6 +9496,46 @@
       "slug": "solopreneur-burnout-ai-virtual-coo",
       "title": "Avoiding Solopreneur Burnout in 2026: How AI Agents Can Be Your Virtual COO and Save 20 Hours a Week",
       "excerpt": "Practical guide to using AI agents as a virtual COO to prevent solopreneur burnout. Real workflows for AI-driven scheduling, email triage, research, decision-making, and how to reclaim 20 hours a week for rest and creativity."
+    },
+    {
+      "slug": "morning-routine-creative-mindset",
+      "title": "Morning Rituals for a Creative Mindset",
+      "excerpt": "Discover how intentional morning rituals can unlock your creative potential and set the tone for a day of inspired, meaningful work."
+    },
+    {
+      "slug": "digital-minimalism-freedom",
+      "title": "Digital Minimalism: Reclaiming Your Attention",
+      "excerpt": "Learn how a digital minimalist philosophy can restore your focus, reduce anxiety, and help you build a healthier relationship with technology."
+    },
+    {
+      "slug": "slow-living-productivity",
+      "title": "Slow Living for the Ambitious Solopreneur",
+      "excerpt": "Discover how slow living principles can paradoxically accelerate your creative output and protect your wellbeing as an independent business owner."
+    },
+    {
+      "slug": "art-of-letting-go",
+      "title": "The Art of Letting Go: Release What No Longer Serves You",
+      "excerpt": "Explore the transformative practice of releasing attachments and find greater peace and creative freedom."
+    },
+    {
+      "slug": "self-compassion-daily-practice",
+      "title": "Self-Compassion: A Daily Practice for Inner Strength",
+      "excerpt": "Build genuine inner strength through daily self-compassion practices that transform your relationship with failure and imperfection."
+    },
+    {
+      "slug": "building-resilience-habits",
+      "title": "Building Resilience: Daily Habits for Tough Times",
+      "excerpt": "Cultivate resilience through practical daily habits that prepare you to navigate challenges with grace, adaptability, and sustained wellbeing."
+    },
+    {
+      "slug": "mindful-communication-relationships",
+      "title": "Mindful Communication for Deeper Relationships",
+      "excerpt": "Transform your relationships through mindful communication practices that foster understanding, reduce conflict, and create genuine connection."
+    },
+    {
+      "slug": "evening-wind-down-ritual",
+      "title": "Evening Wind-Down Rituals for Better Sleep",
+      "excerpt": "Design a restorative evening wind-down routine that signals your nervous system to release the day and prepare for deep healing sleep."
     }
   ]
 }
