@@ -2888,6 +2888,16 @@
       "slug": "content-scheduling-automation-tools",
       "title": "Content Scheduling Automation: Tools and Workflows for E-Commerce Teams",
       "excerpt": "Content scheduling is among the most time-consuming tasks for e-commerce teams. This article covers the best automation tools and workflows for planning and publishing content across channels."
+    },
+    {
+      "slug": "ai-driven-ecommerce-seo",
+      "title": "AI-Driven Ecommerce SEO: Automating Search Optimization for Online Stores",
+      "excerpt": "Discover how AI is transforming ecommerce SEO in 2026. Learn about automated schema markup, content generation, and AI search visibility tracking tools."
+    },
+    {
+      "slug": "cross-border-dropshipping-automation",
+      "title": "Cross-Border Dropshipping Automation: Tools and Workflows for 2026",
+      "excerpt": "Explore essential tools and workflows for cross-border dropshipping automation in 2026. AI handles VAT, customs docs, inventory, and supplier management."
     }
   ],
   "wear": [
@@ -5025,6 +5035,21 @@
       "slug": "mens-smart-casual-wardrobe-foundation",
       "title": "Building a Smart Casual Wardrobe: Men's Essential Pieces",
       "excerpt": "Building a smart casual wardrobe is easier than you think. This guide covers the essential pieces every man needs, from tailored chinos and knit blazers to quality loafers and versatile shirts."
+    },
+    {
+      "slug": "white-shirt-styling-guide",
+      "title": "The Ultimate White Shirt Styling Guide: From Casual to Formal",
+      "excerpt": "Master the art of styling a white shirt for any occasion. From boardroom to beachside, this guide covers fit, fabric, layering, and accessories."
+    },
+    {
+      "slug": "summer-linen-outfit-ideas",
+      "title": "Summer Linen Outfit Ideas: Stay Cool and Stylish",
+      "excerpt": "Beat the heat in style with linen. Discover outfit combinations from beach casual to summer wedding ready, with fabric and fit tips for the modern man."
+    },
+    {
+      "slug": "dress-shoe-polish-guide",
+      "title": "Dress Shoe Polish Guide: Care and Maintenance for Long-Lasting Footwear",
+      "excerpt": "Extend the life of your dress shoes with proper polishing and care. Learn the difference between cream and wax polish, tools you need, and step-by-step techniques."
     }
   ],
   "ops": [
@@ -7367,6 +7392,16 @@
       "slug": "freelancer-client-acquisition-lean",
       "title": "Lean Client Acquisition: Landing Your First 10 Customers on a Shoestring Budget",
       "excerpt": "Getting clients without a big budget is hard but doable. This article shares proven strategies for freelancers to land their first paying customers through targeted outreach and smart positioning."
+    },
+    {
+      "slug": "solo-designer-income-streams",
+      "title": "Diversifying Income Streams for Solo Designers and Developers",
+      "excerpt": "A practical guide for solo designers and developers on building multiple revenue streams from digital products to retainer clients without burning out."
+    },
+    {
+      "slug": "content-monetization-solopreneur",
+      "title": "Content Monetization for Solopreneurs: From Blog to Revenue",
+      "excerpt": "Turn your blog, newsletter, or YouTube channel into a real revenue engine with affiliate marketing, digital products, sponsorships, and CPS monetization strategies."
     }
   ],
   "mood": [
@@ -9686,6 +9721,21 @@
       "slug": "ai-breathwork-biofeedback-tools-2026",
       "title": "5 Best AI Breathwork & Biofeedback Tools in 2026: Hack Your Nervous System",
       "excerpt": "Compare 5 best AI breathwork and biofeedback tools for stress reduction and focus in 2026. Lumen vs Apollo Neuro vs HeartMath vs Moonbird vs Othership — tested on breathing guidance accuracy, biofeedback quality, and stress reduction results."
+    },
+    {
+      "slug": "morning-ritual-productivity",
+      "title": "Morning Rituals for a Productive Day: Habits that Actually Work",
+      "excerpt": "Discover morning rituals backed by research that actually boost productivity. Simple habits to start your day with focus, energy, and clarity."
+    },
+    {
+      "slug": "reading-for-personal-growth",
+      "title": "Reading for Personal Growth: Building a Self-Development Library",
+      "excerpt": "Learn how to build a self-development library that fuels personal growth. Curated recommendations and active reading strategies for lasting change."
+    },
+    {
+      "slug": "turning-hobbies-into-habits",
+      "title": "Turning Hobbies into Habits: Building Meaningful Solo Routines",
+      "excerpt": "Transform your hobbies into lasting habits that enrich your solo time. Practical strategies for building meaningful routines that stick."
     }
   ]
 }
