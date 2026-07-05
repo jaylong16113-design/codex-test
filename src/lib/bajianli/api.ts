@@ -1,6 +1,6 @@
 'use client'
 
-const API_BASE = 'http://localhost:8765'
+const API_BASE = 'https://122.51.220.35/api/bajianli'
 
 export interface User {
   id: number
@@ -258,7 +258,7 @@ export async function getModels() {
   const token = getToken()
   const headers: Record<string, string> = { 'Content-Type': 'application/json' }
   if (token) headers['Authorization'] = `Bearer ${token}`
-  const res = await fetch(`${API_BASE}/v1/models`, { headers })
+  const res = await fetch(`${API_BASE}/models`, { headers })
   if (!res.ok) throw new Error('Failed to fetch models')
   return res.json()
 }
@@ -326,7 +326,7 @@ export async function chatCompletion(
   if (options.max_tokens !== undefined) body.max_tokens = options.max_tokens
   if (options.stream !== undefined) body.stream = options.stream
 
-  const res = await fetch(`${API_BASE}/v1/chat/completions`, {
+  const res = await fetch(`${API_BASE}/chat/completions`, {
     method: 'POST',
     headers,
     body: JSON.stringify(body),
@@ -374,15 +374,15 @@ export function estimateCost(
 
 // ── Invoices ─────────────────────────────────────────────────────────────────
 export async function getInvoices() {
-  return request<InvoiceEntry[]>('/api/bajianli/invoices')
+  return request<InvoiceEntry[]>('/invoices')
 }
 
 export async function getInvoice(id: number) {
-  return request<InvoiceEntry>(`/api/bajianli/invoices/${id}`)
+  return request<InvoiceEntry>(`/invoices/${id}`)
 }
 
 export async function getInvoiceAvailable() {
-  return request<{ total_consumed: number; total_invoiced: number; available: number }>('/api/bajianli/invoices/available')
+  return request<{ total_consumed: number; total_invoiced: number; available: number }>('/invoices/available')
 }
 
 export async function createInvoice(data: {
@@ -393,21 +393,21 @@ export async function createInvoice(data: {
   address: string
   bank_info: string
 }) {
-  return request<InvoiceEntry>('/api/bajianli/invoices', {
+  return request<InvoiceEntry>('/invoices', {
     method: 'POST',
     body: JSON.stringify(data),
   })
 }
 
 export async function approveInvoice(id: number) {
-  return request<InvoiceEntry>(`/api/bajianli/invoices/${id}/approve`, {
+  return request<InvoiceEntry>(`/invoices/${id}/approve`, {
     method: 'PATCH',
     body: JSON.stringify({}),
   })
 }
 
 export async function rejectInvoice(id: number, reason: string) {
-  return request<InvoiceEntry>(`/api/bajianli/invoices/${id}/reject`, {
+  return request<InvoiceEntry>(`/invoices/${id}/reject`, {
     method: 'PATCH',
     body: JSON.stringify({ reason }),
   })
@@ -439,7 +439,7 @@ export interface BillingSummary {
  * Get monthly billing summary grouped by model.
  */
 export async function getBillingSummary(year: number, month: number) {
-  return request<BillingSummary>(`/api/bajianli/billing/summary?year=${year}&month=${month}`)
+  return request<BillingSummary>(`/billing/summary?year=${year}&month=${month}`)
 }
 
 /**
@@ -477,7 +477,7 @@ export async function exportLogsCSV(params?: {
  */
 export async function exportBillingCSV(year: number, month: number) {
   const token = getToken()
-  const url = `${API_BASE}/api/bajianli/billing/export-csv?year=${year}&month=${month}`
+  const url = `${API_BASE}/billing/export-csv?year=${year}&month=${month}`
   const headers: Record<string, string> = {}
   if (token) headers['Authorization'] = `Bearer ${token}`
   const res = await fetch(url, { headers })
