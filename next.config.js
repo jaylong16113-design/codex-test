@@ -14,14 +14,7 @@ const nextConfig = {
       },
     ];
   },
-  async rewrites() {
-    return [
-      {
-        source: "/api/bajianli/:path*",
-        destination: "http://122.51.220.35/api/bajianli/:path*",
-      },
-    ];
-  },
 };
 
 module.exports = nextConfig;
+
