@@ -2224,6 +2224,11 @@
       "slug": "ai-dianshang-xiaogongju-yunying",
       "title": "AI电商小工具推荐：提升运营效率的实用技巧",
       "excerpt": "精选5款提升电商运营效率的AI小工具，从选品分析到客服自动化的实用指南。"
+    },
+    {
+      "slug": "ai-fuzhu-xiezuo-gongju-tuijian",
+      "title": "AI辅助写作工具推荐与使用技巧",
+      "excerpt": "2026年最实用的AI写作工具实测对比，覆盖电商文案、内容创作和SEO优化场景，附赠高效提示词技巧。"
     }
   ],
   "ops": [
@@ -4291,6 +4296,21 @@
       "slug": "cps-duoqudao-bianxian-jingyan",
       "title": "CPS多渠道变现经验：选择、优化与收益最大化",
       "excerpt": "CPS变现是轻资产创业者最值得深耕的商业模式之一。本文从渠道选择、策略优化到收益管理，系统分享一人公司做CPS的实操经验。"
+    },
+    {
+      "slug": "ziyouzhiyezhe-shijian-guanli",
+      "title": "自由职业者高效时间管理方法",
+      "excerpt": "自由职业者如何科学管理时间？本文从时间块规划、番茄工作法、优先级矩阵到深度工作技巧，提供一套完整可落地的时间管理体系。"
+    },
+    {
+      "slug": "yiren-gongsi-caiwu-xitong",
+      "title": "一人公司财务管理系统搭建指南",
+      "excerpt": "一人公司如何搭建实用的财务管理系统？从记账分类、现金流管理、税务筹划到财务复盘，手把手教你建立可控的财务体系。"
+    },
+    {
+      "slug": "geren-pinpai-jianli-celue",
+      "title": "个人品牌建立策略与实操方法",
+      "excerpt": "从定位到变现，系统讲解一人公司如何建立个人品牌。涵盖定位方法、内容策略、平台选择、信任建设的完整实操路径。"
     }
   ],
   "wear": [
@@ -6363,6 +6383,21 @@
       "slug": "shencai-xiuzheng-xizhuang-xuangou",
       "title": "身材修正型西装选购指南：不同体型的完美选择",
       "excerpt": "不同体型如何选西装？从肩部处理到腰线设计，全面解析身材修正型西装的选购要点。"
+    },
+    {
+      "slug": "xiaji-shangwu-xiuxian-nanzhuang-dapei",
+      "title": "夏季商务休闲男装搭配指南",
+      "excerpt": "夏季商务休闲穿搭的核心技巧，涵盖面料选择、颜色搭配、单品推荐及常见误区，助你在炎热季节保持专业与舒适。"
+    },
+    {
+      "slug": "nanshi-yama-xizhuang-xuangou-zhinan",
+      "title": "男士亚麻西装选购全攻略",
+      "excerpt": "全方位解析亚麻西装的选购要点，包括面料等级、版型选择、搭配技巧及护理方法，助你找到最合适的那一件。"
+    },
+    {
+      "slug": "qingreng-feng-tongqin-chuanda",
+      "title": "轻熟风男生通勤穿搭实用指南",
+      "excerpt": "从单品选择到搭配技巧，详解轻熟风男生通勤穿搭的核心要点，助你在职场中展现出稳重得体又不失年轻活力的形象。"
     }
   ],
   "mood": [
@@ -8430,6 +8465,21 @@
       "slug": "shenghuo-jianfa-yishu-zhidao",
       "title": "生活减法艺术：如何通过断舍离获得内心自由",
       "excerpt": "物质过剩的时代，真正的幸福来自少而不是多。"
+    },
+    {
+      "slug": "duju-shenghuo-xingfugan-xiguan",
+      "title": "独居生活提升幸福感的小习惯",
+      "excerpt": "独居生活中那些微小但有效的习惯，从晨间仪式到一人食的仪式感，帮你提升日常幸福感和生活质量。"
+    },
+    {
+      "slug": "sanshi-sui-renji-guanxi-duansheli",
+      "title": "30岁后的人际关系断舍离",
+      "excerpt": "30岁之后，你的时间和精力越来越宝贵。学会对人际关系进行断舍离，才能真正把生命留给值得的人和事。"
+    },
+    {
+      "slug": "shangbangu-ju-jia-bangong-xiaolv",
+      "title": "上班族居家办公效率提升实用指南",
+      "excerpt": "居家办公容易分心、效率低下？这份实用指南从空间、时间到身心状态，帮你找回专注和高效率。"
     }
   ]
 }

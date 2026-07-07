@@ -3018,6 +3018,16 @@
       "slug": "10-best-no-code-app-builders-2026",
       "title": "10 Best No-Code App Builders in 2026: Bubble vs Adalo vs FlutterFlow vs Glide",
       "excerpt": "Build a fully functional app without writing code in 2026. We compare 10 no-code app builders — Bubble, Adalo, FlutterFlow, Glide, Thunkable, Draftbit, AppSheet, Softr, Bildr, and Bravo Studio."
+    },
+    {
+      "slug": "ai-tools-small-business-automation",
+      "title": "Best AI Tools for Small Business Automation in 2026",
+      "excerpt": "Discover the top AI tools transforming small business automation in 2026. Compare features, pricing, and use cases for marketing, CRM, design, and operations."
+    },
+    {
+      "slug": "seo-audit-checklist-free-tools",
+      "title": "SEO Audit Checklist Using Free Tools",
+      "excerpt": "A complete SEO audit checklist for 2026 using only free tools. Cover technical SEO, on-page optimization, and content quality without spending a dime."
     }
   ],
   "wear": [
@@ -5230,6 +5240,21 @@
       "slug": "neutral-color-mens-wardrobe-guide",
       "title": "Building a Neutral-Color Wardrobe: The Foundation of Men's Style",
       "excerpt": "A practical guide to curating a versatile neutral-toned wardrobe — from choosing core shades to mixing textures and investing wisely."
+    },
+    {
+      "slug": "mens-linen-shirt-style-summer-guide",
+      "title": "Men's Linen Shirt Style Guide for Summer",
+      "excerpt": "Complete guide to wearing linen shirts in summer — fit, fabric weight, colors, styling tips, and proper care."
+    },
+    {
+      "slug": "smart-casual-dress-code-explained",
+      "title": "Smart Casual Dress Code Explained for Modern Men",
+      "excerpt": "What smart casual really means, how to build a smart casual wardrobe, and outfit formulas for every occasion."
+    },
+    {
+      "slug": "capsule-wardrobe-men-guide",
+      "title": "How to Build a Capsule Wardrobe for Men",
+      "excerpt": "Step-by-step guide to building a minimalist capsule wardrobe — choose core pieces, colors, and maximize outfit combinations."
     }
   ],
   "ops": [
@@ -7677,6 +7702,16 @@
       "slug": "7-no-code-ai-automation-workflows-solopreneur-2026",
       "title": "7 No-Code AI Automation Workflows Every Solopreneur Needs in 2026 (Real Templates)",
       "excerpt": "Stop doing repetitive tasks manually. Here are 7 no-code AI automation workflows with real n8n and Zapier templates — lead enrichment, content repurposing, invoice processing, customer support triage, and more."
+    },
+    {
+      "slug": "personal-brand-linkedin-strategy",
+      "title": "Building a Personal Brand on LinkedIn: A Step-by-Step Strategy",
+      "excerpt": "Learn how to build a powerful personal brand on LinkedIn. A step-by-step strategy for solopreneurs to grow visibility, authority, and clients."
+    },
+    {
+      "slug": "freelance-pricing-strategy-guide",
+      "title": "Freelance Pricing Strategy Guide: How to Charge What You Are Worth",
+      "excerpt": "Master freelance pricing with proven strategies. Learn to calculate rates, use value-based pricing, negotiate confidently, and earn what you deserve."
     }
   ],
   "mood": [
@@ -10086,6 +10121,21 @@
       "slug": "daily-journaling-habits-benefits",
       "title": "The Science and Soul of Daily Journaling: Habits That Heal and Transform",
       "excerpt": "Explore the neuroscience and practical strategies behind daily journaling — how this simple habit reduces anxiety, clarifies thinking, and rewires your brain for growth."
+    },
+    {
+      "slug": "mindfulness-busy-professionals",
+      "title": "Mindfulness Practices for Busy Professionals",
+      "excerpt": "Practical mindfulness techniques designed for busy professionals with limited time. Breathe, reset, and reclaim your focus in minutes."
+    },
+    {
+      "slug": "morning-routine-solopreneurs-habits",
+      "title": "Morning Routine Habits of Successful Solopreneurs",
+      "excerpt": "Discover the morning habits that successful solopreneurs use to set the tone for focused, productive, and balanced days."
+    },
+    {
+      "slug": "digital-detox-entrepreneurs-guide",
+      "title": "Digital Detox Guide for Entrepreneurs",
+      "excerpt": "A practical guide for entrepreneurs to disconnect, recharge, and build a healthier relationship with technology for better focus and well-being."
     }
   ]
 }
