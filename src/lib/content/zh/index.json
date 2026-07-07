@@ -2219,6 +2219,11 @@
       "slug": "ai-dianshang-zidonghua-liucheng-sheji",
       "title": "AI电商工具自动化：从选品到售后的全链路流程设计指南",
       "excerpt": "AI电商工具正在重塑电商运营的全链路流程，从智能选品、自动化内容生成到智能客服与售后处理，本文为你系统拆解AI电商自动化的流程设计方法与实践路径。"
+    },
+    {
+      "slug": "ai-dianshang-xiaogongju-yunying",
+      "title": "AI电商小工具推荐：提升运营效率的实用技巧",
+      "excerpt": "精选5款提升电商运营效率的AI小工具，从选品分析到客服自动化的实用指南。"
     }
   ],
   "ops": [
@@ -4271,6 +4276,21 @@
       "slug": "xiao-chengben-neirong-chuangzuo-jingyan",
       "title": "小成本内容创作的实战经验",
       "excerpt": "分享小成本内容创作的实战经验，从选题策划、素材收集到内容制作的全流程优化，帮助创作者用最少的资源产出优质内容。"
+    },
+    {
+      "slug": "yigeren-chuangye-xinlian-zhilu",
+      "title": "一人公司创业：从零开始的心路历程与实战指南",
+      "excerpt": "一人公司创业并非孤军奋战，而是一场对自我认知、时间管理与商业能力的极限挑战。本文分享从启动到突破的真实心路历程与可复用的运营经验。"
+    },
+    {
+      "slug": "neirong-shengtai-yunying-zhinan",
+      "title": "内容生态运营：从0到1搭建可持续内容系统",
+      "excerpt": "搭建可持续的内容生态远比单篇爆款重要。本文从定位、生产、分发到变现，系统拆解一人公司内容运营的全链路方法论。"
+    },
+    {
+      "slug": "cps-duoqudao-bianxian-jingyan",
+      "title": "CPS多渠道变现经验：选择、优化与收益最大化",
+      "excerpt": "CPS变现是轻资产创业者最值得深耕的商业模式之一。本文从渠道选择、策略优化到收益管理，系统分享一人公司做CPS的实操经验。"
     }
   ],
   "wear": [
@@ -6328,6 +6348,21 @@
       "slug": "nanshi-jingdian-kuanzhou-dapei",
       "title": "男士经典宽轴搭配法则",
       "excerpt": "宽轴廓形正在重新定义男士穿搭的审美标准。从西装到外套，从裤装到鞋履，本篇指南带你系统理解宽松剪裁的搭配逻辑，掌握经典宽轴造型的核心法则。"
+    },
+    {
+      "slug": "nanshi-qiuxia-jingdian-dapei",
+      "title": "男装秋冬经典搭配指南：从外套到鞋履的全套方案",
+      "excerpt": "从大衣到靴子，拆解男装秋冬经典搭配的每个细节，打造温暖又有型的季节衣橱。"
+    },
+    {
+      "slug": "xiuxian-zhengzhuang-wanmei-zhuanhuan",
+      "title": "休闲与正装的无缝转换：男士商务休闲穿搭技巧",
+      "excerpt": "掌握商务休闲风格的核心法则，轻松穿梭于会议室与社交场合之间。"
+    },
+    {
+      "slug": "shencai-xiuzheng-xizhuang-xuangou",
+      "title": "身材修正型西装选购指南：不同体型的完美选择",
+      "excerpt": "不同体型如何选西装？从肩部处理到腰线设计，全面解析身材修正型西装的选购要点。"
     }
   ],
   "mood": [
@@ -8380,6 +8415,21 @@
       "slug": "meiri-xiezuo-xiguan-peiyang",
       "title": "每日写作习惯培养指南",
       "excerpt": "写作是自我梳理和深度思考的最佳方式。但如何从零开始培养每日写作的习惯？本文从最小行动法、内容来源、写作节奏、克服阻力四个维度，提供一套完整的日写习惯养成体系。"
+    },
+    {
+      "slug": "meiri-xiaoxiguan-zili-xunlian",
+      "title": "每日小习惯：用微习惯训练自律的实用方法",
+      "excerpt": "不是意志力不够，而是方法没用对。用微习惯策略轻松养成自律。"
+    },
+    {
+      "slug": "yujian-geng-hao-ziji-rensheng",
+      "title": "遇见更好的自己：人生持续成长的底层逻辑",
+      "excerpt": "真正的高手都在做长期主义——持续成长的四个核心法则。"
+    },
+    {
+      "slug": "shenghuo-jianfa-yishu-zhidao",
+      "title": "生活减法艺术：如何通过断舍离获得内心自由",
+      "excerpt": "物质过剩的时代，真正的幸福来自少而不是多。"
     }
   ]
 }
