@@ -5410,6 +5410,26 @@
       "slug": "minimalist-watch-collection",
       "title": "Building a Minimalist Watch Collection: 3 Essential Timepieces",
       "excerpt": "You only need three watches: a versatile dress watch, a rugged field watch, and an everyday tool watch. Here is how to choose each one for a curated, no-waste collection."
+    },
+    {
+      "slug": "tailored-chino-pants",
+      "title": "The Tailored Chino: Dress Pants Comfort, Casual Pants Versatility",
+      "excerpt": "From boardroom to barstool, the tailored chino bridges formal trousers and casual cotton pants. Discover fits, fabrics, and styling from Todd Snyder, Spier & Mackay, and Incotex."
+    },
+    {
+      "slug": "summer-cotton-wardrobe",
+      "title": "Summer Cotton Wardrobe: Building a Heat-Proof Capsule",
+      "excerpt": "Beat the heat without sacrificing style. A curated summer cotton capsule built around oxford cloth, linen-cotton blends, seersucker, and loopwheeled jersey from heritage mills."
+    },
+    {
+      "slug": "dress-shoe-care-guide",
+      "title": "Dress Shoe Care: From Goodyear Welted to Penny Loafers",
+      "excerpt": "Proper care extends the life of fine footwear dramatically. Learn to clean, condition, polish, and store Goodyear-welted oxfords, bluchers, loafers, and boots from Edward Green and Alden."
+    },
+    {
+      "slug": "lightweight-rain-jacket",
+      "title": "The Lightweight Rain Jacket: Style Meets Function",
+      "excerpt": "Modern lightweight rain jackets combine advanced fabric technology with thoughtful design. From Gore-Tex Shakedry to waxed cotton, find the perfect balance of weather protection and urban style."
     }
   ],
   "ops": [
@@ -7947,6 +7967,21 @@
       "slug": "linkedin-b2b-content-strategy",
       "title": "LinkedIn B2B Content Strategy: 5 Post Formats That Generate Leads",
       "excerpt": "A proven LinkedIn B2B content strategy with 5 post formats that generate real leads. Learn the exact frameworks to attract decision-makers, build authority, and fill your pipeline."
+    },
+    {
+      "slug": "content-upcycling-strategy",
+      "title": "Content Upcycling: Turn One Deep Dive Into a Month of Posts",
+      "excerpt": "Transform one comprehensive piece of content into a month's worth of posts across every channel. A systematic approach to content repurposing that saves time and maximizes reach."
+    },
+    {
+      "slug": "freelance-client-retention",
+      "title": "Client Retention for Freelancers: Beyond the First Project",
+      "excerpt": "Keeping clients long-term requires systems, not luck. A practical framework for freelancers to build lasting relationships that generate recurring revenue."
+    },
+    {
+      "slug": "micro-saas-bootstrapping",
+      "title": "Bootstrapping a Micro-SaaS: The Solo Developer's Playbook",
+      "excerpt": "A step-by-step playbook for solo developers building profitable micro-SaaS products without VC funding. From idea validation to first 100 customers."
     }
   ],
   "mood": [
@@ -10436,6 +10471,21 @@
       "slug": "solo-travel-remote-work",
       "title": "Solo Travel as a Remote Worker: What I Learned Living in 3 Cities",
       "excerpt": "Honest reflections on living and working remotely from three different cities — the loneliness, the growth, and what nobody tells you about being a digital nomad."
+    },
+    {
+      "slug": "analog-hobbies-creativity",
+      "title": "Analog Hobbies and the Creative Mind: Why Hands-On Still Matters",
+      "excerpt": "Rediscover the creative power of hands-on analog hobbies — from hand-stitching to whittling — and how slowing down with tactile work rewires your brain for deeper thinking."
+    },
+    {
+      "slug": "silent-walking-meditation",
+      "title": "Silent Walking: The Meditation Practice That Doesn't Feel Like Work",
+      "excerpt": "A meditation practice that asks nothing of you — no apps, no timers, no goals. Just walking in silence and letting your mind do what it needs to do."
+    },
+    {
+      "slug": "night-writing-ritual",
+      "title": "The Night Writing Ritual: How Late-Night Pages Rewired My Thinking",
+      "excerpt": "A simple practice of writing by lamplight when the world is asleep — no judgment, no editing, just pages that cleared my mind and rewired how I think."
     }
   ]
 }
