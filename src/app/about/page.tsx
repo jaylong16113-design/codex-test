@@ -12,22 +12,22 @@ export default function AboutPage() {
       {/* Subtle background */}
       <div className="pointer-events-none fixed inset-0 opacity-30"
         style={{
-          backgroundImage: "radial-gradient(circle, rgba(255,106,0,0.08) 1px, transparent 1px)",
+          backgroundImage: "radial-gradient(circle, rgba(216,255,0,0.08) 1px, transparent 1px)",
           backgroundSize: "34px 34px",
         }}
       />
-      <div className="pointer-events-none fixed left-[5%] top-[20%] size-96 rounded-full blur-3xl" style={{ background: "rgba(255,106,0,0.06)" }} />
-      <div className="pointer-events-none fixed right-[10%] bottom-[15%] size-80 rounded-full blur-3xl" style={{ background: "rgba(0,229,255,0.04)" }} />
+      <div className="pointer-events-none fixed left-[5%] top-[20%] size-96 hidden" style={{ background: "rgba(216,255,0,0.06)" }} />
+      <div className="pointer-events-none fixed right-[10%] bottom-[15%] size-80 hidden" style={{ background: "rgba(216,255,0,0.04)" }} />
 
       <div className="mx-auto max-w-4xl px-5 pb-20 pt-16 md:px-10 md:pt-24">
         {/* Header */}
         <div className="mb-12 text-center">
           <div
-            className="mx-auto mb-6 grid size-20 place-items-center rounded-full text-3xl font-bold"
+            className="mx-auto mb-6 grid size-20 place-items-center rounded-sm text-sm font-bold"
             style={{
-              background: "linear-gradient(135deg, #FF6A00, #FF8A2A)",
+              background: "linear-gradient(135deg, #D8FF00, #EFFF85)",
               color: "#fff",
-              boxShadow: "0 0 30px rgba(255,106,0,0.25)",
+              boxShadow: "none",
             }}
           >
             ✦
@@ -44,16 +44,16 @@ export default function AboutPage() {
         {/* Stats row */}
         <div className="mb-14 grid grid-cols-2 gap-4 md:grid-cols-4">
           {[
-            { value: "5+", label: "年开发经验", color: "#00E5FF" },
-            { value: "268+", label: "AI 生成文章", color: "#8B5CF6" },
-            { value: "4", label: "独立内容站", color: "#22C55E" },
-            { value: "100+", label: "社区成员", color: "#FF6A00" },
+            { value: "5+", label: "年开发经验", color: "#D8FF00" },
+            { value: "268+", label: "AI 生成文章", color: "#D8FF00" },
+            { value: "4", label: "独立内容站", color: "#D8FF00" },
+            { value: "100+", label: "社区成员", color: "#D8FF00" },
           ].map((s) => (
             <div
               key={s.label}
-              className="rounded-[24px] p-6 text-center"
+              className="rounded-sm p-6 text-center"
               style={{
-                background: "rgba(14,22,38,0.82)",
+                background: "rgba(14,15,14,0.94)",
                 border: "1px solid rgba(255,255,255,0.08)",
                 backdropFilter: "blur(12px)",
               }}
@@ -75,42 +75,42 @@ export default function AboutPage() {
               year: "2024 Q4",
               title: "项目启动",
               desc: "萌生一人公司内容矩阵的想法。目标是证明：一个人 + AI 工具链 = 可持续运营的多个内容站。从 AI 工具评测切入，搭建第一个站点。",
-              color: "#FF6A00",
+              color: "#D8FF00",
             },
             {
               year: "2025 Q1",
               title: "矩阵扩张",
               desc: "从 AI 工具站扩展到男装穿搭指南、一人公司运营日志。开始构建内部工具链——COMPASS 导航系统、FORGE 内容中台等，实现内容生产半自动化。",
-              color: "#00E5FF",
+              color: "#D8FF00",
             },
             {
               year: "2025 Q3",
               title: "技术升级",
               desc: "落地 AXIOM 社会推演引擎、LENS 竞品情报雷达、BLAZE 爆款复刻系统。内容生产流程全面升级，文章质量与数量同步提升。",
-              color: "#8B5CF6",
+              color: "#D8FF00",
             },
             {
               year: "2026 Q1",
               title: "情绪短视频站",
               desc: "新增情绪短视频内容站（Mood Video），探索 AI 虚拟人设 + 情感化内容在小红书的增长潜力。同时启动 NEBULA 品牌深度调研系统。",
-              color: "#22C55E",
+              color: "#D8FF00",
             },
             {
               year: "2026 Q2",
               title: "Present",
               desc: "四个内容站稳定运营，月均输出 60+ 篇 AI 辅助内容。7 个内部工具持续迭代，形成完整的一人公司技术中台。持续探索 AI 驱动的增长可能性。",
-              color: "#FF6A00",
+              color: "#D8FF00",
             },
           ].map((item) => (
             <div key={item.year} className="relative flex gap-6">
               {/* Timeline line */}
               <div className="flex flex-col items-center">
                 <div
-                  className="size-4 rounded-full ring-4"
+                  className="size-4 rounded-sm"
                   style={{
                     background: item.color,
                     outline: `4px solid ${item.color}33`,
-                    boxShadow: `0 0 12px ${item.color}44`,
+                    boxShadow: "none",
                   }}
                 />
                 <div
@@ -120,9 +120,9 @@ export default function AboutPage() {
               </div>
               {/* Content */}
               <div
-                className="mb-4 flex-1 rounded-[24px] p-6"
+                className="mb-4 flex-1 rounded-sm p-6"
                 style={{
-                  background: "rgba(14,22,38,0.82)",
+                  background: "rgba(14,15,14,0.94)",
                   border: "1px solid rgba(255,255,255,0.08)",
                   backdropFilter: "blur(12px)",
                 }}
@@ -146,9 +146,9 @@ export default function AboutPage() {
 
         {/* Tech stack */}
         <div
-          className="mb-14 rounded-[24px] p-8"
+          className="mb-14 rounded-sm p-8"
           style={{
-            background: "rgba(14,22,38,0.82)",
+            background: "rgba(14,15,14,0.94)",
             border: "1px solid rgba(255,255,255,0.08)",
             backdropFilter: "blur(12px)",
           }}
@@ -162,17 +162,17 @@ export default function AboutPage() {
           <div className="mt-6 grid grid-cols-2 gap-4 md:grid-cols-4">
             {[
               { name: "Next.js", desc: "App Router · SSG", color: "#fff" },
-              { name: "Tailwind CSS", desc: "暗色主题设计系统", color: "#00E5FF" },
-              { name: "TypeScript", desc: "全栈类型安全", color: "#3178C6" },
-              { name: "OpenAI API", desc: "内容生成 · 分析", color: "#22C55E" },
-              { name: "Vercel", desc: "部署 · 托管 · 分析", color: "#8B5CF6" },
-              { name: "GitHub", desc: "版本控制 · CI/CD", color: "#FF6A00" },
-              { name: "Python", desc: "数据处理 · 自动化", color: "#FFD43B" },
-              { name: "AI Agents", desc: "工作流自动化", color: "#FF6A00" },
+              { name: "Tailwind CSS", desc: "暗色主题设计系统", color: "#D8FF00" },
+              { name: "TypeScript", desc: "全栈类型安全", color: "#D8FF00" },
+              { name: "OpenAI API", desc: "内容生成 · 分析", color: "#D8FF00" },
+              { name: "Vercel", desc: "部署 · 托管 · 分析", color: "#D8FF00" },
+              { name: "GitHub", desc: "版本控制 · CI/CD", color: "#D8FF00" },
+              { name: "Python", desc: "数据处理 · 自动化", color: "#D8FF00" },
+              { name: "AI Agents", desc: "工作流自动化", color: "#D8FF00" },
             ].map((t) => (
               <div
                 key={t.name}
-                className="rounded-xl p-4"
+                className="rounded-sm p-4"
                 style={{
                   background: "rgba(255,255,255,0.03)",
                   border: "1px solid rgba(255,255,255,0.06)",
@@ -191,10 +191,10 @@ export default function AboutPage() {
 
         {/* Contact / Social */}
         <div
-          className="rounded-[24px] p-8 text-center"
+          className="rounded-sm p-8 text-center"
           style={{
-            background: "linear-gradient(135deg, rgba(255,106,0,0.10), rgba(14,22,38,0.82))",
-            border: "1px solid rgba(255,106,0,0.20)",
+            background: "linear-gradient(135deg, rgba(216,255,0,0.10), rgba(14,15,14,0.94))",
+            border: "1px solid rgba(216,255,0,0.20)",
             backdropFilter: "blur(12px)",
           }}
         >
@@ -206,13 +206,13 @@ export default function AboutPage() {
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-3">
             <a href="mailto:jaylong16113@gmail.com" className="btn-secondary px-5 py-2.5 text-sm">
-              📧 发送邮件
+              发送邮件
             </a>
             <a href="https://discord.gg/agentclaw" className="btn-secondary px-5 py-2.5 text-sm">
-              💬 Discord 社区
+              Discord 社区
             </a>
             <a href="https://github.com/jaylong16113-design" className="btn-secondary px-5 py-2.5 text-sm">
-              🐙 GitHub
+              GitHub
             </a>
             <a href="#subscribe" className="btn-primary px-5 py-2.5 text-sm">
               订阅更新
