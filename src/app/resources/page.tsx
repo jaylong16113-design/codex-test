@@ -10,8 +10,8 @@ const categories = [
   {
     id: 'ai-tools',
     name: 'AI 工具推荐',
-    icon: '🤖',
-    color: '#00E5FF',
+    icon: '01',
+    color: '#D8FF00',
     items: [
       { title: 'ChatGPT / GPT-4o', desc: '全能 AI 助手，内容生成、分析、翻译一应俱全', url: 'https://chat.openai.com' },
       { title: 'Claude', desc: '长文本理解与写作，适合深度内容创作', url: 'https://claude.ai' },
@@ -25,8 +25,8 @@ const categories = [
   {
     id: 'ops-templates',
     name: '运营模板',
-    icon: '📋',
-    color: '#22C55E',
+    icon: '02',
+    color: '#D8FF00',
     items: [
       { title: '内容排期表 Notion 模板', desc: '七天多平台内容排程模板，含 AI 提效节点', url: '#' },
       { title: 'SEO 文章检查清单', desc: '发布前的 SEO 自检清单，覆盖标题、Meta、关键词密度', url: '#' },
@@ -38,8 +38,8 @@ const categories = [
   {
     id: 'style-guides',
     name: '穿搭指南',
-    icon: '👔',
-    color: '#8B5CF6',
+    icon: '03',
+    color: '#D8FF00',
     items: [
       { title: '男士西装选购指南', desc: '从版型、面料、工艺到预算分配的完整指南', url: '/wear/first-suit-guide' },
       { title: '西装颜色搭配表', desc: '不同场合的西装颜色选择速查表', url: '/wear/suit-color-guide' },
@@ -51,8 +51,8 @@ const categories = [
   {
     id: 'mood-video',
     name: '情绪短视频资源',
-    icon: '🎬',
-    color: '#FF6A00',
+    icon: '04',
+    color: '#D8FF00',
     items: [
       { title: '情绪短视频脚本模板', desc: 'Hook → Mechanism → Demo → CTA 五步模板', url: '/mood/mood-video-script-guide' },
       { title: 'AI 虚拟人设构建指南', desc: '从人设定位到视觉统一的全流程', url: '#' },
@@ -64,8 +64,8 @@ const categories = [
   {
     id: 'recommended-reading',
     name: '推荐阅读',
-    icon: '📚',
-    color: '#FF6A00',
+    icon: '05',
+    color: '#D8FF00',
     items: [
       { title: '一人公司实践指南', desc: '从技术选型到增长策略的系统性思考', url: '/ops/what-is-solo-company' },
       { title: 'AI Agent 工作流指南', desc: '如何用 AI Agent 搭建自动化工作流', url: '/tool/ai-agent-workflows-solopreneur' },
@@ -77,8 +77,8 @@ const categories = [
   {
     id: 'downloads',
     name: '可下载资源',
-    icon: '📦',
-    color: '#00E5FF',
+    icon: '06',
+    color: '#D8FF00',
     items: [
       { title: '一人公司启动 Checklist', desc: '从 0 开始搭建一人公司内容系统的完整清单', url: '#' },
       { title: 'AI Prompt 合集', desc: '30+ 经过验证的 AI 写作/分析 Prompt', url: '#' },
@@ -94,17 +94,17 @@ export default function ResourcesPage() {
       {/* Background decoration */}
       <div className="pointer-events-none fixed inset-0 opacity-30"
         style={{
-          backgroundImage: "radial-gradient(circle, rgba(255,106,0,0.08) 1px, transparent 1px)",
+          backgroundImage: "radial-gradient(circle, rgba(216,255,0,0.08) 1px, transparent 1px)",
           backgroundSize: "34px 34px",
         }}
       />
-      <div className="pointer-events-none fixed right-[8%] top-[10%] size-72 rounded-full blur-3xl" style={{ background: "rgba(0,229,255,0.05)" }} />
-      <div className="pointer-events-none fixed left-[5%] bottom-[20%] size-64 rounded-full blur-3xl" style={{ background: "rgba(139,92,246,0.04)" }} />
+      <div className="pointer-events-none fixed right-[8%] top-[10%] size-72 hidden" style={{ background: "rgba(216,255,0,0.05)" }} />
+      <div className="pointer-events-none fixed left-[5%] bottom-[20%] size-64 hidden" style={{ background: "rgba(216,255,0,0.04)" }} />
 
       <div className="mx-auto max-w-5xl px-5 pb-20 pt-16 md:px-10 md:pt-24">
         {/* Header */}
         <div className="mb-12">
-          <p className="mb-2 text-xs font-semibold uppercase tracking-[0.25em]" style={{ color: "#FF6A00" }}>
+          <p className="mb-2 text-xs font-semibold uppercase tracking-[0.25em]" style={{ color: "#D8FF00" }}>
             Resources
           </p>
           <h1 className="font-display text-4xl font-bold md:text-5xl" style={{ color: "#fff" }}>
@@ -137,9 +137,9 @@ export default function ResourcesPage() {
                     href={item.url}
                     target={item.url.startsWith('http') && !item.url.startsWith('/') ? '_blank' : undefined}
                     rel={item.url.startsWith('http') && !item.url.startsWith('/') ? 'noopener noreferrer' : undefined}
-                    className="group block rounded-[20px] p-5 no-underline transition-all duration-300 hover:-translate-y-0.5"
+                    className="group block rounded-sm p-5 no-underline transition-all duration-300 hover:-translate-y-0.5"
                     style={{
-                      background: "rgba(14,22,38,0.82)",
+                      background: "rgba(14,15,14,0.94)",
                       border: "1px solid rgba(255,255,255,0.08)",
                       backdropFilter: "blur(12px)",
                     }}
@@ -147,7 +147,7 @@ export default function ResourcesPage() {
                     <div className="flex items-start justify-between gap-3">
                       <div className="min-w-0 flex-1">
                         <h3
-                          className="text-sm font-semibold transition-colors group-hover:text-[#FF6A00]"
+                          className="text-sm font-semibold transition-colors group-hover:text-[#D8FF00]"
                           style={{ color: "#fff" }}
                         >
                           {item.title}
@@ -175,10 +175,10 @@ export default function ResourcesPage() {
 
         {/* CTA */}
         <div
-          className="mt-14 rounded-[24px] p-8 text-center"
+          className="mt-14 rounded-sm p-8 text-center"
           style={{
-            background: "linear-gradient(135deg, rgba(255,106,0,0.10), rgba(14,22,38,0.82))",
-            border: "1px solid rgba(255,106,0,0.20)",
+            background: "linear-gradient(135deg, rgba(216,255,0,0.10), rgba(14,15,14,0.94))",
+            border: "1px solid rgba(216,255,0,0.20)",
             backdropFilter: "blur(12px)",
           }}
         >
@@ -190,7 +190,7 @@ export default function ResourcesPage() {
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-3">
             <a href="mailto:jaylong16113@gmail.com" className="btn-secondary px-5 py-2.5 text-sm">
-              📧 推荐资源
+              推荐资源
             </a>
             <a href="#subscribe" className="btn-primary px-5 py-2.5 text-sm">
               订阅更新通知
