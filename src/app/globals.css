@@ -137,6 +137,13 @@ main [style*="#3178C6"], main [style*="#FFD43B"], main [style*="#5e6ad2"], main 
   main > div:not([class*="min-h-screen"]) section[class*="bg-gradient"], main > div > section.relative.-mx-4 { min-height: 320px; }
   main > div:not([class*="min-h-screen"]) > section > div.relative, main > div:not([class*="min-h-screen"]) > section[class*="bg-gradient"] > div { padding: 3.5rem 1.25rem !important; }
 }
+
+@media (min-width: 1024px) {
+  .site-header nav > div:last-child > button:last-child { display: none !important; }
+}
+@media (max-width: 639px) {
+  .site-header nav > div:last-child > a[href="#subscribe"] { display: none !important; }
+}
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; }
 }
