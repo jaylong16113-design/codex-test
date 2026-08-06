@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { headers } from "next/headers";
+import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import { I18nProvider } from "@/lib/i18n/i18n";
 import Header from "@/components/Header";
@@ -48,6 +49,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="alternate" hrefLang="x-default" href="https://agentclaw.sale/en/" />
       </head>
       <body className="antialiased" style={{background: "hsl(var(--background))", color: "hsl(var(--foreground))"}}>
+        <Analytics />
         <I18nProvider>
           <Header />
           <main>{children}</main>
